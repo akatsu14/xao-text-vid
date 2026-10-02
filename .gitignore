@@ -1,0 +1,42 @@
+# Local credentials and private setup notes
+.env
+.env.*
+!.env.example
+api.txt
+cookies.txt
+guide.txt
+*.pem
+*.key
+
+# Python environments and caches
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Inputs, generated outputs, and temporary working data
+Input/
+output/
+logs/
+subs_tmp/
+tmp/
+texts/
+quilbot/
+specific_template/
+specific_template copy/
+id_folder/
+failed_links.txt
+success_links.txt
+
+# Bundled game installation and archives
+QSanguosha-LangKhach-QuocChien-2.3.41.2/
+*.zip
+*.7z
+*.rar

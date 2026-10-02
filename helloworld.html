@@ -1,0 +1,46 @@
+<html>
+
+<head>
+    <title>Hello World</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Hello World</h1>
+    <input type="number" placeholder="Enter a" id="aInput">
+    +
+    <input type="number" placeholder="Enter b" id="bInput">
+    =
+    <button onclick="tinhTong()">
+        Click Me
+    </button>
+    <script>
+        // You can also add JavaScript here if needed
+        function tinhTong() {
+            let a = parseFloat(document.getElementById('aInput').value);
+            let b = parseFloat(document.getElementById('bInput').value);
+            let ketQua = tong(a, b);
+            alert('Kết quả là: ' + ketQua);
+        }
+
+
+        function tong(a, b) {
+            return a + b;
+        }
+    </script>
+</body>
+
+</html>

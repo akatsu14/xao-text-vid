@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Betty White",
+    "opened": true
+  },
+  {
+    "name": "Björn Ulvaeus",
+    "opened": true
+  },
+  {
+    "name": "Blake Lively & Ryan Reynolds",
+    "opened": true
+  },
+  {
+    "name": "Bob Dylan",
+    "opened": true
+  },
+  {
+    "name": "Brad Pitt",
+    "opened": true
+  },
+  {
+    "name": "Brooke Shields",
+    "opened": true
+  },
+  {
+    "name": "Burt Lancaster",
+    "opened": true
+  },
+  {
+    "name": "Carrie Underwood",
+    "opened": true
+  },
+  {
+    "name": "Carroll O’Connor",
+    "opened": true
+  },
+  {
+    "name": "Christopher Walken",
+    "opened": true
+  },
+  {
+    "name": "Connie Francis",
+    "opened": true
+  },
+  {
+    "name": "Connie Stevens",
+    "opened": true
+  },
+  {
+    "name": "Crystal Gayle",
+    "opened": true
+  },
+  {
+    "name": "Danielle Colby",
+    "opened": true
+  },
+  {
+    "name": "David Cassidy",
+    "opened": true
+  },
+  {
+    "name": "Dean Butler",
+    "opened": true
+  },
+  {
+    "name": "Denzel Washington",
+    "opened": true
+  },
+  {
+    "name": "Desi Arnaz Jr.",
+    "opened": true
+  },
+  {
+    "name": "Diana Ross",
+    "opened": true
+  },
+  {
+    "name": "Don Rickles",
+    "opened": true
+  },
+  {
+    "name": "Dorothy Stratten",
+    "opened": true
+  },
+  {
+    "name": "E.A. Hanks",
+    "opened": true
+  },
+  {
+    "name": "Ed Asner",
+    "opened": true
+  },
+  {
+    "name": "Elton John",
+    "opened": true
+  },
+  {
+    "name": "Eric Clapton",
+    "opened": true
+  },
+  {
+    "name": "Farrah Fawcett",
+    "opened": true
+  },
+  {
+    "name": "Frank Sinatra",
+    "opened": true
+  },
+  {
+    "name": "Fred Rogers",
+    "opened": true
+  },
+  {
+    "name": "Gal Gadot",
+    "opened": true
+  },
+  {
+    "name": "Gene Hackman",
+    "opened": true
+  },
+  {
+    "name": "George Harrison",
+    "opened": true
+  },
+  {
+    "name": "George Jones & Tammy Wynette",
+    "opened": true
+  },
+  {
+    "name": "George Strait",
+    "opened": true
+  },
+  {
+    "name": "Gerard Butler",
+    "opened": true
+  },
+  {
+    "name": "Ginger Alden",
+    "opened": true
+  },
+  {
+    "name": "Golden Age Stars",
+    "opened": true
+  },
+  {
+    "name": "Greg Gutfeld",
+    "opened": true
+  },
+  {
+    "name": "Harrison Ford",
+    "opened": true
+  },
+  {
+    "name": "Helen Mirren",
+    "opened": true
+  },
+  {
+    "name": "Hulk Hogan",
+    "opened": true
+  },
+  {
+    "name": "Jay Leno",
+    "opened": true
+  },
+  {
+    "name": "Jim Carrey",
+    "opened": true
+  },
+  {
+    "name": "Joanne Woodward",
+    "opened": true
+  },
+  {
+    "name": "John Conlee",
+    "opened": true
+  },
+  {
+    "name": "John Denver",
+    "opened": true
+  },
+  {
+    "name": "John Goodman",
+    "opened": true
+  },
+  {
+    "name": "John Wayne",
+    "opened": true
+  },
+  {
+    "name": "Karen Carpenter",
+    "opened": false
+  },
+  {
+    "name": "Karoline Leavitt",
+    "opened": false
+  },
+  {
+    "name": "Kate Middleton",
+    "opened": false
+  },
+  {
+    "name": "Kathy Bates",
+    "opened": false
+  },
+  {
+    "name": "Keanu Reeves",
+    "opened": false
+  },
+  {
+    "name": "Keely Shaye",
+    "opened": false
+  },
+  {
+    "name": "Kelsey Grammer",
+    "opened": false
+  },
+  {
+    "name": "Kenny Rogers",
+    "opened": false
+  },
+  {
+    "name": "Lauren Bacall",
+    "opened": false
+  },
+  {
+    "name": "Lauren Tewes",
+    "opened": false
+  },
+  {
+    "name": "Leona Williams",
+    "opened": false
+  },
+  {
+    "name": "Leonardo DiCaprio & Kate Winslet",
+    "opened": false
+  },
+  {
+    "name": "Linda Gray",
+    "opened": false
+  },
+  {
+    "name": "Linda Ronstadt",
+    "opened": false
+  },
+  {
+    "name": "Lorne Greene",
+    "opened": false
+  },
+  {
+    "name": "Madonna",
+    "opened": false
+  },
+  {
+    "name": "Mariah Carey",
+    "opened": false
+  },
+  {
+    "name": "Marilyn Monroe",
+    "opened": false
+  },
+  {
+    "name": "Marlon Brando",
+    "opened": false
+  },
+  {
+    "name": "Marvin Gaye",
+    "opened": false
+  },
+  {
+    "name": "Mary Austin",
+    "opened": false
+  },
+  {
+    "name": "Matthew McConaughey",
+    "opened": false
+  },
+  {
+    "name": "Maureen Cox",
+    "opened": false
+  },
+  {
+    "name": "Michael Anthony",
+    "opened": false
+  },
+  {
+    "name": "Michael Jackson",
+    "opened": false
+  },
+  {
+    "name": "Michelle Pfeiffer",
+    "opened": false
+  },
+  {
+    "name": "Mrs. Brown’s Boys Cast",
+    "opened": false
+  },
+  {
+    "name": "Naomi Watts",
+    "opened": false
+  },
+  {
+    "name": "Nicole Kidman",
+    "opened": false
+  },
+  {
+    "name": "Olivia Newton-John",
+    "opened": false
+  },
+  {
+    "name": "Ozzy Osbourne",
+    "opened": false
+  },
+  {
+    "name": "Pat Sajak",
+    "opened": false
+  },
+  {
+    "name": "Penélope Cruz",
+    "opened": false
+  },
+  {
+    "name": "Pernell Roberts",
+    "opened": false
+  },
+  {
+    "name": "Peter Falk",
+    "opened": false
+  },
+  {
+    "name": "Piers Morgan",
+    "opened": false
+  },
+  {
+    "name": "Queen Camilla",
+    "opened": false
+  },
+  {
+    "name": "Rachel Zegler",
+    "opened": false
+  },
+  {
+    "name": "Ralph Macchio",
+    "opened": false
+  },
+  {
+    "name": "Reese Witherspoon",
+    "opened": false
+  },
+  {
+    "name": "Richard Gere",
+    "opened": false
+  },
+  {
+    "name": "Riley Keough",
+    "opened": false
+  },
+  {
+    "name": "Ringo Starr",
+    "opened": false
+  },
+  {
+    "name": "Rob Reiner",
+    "opened": false
+  },
+  {
+    "name": "Robert Urich",
+    "opened": false
+  },
+  {
+    "name": "Robert Wagner",
+    "opened": false
+  },
+  {
+    "name": "Roy Orbison",
+    "opened": false
+  },
+  {
+    "name": "Roy Rogers",
+    "opened": false
+  },
+  {
+    "name": "Russell Crowe",
+    "opened": false
+  },
+  {
+    "name": "Ryan O’Neal",
+    "opened": false
+  },
+  {
+    "name": "Sammo Hung",
+    "opened": false
+  },
+  {
+    "name": "Sandra Bullock",
+    "opened": false
+  },
+  {
+    "name": "Sheryl Crow",
+    "opened": false
+  },
+  {
+    "name": "Sophia Loren",
+    "opened": false
+  },
+  {
+    "name": "Steve Perry",
+    "opened": false
+  },
+  {
+    "name": "Susan Dey",
+    "opened": false
+  },
+  {
+    "name": "Susan Seaforth Hayes",
+    "opened": false
+  },
+  {
+    "name": "Sylvester Stallone",
+    "opened": false
+  },
+  {
+    "name": "Taylor Swift",
+    "opened": false
+  },
+  {
+    "name": "The Golden Girls",
+    "opened": false
+  },
+  {
+    "name": "Tim Allen",
+    "opened": false
+  },
+  {
+    "name": "Tina Turner",
+    "opened": false
+  },
+  {
+    "name": "Tippi Hedren",
+    "opened": false
+  },
+  {
+    "name": "Victoria Principal",
+    "opened": false
+  },
+  {
+    "name": "Vivian Vance",
+    "opened": false
+  },
+  {
+    "name": "Warren Beatty",
+    "opened": false
+  },
+  {
+    "name": "Whitney Houston",
+    "opened": false
+  }
+]
