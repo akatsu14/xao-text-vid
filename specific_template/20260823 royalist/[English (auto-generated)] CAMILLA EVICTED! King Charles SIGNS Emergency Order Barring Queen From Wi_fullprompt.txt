@@ -1,0 +1,494 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: 20260823 royalist/[English (auto-generated)] CAMILLA EVICTED! King Charles SIGNS Emergency Order Barring Queen From Wi.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience:
+- Primary angle / thesis:
+- Must-include points (3–8 bullets max):
+- Keywords / entities to emphasize:
+- Things to avoid / do-not-claim:
+- Output constraints (optional):
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+The heavy, gold-embossed parchment sat
+upon the mahogany desk inside the King's
+private study. Its crisp surface bearing
+the formal seal of the sovereign.
+Outside, the rain lashed against the
+tall stained glass windows of Buckingham
+Palace, matching the dark turbulent
+storm that had taken root within the
+heart of the British royal family. In an
+unprecedented exercise of royal
+authority, King Charles picked up his
+fountain pen and executed a legally
+binding emergency eviction order.
+This singular decree immediately and
+permanently barred Queen Camilla from
+setting foot on any portion of the
+historic Windsor estate. This was not a
+temporary cooling-off period designed by
+press officers to placate the media. Nor
+was it a diplomatic separation framed as
+a quiet retreat to the countryside. It
+was a swift, unyielding, and absolute
+banishment triggered by an intolerable
+line being crossed, a secret hostile
+incident involving 8-year-old Prince
+Louis that shattered the palace
+hierarchy and pushed the House of
+Windsor past the point of no return.
+Within seconds of the King's signature
+being affixed to the document, royal
+protection officers and senior household
+administrators were dispatched under
+strict confidentiality,
+instructed to enforce the sovereign's
+directive with immediate and clinical
+precision. The message echoing through
+the long tapestry-lined
+corridors of Windsor Castle, Buckingham
+Palace, and Clarence House was
+terrifying in its absolute clarity. No
+title, no elevated rank, and no crown
+would ever protect anyone who targeted
+the young prince or threatened the
+emotional stability of the future line
+of succession. To fully comprehend how
+the monarchy reached this moment of
+absolute structural rupture, one must
+retrace the events back to the secluded
+grounds of the Windsor estate just 48
+hours prior to the signing of the
+decree. What was intended to be a quiet,
+unscripted afternoon for the royal
+children on the manicured lawns
+surrounding Adelaide Cottage descended
+into an explosive confrontation when
+Queen Camilla initiated a calculated,
+aggressive interaction with Prince Louis
+away from the direct sight of senior
+courtiers and personal protection
+officers.
+Camilla attempted to exert physical and
+psychological authority over the young
+prince. Witnesses among the household
+staff later testified that Camilla
+attempted to restrict the boy's movement
+issuing a harsh, intimidating reprimand
+over alleged breaches of royal protocol
+and informal conduct. When Prince Louis,
+visibly frightened and overwhelmed by
+the sudden hostility, attempted to pull
+away and retreat toward the safety of
+his home, Camilla reportedly intervened
+in a manner that crossed every
+established boundary of familial safety
+and basic human dignity. Princess
+Catherine, attending to household duties
+inside Adelaide Cottage, stepped out
+onto the veranda just as the encounter
+reached its dangerous climax. Seeing her
+youngest son trembling, crying, and
+visibly cornered by the Queen Consort,
+the Princess of Wales acted with pure,
+instinctual motherly fury. Walking
+rapidly across the lawn, Catherine
+placed her physical body directly
+between Camilla and Prince Louis,
+shielding her young son behind her while
+delivering a cold, quiet, and unyielding
+warning to the Queen Consort. In that
+single, electric moment under the open
+Windsor sky, the fragile, unspoken truce
+that had maintained operational peace
+between Kensington Palace and Clarence
+House for years was permanently
+destroyed. Catherine did not engage in a
+loud public shouting match. Instead, she
+fixed Camilla with a look of absolute
+steel,
+making it crystal clear that her status
+as Queen Consort would never shield her
+from the devastating consequences of
+intimidating a child who represents the
+absolute future of the British Crown.
+The immediate aftermath of the garden
+confrontation moved with terrifying
+speed and tactical focus. Catherine
+escorted Prince Louis safely back inside
+Adelaide Cottage, comforting him and
+ensuring his emotional well-being before
+placing an urgent direct call to Prince
+William. When the Prince of Wales
+returned to the estate and was briefed
+on the details of the harrowing
+encounter, his reaction was one of pure
+protective rage. Having lived through
+the volatile internal politics, press
+leaks, and emotional instability of his
+own childhood within the rigid royal
+system,
+William had sworn an absolute oath to
+protect his own children from ever
+experiencing fear, intimidation, or
+political manipulation inside their own
+home.
+>> [snorts]
+>> Bypassing all traditional palace
+mediators, communications teams, and
+private secretaries, William personally
+demanded an immediate emergency audience
+with King Charles. When Prince William
+arrived at Buckingham Palace later that
+evening, he did not come to negotiate,
+seek a diplomatic compromise, or accept
+a polite apology.
+He entered the King's study with a
+stark, non-negotiable dossier containing
+signed, documented statements from
+household staff and personal protection
+officers who had witnessed the
+altercation in the garden. William
+presented his father with a clear,
+devastating ultimatum.
+If Charles did not take immediate,
+legally binding action to remove Queen
+Camilla permanently from the Windsor
+grounds, William and Catherine would
+take unprecedented steps.
+They threatened to immediately suspend
+all official royal duties, permanently
+shut down their public engagements, and
+publicly declare a total operational
+severance from the House of Windsor.
+Facing the real and immediate prospect
+of his reign being instantly crippled by
+the public departure of the two most
+popular and vital figures in the
+monarchy, King Charles realized he was
+standing on the precipice of an absolute
+institutional catastrophe. The sovereign
+was forced to confront the harsh,
+agonizing reality that his primary
+responsibility lay not in preserving the
+personal comfort of his wife,
+but in protecting his heir, his
+grandson, and the long-term survival of
+the crown itself. The legal mechanics
+behind the emergency eviction order were
+drafted under extreme secrecy by senior
+constitutional lawyers and legal
+advisers to the Duchy.
+Under the King's direct instruction, the
+document was crafted to be completely
+airtight, explicitly naming Queen
+Camilla and revoking her residential
+access, administrative authority, and
+visiting privileges across the entire
+expanse of the Windsor estate, including
+Windsor Castle, Royal Lodge, Adelaide
+Cottage, and the surrounding private
+parklands.
+The legal order made it impossible for
+Camilla to enter the estate grounds
+without prior written clearance
+authorized by both the sovereign and the
+Prince of Wales, effectively placing the
+historic heart of the monarchy
+completely off-limits to the Queen
+Consort.
+When the legal decree was formally
+served to Queen Camilla in her private
+sitting room at Clarence House, her
+reaction was one of sheer disbelief,
+panic, and overwhelming fury. The Queen
+Consort demanded an immediate private
+face-to-face meeting with Charles,
+attempting to dismiss the garden
+incident as a harmless disciplinary
+moment
+that had been blown drastically out of
+proportion by an overly protective
+mother. But, when she confronted the
+sovereign in his private quarters,
+she was met not with the gentle,
+yielding husband she was accustomed to
+managing, but with the cold, absolute
+resolve of the King of England. Charles
+informed her in quiet, devastating terms
+that her conduct toward Prince Louis was
+fundamentally unpardonable. He made it
+plain that her actions had threatened
+the core unity of the royal family,
+stating that her continued presence on
+the Windsor estate posed a direct threat
+to the stability of his reign and the
+continuity of the throne. The physical
+execution of the eviction order was
+carried out with clinical efficiency.
+Within hours of the final confrontation,
+royal protection officers and senior
+household staff supervised the packing
+of Camilla's personal belongings and
+private files.
+Under heavy security protocols, a convoy
+of dark vehicles escorted the Queen
+Consort off the Windsor premises,
+banishing her to Ray Mill House, her
+private personal estate in Wiltshire.
+She was officially stripped of her
+administrative access to Windsor
+planning sessions, removed from internal
+royal scheduling calendars, and barred
+from attending any upcoming family
+gatherings or ceremonial events hosted
+on the estate grounds.
+The sheer speed and severity of
+Camilla's banishment sent shockwaves
+through every layer of the royal
+establishment.
+Senior courtiers, veteran private
+secretaries, and palace staff who had
+spent decades navigating the complex
+power dynamics of Buckingham Palace
+watched in absolute awe.
+The King's action signaled an
+undeniable, permanent shift in the
+internal hierarchy.
+the line of succession represented by
+William, Catherine, and their three
+children held total unquestioned
+supremacy over the standing of the Queen
+Consort.
+The message was unmistakable to everyone
+working within the royal framework.
+Those who stood against Kensington
+Palace [music]
+were aligning themselves against the
+future of the British monarchy. As the
+heavy iron gates of Windsor Castle
+locked behind Camilla's departing
+motorcade,
+a profound sense of relief and quiet
+authority swept through Adelaide Cottage
+and the surrounding estate.
+Having successfully protected her son
+from internal hostility,
+Princess Catherine moved with incredible
+speed to consolidate control over the
+daily operations of the royal household.
+She personally summoned every staff
+member, personal protection officer, and
+administrator assigned to the Windsor
+grounds, issuing a new set of
+uncompromising operational protocols.
+Henceforth, no member of the extended
+royal family or senior court could
+approach Prince George, Princess
+Charlotte, or Prince Louis without
+direct, explicit, written authorization
+from Kensington Palace. Catherine
+established an impenetrable security
+perimeter around her children,
+proving to the court and the nation that
+her motherly instincts were backed by an
+iron willpower capable of reshaping the
+highest levels of royal authority.
+The psychological well-being of Prince
+Louis was handled with immediate,
+devoted care by both his parents.
+Surrounded by the warmth and security of
+Adelaide Cottage, the young prince was
+carefully insulated from the intense
+political storm brewing across the wider
+royal estates.
+William and Catherine made it their
+absolute priority to ensure that their
+home remained a sanctuary of safety,
+joy, and emotional stability.
+Within days of the incident, Prince
+Louis was seen laughing and playing
+happily in the private gardens alongside
+his brother and sister, completely
+unaware of the massive historical battle
+that had been fought behind closed doors
+to guarantee his protection.
+The image of a happy, secure Prince
+Louis served as a quiet, victorious
+statement of Catherine's total triumph
+over palace hostility. In the private
+corridors of power, the realignment of
+loyalty was immediate and absolute.
+High-ranking press officers, strategic
+advisers, and private secretaries
+who had previously tried to balance
+their allegiance between Clarence House
+and Kensington Palace immediately
+shifted their full loyalty to Prince
+William and Princess Catherine. The
+eviction order proved beyond a shadow of
+a doubt that political power had
+migrated away from Queen Camilla and
+settled firmly into the hands of the
+future king and queen.
+Isolated at her Wiltshire retreat,
+Camilla found her political influence
+inside the monarchy effectively
+neutralized, her daily operational
+authority stripped away,
+and her public role reduced to a
+distant, tightly controlled formality.
+The resolution of this historic crisis
+marked an irreversible turning point for
+the modern British monarchy.
+King Charles's decisive signature on the
+emergency eviction decree demonstrated
+that when forced to make a choice,
+the sovereign chose the preservation of
+his family's bloodline and public trust
+over personal loyalty.
+Princess Catherine emerged from the
+ordeal not merely as a graceful, popular
+royal figure, but as the supreme,
+unyielding matriarch of the House of
+Windsor.
+By taking a stand that resulted in the
+direct banishment of Queen Camilla from
+the historic heart of the monarchy.
+Catherine sent an eternal message to the
+country and the world.
+Her children are fiercely protected, her
+authority is absolute, and the future of
+the crown is guarded by a mother whose
+strength will never bend.
+Beyond the immediate walls of the royal
+residences, the strategic implications
+of this expulsion began to reverberate
+through every diplomatic and official
+channel tied to the British crown.
+With Queen Camilla effectively removed
+from the operational hub of the Windsor
+estate, senior aides were forced to
+quietly redraw the organizational maps
+of upcoming state events, royal tours,
+and official receptions.
+Every calendar entry that had previously
+included joint participation between
+Clarence House and Kensington Palace was
+systematically revised under the direct
+supervision of Princess Catherine's
+private staff. Courtiers who had once
+operated with impunity under Camilla's
+patronage quickly realized that her
+banishment was not a passing storm,
+but a permanent recalibration of power.
+The Princess of Wales made it abundantly
+clear that access to the inner workings
+of the royal household was a privilege
+reserved exclusively for those who
+demonstrated complete loyalty to the
+future of the monarchy. In Wiltshire, at
+Ray Mill House, the stark reality of her
+banishment began to set in for Queen
+Camilla.
+Stripped of her daily access to the
+King's strategic [music] briefings and
+isolated from the core machinery of
+Buckingham Palace,
+she found herself powerless to reverse
+the legal mandate signed by her husband.
+Her attempts to reach out through
+intermediary diplomatic channels were
+met with polite, unyielding refusals
+from Kensington Palace.
+Princess Catherine had constructed an
+impenetrable wall of authority, ensuring
+that no informal appeals or palace back
+channel negotiations could undermine the
+security of her home or the protection
+of Prince Louis.
+The Queen Consort was left to
+contemplate the sudden collapse of her
+institutional influence, coming to terms
+with the fact that her standing in the
+royal household had been permanently
+diminished by a mother's fierce,
+uncompromising resolve.
+As the weeks progressed, the atmosphere
+around the Windsor grounds transformed
+into one of unprecedented calm and
+order.
+The staff at Adelaide Cottage operated
+under the clear, confident leadership of
+William and Catherine, who had
+successfully demonstrated that the
+emotional security of their children
+would always take precedence over
+institutional convenience.
+Prince Louis, completely protected from
+the political fallout, continued his
+daily routine with the buoyant energy
+and joyful spirit that had endeared him
+to millions around the world. Every
+outing, every family appearance, and
+every private moment spent on the estate
+grounds served as a living testament to
+the victory achieved by Princess
+Catherine.
+She had not only defended her son from
+an unthinkable threat,
+but had also asserted herself as the
+true de facto matriarch of the House of
+Windsor, a leader who holds the
+authority, the discipline, and the
+unyielding willpower to guide the
+British monarchy into its next era.
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

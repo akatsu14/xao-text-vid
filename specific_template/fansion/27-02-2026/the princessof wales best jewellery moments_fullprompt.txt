@@ -1,0 +1,117 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: fansion/27-02-2026/the princessof wales best jewellery moments.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience: Luxury fashion readers; royal style followers; high jewellery enthusiasts; women 25–55 interested in heritage brands, bridal jewellery trends, and symbolic styling; fashion media editors.
+- Primary angle / thesis: A deep-dive into how the Princess of Wales uses jewellery not merely as adornment, but as strategic visual storytelling — blending royal heritage, sentimental symbolism, and modern fashion diplomacy to shape her global image.
+- Must-include points (3–8 bullets max):
++ Fan reactions on social media (Wimbledon look, Bond premiere, Coronation moment)
++ Commentary from a fashion analyst on how her jewellery reinforces monarchy soft power
+- Keywords / entities to emphasize: Catherine, Princess of Wales, Prince William, Queen Elizabeth II, King Charles III, Garrard, Cartier Halo Tiara, Cambridge Lover’s Knot Tiara, Nizam of Hyderabad Necklace, Lotus Flower Tiara, Alexander McQueen, Van Cleef & Arpels, Robinson Pelham, royal jewellery moments, coronation style, Wimbledon fashion.
+- Things to avoid / do-not-claim:
++ Avoid speculative claims about inheritance disputes or private royal finances
++ Do not frame jewellery as political endorsement unless officially confirmed
++ Avoid unverified pricing unless publicly disclosed
++ Do not imply rivalry narratives without evidence
++ Avoid sensational tone; maintain editorial credibility
+- Output constraints (optional):
++ Max 2000 words
++ Editorial magazine tone (luxury publication style)
++ Include 3–5 embedded fan reaction quotes (paraphrased)
++ Include at least 2 fashion analyst insights (quoted expert-style commentary)
++ Balanced mix of historical context + contemporary relevance
++ Structured with subheadings per jewellery era or category
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+Celebrity
+The Princess of Wales’ best jewellery moments
+As she celebrates her 43rd birthday, we count down Kate Middleton's best jewellery moments, from her sparkling Alexander McQueen Coronation headdress to her Garrard sapphire engagement ring and Cartier halo wedding tiara
+The Princess of Wales, AKA Kate Middleton, celebrates her 43rd birthday today, so we’re taking a look back at some of her brightest and best jewellery moments from over the years. Sit back (maybe with a slice of cake?), relax and feast your eyes on these fantastic bejewelled baubles…
+
+Topaz Earrings
+During last year’s annual Royal Family’s Christmas Day Church service at St Mary Magdalene Church in Sandringham, Kate wore a pair of earrings by one of her favourite British designers, Robinson Pelham.
+
+The Daystar Diamond earrings, which cost £5,995, feature a pair of shield-shaped blue topaz and crescent-shaped topaz (for a total of roughly 10 carats), framed in 14k yellow gold and ringed with white diamonds, their claw settings designed to resemble stars.
+
+Mulberry Pearl Earrings
+To host her annual carol service at Westminster Abbey in 2024, the Princess of Wales gleamed in a pair of $225 baroque pearl and gold-coloured metal ‘Amberley’ earrings from British brand Mulberry. The set features a distinctive lock-shaped gold link as a nod to the clasp on the label’s iconic Amberley handbags.
+
+The Princess of Wales attended the Men’s Singles Final at Wimbledon 2024 wearing this pair of gold ‘Sabine’ hoop earrings by contemporary jewellery brand, By Pariah. The fabulous chunky hoops, which cost £400, are a bestseller for the London-based maker and are crafted with recycled Sterling silver and 14k gold vermeil.
+
+The Coronation Headdress
+A more informal, tiara-less vibe may have ruled over the Coronation of King Charles III and Queen Camilla in the summer of 2023, but the new Princess of Wales played an absolute blinder in an ornate beaded silver headdress by Alexander McQueen and milliner Jess Collett (which purportedly cost around £30,000 to make). She paired it with diamond and South Sea pearl earrings which once belonged to her late mother-in-law, Princess Diana.
+
+The Garrard Engagement Ring
+In 2010, Prince William proposed to Kate in Kenya with this 12-carat, oval-cut Ceylon sapphire ring that once belonged to his mother, Diana, Princess of Wales, and unknowingly kickstarted a trend for colourful gemstone engagement rings which is still going strong today. Designed by Garrard, the iconic sparkler is surrounded by 14 solitaire diamonds and set in white gold. Kate is reported to have had the ring slightly resized, adding platinum beads within the band to reduce its diameter.
+
+The Cartier Halo Tiara
+You could have heard the nation’s collective sighs from outer space when the former Kate Middleton appeared in her lacy Alexander McQueen gown and the Cartier Halo tiara on her wedding day in 2011. The diadem was famously lent to her (her ‘something borrowed’) by Queen Elizabeth II and was set with 739 brilliant-cut diamonds and 149 baguette diamonds. Its origins date back to 1936, when George VI commissioned Cartier to create the diadem with the diamonds and platinum he had purchased for his wife three weeks before he became King George VI. Kate teamed the tiara with a pair of diamond drop earrings from Robinson Pelham, which were a wedding gift from her parents.
+
+The Van Cleef & Arpels’ Alhambra Suite
+It’s not always about tiaras for Kate. The Princess is also a repeat wearer of a mother-of-pearl Alhambra suite by Parisian jeweller, Van Cleef & Arpels. The pieces are thought to be a gift from her Royal in-laws and their history is rooted in the late 1960s, when the line was introduced and famously embraced by Princess Grace of Monaco. Its lucky quatrefoil motif is inspired by the Moorish architecture of Spain’s Alhambra Palace.
+
+The Cambridge Lover’s Knot Tiara
+Ok, that said, we absolutely adore Kate in the Cambridge Lover’s Knot Tiara, which she also frequently (and aptly) wore as the Duchess of Cambridge. Crafted in 1914 by Garrard for Queen Mary, the headpiece is actually a famous copy of an earlier tiara, the original Cambridge Lover’s Knot Tiara, which was created for Mary’s grandmother, Princess Augusta of Hesse (and is currently owned by a private family). It was also a former favourite of Diana, Princess of Wales.
+
+The Nizam of Hyderabad Necklace
+She’s recently honed her jewellery look with either big earrings or fabulous headpieces, but in 2014, Catherine stepped out to an event at the National Portrait Gallery wearing a dazzling diamond necklace, which was lent to her by Queen Elizabeth II and had been a wedding gift to the Queen from the Nizam of Hyderabad.
+
+The Lotus Flower Tiara
+For official events, such as receptions at Buckingham Palace, Kate gets to bring out the best bits from the Royal Vault and the Lotus Flower Tiara is becoming a firm favourite. Given as a wedding present to Elizabeth, the Queen Mother in 1923, it was originally made as a necklace before being transformed into a tiara, and formerly belonged to Princess Margaret.
+
+The Queen’s Pearl Choker Necklace
+Most recently worn for a ceremonial welcome to kick-off the two-day visit of Emir of the State of Qatar, Sheikh Tamim bin Hamad Al Thani, and his wife, Her Highness Sheikha Jawaher bint Hamad bin Suhaim Al Thani, this lovely four-strand pearl necklace was passed down by Queen Elizabeth II and was reportedly crafted for her with pearls given as a present by the Japanese government. Kate also touchingly wore it to Prince Philip’s funeral in 2021.
+
+The Queen Mary Emerald and Diamond Choker
+What else to wear to celebrate the Earthshot Prize back in 2022 but some eye-catching emeralds? Once a piece from Princess Diana’s jewellery collection, the fetching emerald and diamond collar was first worn by Queen Mary in 1911 and later given to Princess Diana in 1981 as a wedding present.
+
+The Crystal Onitaa Earrings
+Come ON. Kate didn’t come to play as she stepped out onto the red carpet for the premiere of the James Bond film, “No Time to Die” back in 2021. In fact, her sequinned Jenny Packham gown and golden crystal earrings by South Asian designer, Onitaa (which she also wore on a royal trip to Belize) transformed her into a walking, talking, life-sized jewel and helped her totally steal the show from Mr. Bond himself. Which is what you can do when you’re the Princess of Wales, isn’t it?
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

@@ -1,0 +1,56 @@
+BÀI TẬP 2 - LƯƠNG ĐỨC MẠNH - B26CHKH068
+
+1. Cài Python 3.12, mở Terminal trong thư mục đã giải nén.
+2. Cài thư viện: python -m pip install -r requirements.txt
+3. Chạy thí nghiệm: python regression_pca.py
+4. Vẽ lại biểu đồ: python plot_results.py
+5. Dự báo mẫu minh họa: python predict_new.py
+   Hoặc nhập 10 đặc trưng, ví dụ:
+   python predict_new.py 42 1 30.6 121 176 92.8 69 3 4.2627 89
+
+DỮ LIỆU
+Diabetes tích hợp trong scikit-learn, load_diabetes(scaled=False).
+442 mẫu, 10 đặc trưng, target định lượng sau một năm.
+Không cần tải dữ liệu từ Internet khi chạy chương trình sau khi cài thư viện.
+Tệp train.csv/test.csv là bản xuất dữ liệu thô và target cho lần chia cố định.
+sample_id là vị trí hàng gốc bắt đầu từ 0, không phải định danh bệnh nhân.
+
+THIẾT KẾ ĐÁNH GIÁ
+Train/Test = 353/89, random_state=68.
+CV ngoài = KFold 5 fold, shuffle=True, random_state=70.
+CV trong = KFold 3 fold, shuffle=True, random_state=69.
+Imputer, StandardScaler và PCA luôn được fit bên trong từng fold huấn luyện.
+Chọn họ mô hình theo RMSE CV trung bình, trước khi đánh giá Test.
+Thứ tự phá hòa: MAE CV, SD RMSE CV, R2 CV giảm dần.
+Thử PCA với Ridge/SVR; khảo sát thêm k=2,4,6,8,10 khi cố định Ridge alpha=1.
+
+KẾT QUẢ ĐIỂN HÌNH
+Chọn SVR: C=100, gamma=0.01, epsilon=0.1.
+RMSE CV=56.7655, SD=1.3588; MAE Test=36.1681, RMSE Test=47.8372,
+R2 Test=0.5461. PCA giữ trên 95% phương sai cần 8 thành phần trên Train.
+Các mô hình khá gần nhau; đây không phải kết luận ưu thế thống kê.
+
+TỆP CHÍNH
+- Báo cáo DOCX/PDF: diễn giải, bảng, biểu đồ, công thức và mã tính toán đầy đủ.
+- regression_pca.py: chương trình thí nghiệm.
+- plot_results.py: tạo ba hình từ kết quả.
+- predict_new.py: fit mô hình đã chọn trên Train và dự báo 10 giá trị đầu vào.
+- ket_qua/cv_folds.csv: toàn bộ điểm từng fold và tham số tối ưu ở vòng trong.
+- ket_qua/cv_summary.csv: trung bình và SD mẫu (ddof=1) trên 5 fold ngoài.
+- ket_qua/outer_folds.csv: fold ngoài của từng mẫu Train.
+- ket_qua/oof_predictions.csv: dự báo ngoài fold cho từng mẫu Train.
+- ket_qua/test_metrics.csv và test_predictions.csv: đánh giá Test.
+- ket_qua/pca_ablation.csv: khảo sát k với Ridge cố định alpha=1.
+- ket_qua/selection.json: tên họ mô hình được chốt từ CV.
+- ket_qua/results.json: toàn bộ kết quả tổng hợp và phiên bản thư viện.
+- ket_qua/dataset_description.txt: mô tả đi kèm scikit-learn; ghi chú scale
+  trong mô tả nói về chế độ mặc định. Bài này chủ động đặt scaled=False.
+
+NGUỒN
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html
+https://scikit-learn.org/stable/common_pitfalls.html
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html
+
+Chênh lệch nhỏ ở phần thập phân cuối có thể xảy ra giữa hệ điều hành hoặc
+thư viện đại số tuyến tính. Dùng requirements.txt để khớp phiên bản.

@@ -1,0 +1,729 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: 20260911 royalist/[English (auto-generated)] Harry  LOSES Everything After Donald Trump CONFIRMS He Would Never Speak.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience:
+- Primary angle / thesis:
+- Must-include points (3–8 bullets max):
+- Keywords / entities to emphasize:
+- Things to avoid / do-not-claim:
+- Output constraints (optional):
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+The president was asked one question
+about Harry. He answered it twice.
+>> I wouldn't I mean it's just me. I'm sure
+I'm wrong on this, but I would not have
+taken him back. I wouldn't
+I would have never spoken to him again.
+>> He's a rudderless Uh
+and he's got nothing going on in
+America.
+>> Harry and Meghan are exceptionally
+selfish human beings.
+And they cannot serve in the monarchy
+because the monarchy is not about
+selfishness. It's about serving the
+greater good.
+>> And the chairman of the party leading
+the polls speaking only for himself.
+>> At risk?
+Yes, he is at risk. Probably more at
+risk from her than he is from anybody
+else. Um I think she's been a bad
+influence on him personally.
+>> I think pretty much everyone's sick to
+the back teeth of them, Dan. I mean I I
+know I certainly am. I pretty feel Trump
+is as well.
+>> Harry came home to Britain expecting the
+argument to be about security, about
+schools, about where the family would
+live. Instead, the president of the
+United States was asked one question in
+the Oval Office and answered it in a way
+that placed him inside a family dispute
+that has two sides. A father trying to
+arrange a way back, a brother who does
+not want one. He took the brother's
+side. He did it without naming William
+as an ally and without criticizing
+Charles at all, which is what makes it
+work.
+And then he did it again hours later on
+a British network in harder language
+than he had used in front of the White
+House press pool.
+That second answer is the one this is
+built on because almost nobody has
+reported the two together.
+Before minute nine, you are going to
+hear him give his reason in his own
+words. And the reason is not the
+interview, not the documentary, and not
+the money.
+Everything being arranged quietly on
+Harry's behalf this autumn rests on an
+assumption that has now failed, that
+nobody with real standing would say the
+unsayable thing in public with a camera
+running.
+>> we know there's a great schism in the
+royal family right now between Charles
+who seems very much soft on the idea of
+Harry and Meghan returning in an
+official form, and Charles is very much
+supported as well by some high-profile
+members within, let's say, the general
+British political institution. And then
+you have William over there who is kind
+of like, "No, we don't need Harry and
+Meghan. We don't want Harry and Meghan.
+We don't need their chaos here
+interfering with what the royal family
+is doing."
+>> That split is the frame everything else
+sits inside, and until this week it had
+a direction of travel. The father had
+met his son privately. A visit to a
+children's charity was in the diary for
+the following days. In London, a quiet
+effort was underway to warm the
+relationship back up, an effort with a
+name attached to it and people in
+government behind it. The couple's own
+account of the move was straightforward,
+and it was sympathetic. America had run
+its course. The children were the right
+age,
+and Britain was where their father
+belonged. Large parts of the press were
+prepared to run with that. What the
+whole arrangement required was that the
+family be left to handle it privately at
+a pace it chose. Then a reporter in
+Washington asked a question that had
+nothing to do with any of it.
+>> I'm happy about it.
+No, I was not a fan. I thought, "Look, I
+had a very good relationship with the
+Queen."
+>> So, he's like, "I'm happy about it." And
+everybody laughs. Cuz everybody knows
+nobody like this is a thing for Harry
+and Meghan is that nobody really likes
+them.
+>> The laughter matters more than the
+answer.
+A head of state can dislike a couple
+privately and give the diplomatic
+version in public. That is what the form
+exists for. What happened instead was
+that a room of American reporters
+treated the question as funny before he
+had finished the sentence, and he went
+with the room.
+Then he did something more careful than
+it sounded. He started listing the
+people in that family he had time for.
+The Queen first, a relationship he
+described as really good, one he had
+taken trouble over. The King after her
+in the same warm register, going back to
+when he was still Prince Charles. Anyone
+listening for an attack on the monarchy
+was not going to get one. He was
+building a floor to stand on, and only
+once it was solid did he say who he was
+actually talking about. By the next
+morning, it was on the front of the
+Times and the front of the Telegraph.
+Except what he said in the Oval Office
+turned out to be the mild version.
+>> And I thought they treated the royal
+family with great disrespect. I didn't
+like it. I didn't like the way she
+acted. I thought she was
+terribly disrespectful to the queen,
+to
+uh King Charles.
+>> Read what he did there. He named her,
+and only her, for the disrespect. Harry
+appears in that answer as an object,
+someone things were done to and arranged
+around, not the author of anything. That
+is a distinction the palace itself has
+never been willing to make out loud,
+because making it means conceding that
+one half of the couple is recoverable
+and the other is not. A foreign head of
+state made it in 9 seconds without
+appearing to think about it, and the
+family it was said about had no
+mechanism to respond.
+There is no press office in Britain that
+answers a sitting American president.
+There is no line to brief, no correction
+to request, no lawyer to instruct. The
+only available reply was silence, and
+silence here reads as agreement.
+>> Maybe I'm different. I wouldn't have
+taken them back,
+If I were the royal family, I would I
+would not have taken them back.
+>> That is the sentence the reconciliation
+had no answer for. Not a criticism of
+the past,
+a verdict on the present delivered while
+the arrangements were still being made.
+He is describing a decision that other
+people have already taken and telling
+them it was wrong. He says it twice
+inside the same answer, which is how a
+person says something he means, rather
+than something he was asked. What makes
+it land is that he has standing to say
+it. This is a man who has met the
+family, been hosted by it, and talks
+about the late Queen the way its
+supporters do.
+And the warmth is not a device he
+switches on for the interview. It
+survives contact with the one member of
+that family currently working hardest to
+bring Harry back.
+>> King Charles
+and uh he's
+amazing and he he's fighting through a
+very tough situation with with his
+health.
+And very few people would have that
+bravery to do what he's done.
+>> So, the man who would never have spoken
+to Harry again has nothing but
+admiration for the father who is
+speaking to him. That is not a
+contradiction. That is the shape of the
+whole intervention. He is not attacking
+the institution. He is not attacking the
+king. He is not attacking the son who
+will inherit it. He is removing one
+person from the picture and leaving
+everything else exactly where it stands,
+which happens to be the position one
+brother has held privately for years,
+and the precise position the other has
+spent this year working against. The
+question nobody put to him, and the one
+that turns a sound bite into a problem,
+is which of those two brothers he
+thought he was speaking for.
+Return to the interview he gave that
+evening, because he did not leave the
+reason to be guessed at. The Oval Office
+answer had been about behavior in
+general, disrespect, ingratitude, a way
+of carrying yourself. On the British
+network, he got specific, and the
+specific thing he reached for was not
+the Oprah interview, which is what an
+American would reach for. It was not the
+Netflix series. It was not the court
+cases, the security fight, or the money.
+It was the book. And he did not describe
+the book as an attack on the family or
+on the institution or on the memory of
+the Queen. He named one person in it.
+>> But I think that what she has done and
+and him, you know, he wrote a book that
+was very
+uh terrible to William.
+It was terrible the things he said.
+>> William, twice in 11 seconds with
+nothing else attached. Of everything in
+600 pages, the father, the stepmother,
+the courtiers, the press, the part of
+foreign head of state retained and
+repeated was what it said about the
+brother. That tells you what traveled,
+not the grievance, not the childhood.
+What crossed the Atlantic and stuck was
+one man's treatment of another who had
+done nothing publicly to earn it and who
+has never once answered back. Britain's
+own commentary class reached the same
+verdict months ago and took a much
+longer route to get there.
+>> It's like, no, they've deserved their
+negative reputation. They have behaved
+deplorably for years and years and
+years. And they should not be surprised
+that their reputation turns profoundly
+negative. That's just the outcome of a
+lot of bad decision-making.
+>> A reputation earned rather than
+inflicted. That is the British position,
+arrived at slowly across six years, and
+it is now the American position, too,
+arrived at in a single afternoon by a
+man who does not follow the detail. When
+the shorthand version and the researched
+version produce the same verdict, the
+verdict has stopped being contested. If
+you think that is the story, wait until
+you see what comes next because
+everything before this is just the
+surface. The American verdict is not one
+man's. He is the loudest voice in a
+country that had already made up its
+mind. And the people who watched this
+closely were surprised by only one
+thing, how little he cared either way.
+>> So, I actually agree with Trump and I
+think I'm I'm I'm shocked that Trump is
+so indifferent about Harry and Meghan
+leaving the US cuz I think they're
+probably the most two most unpopular
+people in the US compared to him at the
+moment. I think and I wouldn't as well
+until he had broken up with her,
+apologized, come back, and shown due
+contrition to show that he hadn't
+he had learned from his mistake and
+wasn't going to make the same
+family-wrecking mistake again.
+>> Note the condition attached there. Not
+an apology, not time, a separation. That
+is the term sheet a section of British
+opinion has quietly drawn up for this
+return, and it is not one any palace
+could ever put in writing.
+It also sits uncomfortably close to the
+reading behind the president's own
+answer. She acted, he wrote, and the two
+are not the same offense. Meanwhile, the
+political party leading the polls to
+form the next British government was
+being asked on air whether it would fund
+his protection and had not got as far as
+discussing it internally.
+What its chairman offered instead was
+his own view, and he was careful to say
+so before he said it.
+>> Um I'm suspicious.
+I'm suspicious of all of them that
+written these books, made these Netflix
+series, slagging off the royal family,
+and then want to come back. I'm really
+suspicious, so the jury's out for me on
+that one.
+>> Suspicion about the motive is where the
+public has landed. It is worth asking
+why the establishment has landed
+somewhere else entirely, because while
+the polls, the panels, and the president
+were all pointing one way, an organized
+effort was running in the opposite
+direction, and it has a name.
+It was not exposed by an enemy. It was
+reported by the Daily Mail in the kind
+of diary item that only appears when
+somebody wants it to appear. There are
+people inside the British government who
+want this relationship repaired, and
+they have been working on it for some
+time.
+>> curious
+why this
+Operation Thaw exists in the first
+place. So, this is the operation first
+shared by Richard Eden that there are
+people within the British government who
+very much want to thaw the relationship
+between Harry and Meghan, and Charles
+and William, and try to get Harry and
+Meghan back into the royal fold. It's
+like inviting an an employee back that
+set the building on fire, and then is
+complaining endlessly that they're not
+receiving their pension, even though
+they destroyed the building, and the
+building being destroyed was much more
+than the pension or something weird like
+that.
+You would not invite somebody back into
+a company that left in a bad situation,
+in a bad reputation.
+>> An employee who set the building on
+fire. That is the analogy.
+And the reason it works is that
+everybody using it can name the fire.
+What nobody pushing the reconciliation
+has been asked to do is explain the
+upside. The case for the other side was
+made in public by a former prime
+minister in a national newspaper. He
+wrote that he had concluded the couple
+were a national asset. He wrote that he
+had tried to talk Harry out of leaving.
+He offered as evidence a sporting
+competition for injured veterans and an
+event on female education where he found
+Meghan well briefed.
+>> about, but this whole idea that Harry
+and Meghan were a national asset. And
+I'm like,
+how?
+How are these two people a national
+asset? I I have I failed to see
+how that is
+possible here.
+>> A national asset with no assets. The
+Netflix agreement to run a retail
+business was torn up by the man who
+signed it. The charities are
+floundering. One of them gone entirely.
+The lifestyle brand is still trading
+after a fashion. And yet the argument
+for bringing them home did not stop with
+a former prime minister. It was picked
+up in America in the New York Post by a
+British writer making the case to
+British readers that a flat refusal to
+forgive misses the bigger picture. That
+column is the single most useful
+document in this entire story and not
+for the reason its author intended.
+Somewhere in the middle of arguing for
+the defense, it concedes the
+prosecution's central fact.
+>> And no spin can save this. The Mexit
+U-turn, no doubt rooted in fading US
+interest, represents a major loss of
+face for the couple and it agrees with
+me.
+So, we we acknowledge all the failures
+and that this U-turn is not about
+actually success or actually reuniting
+with family. It's due to failure.
+>> Rooted in fading US interest, a major
+loss of face, written not by a critic
+but by the person arguing they should be
+welcomed back. Set that against
+everything else and the shape of it is
+finally visible. Harry has come home to
+a country where the monarchy's most
+powerful outside supporter has publicly
+endorsed his brother's position over his
+father's and neither half of that
+sentence has been said out loud.
+Because the evidence for it is split
+across an Oval Office answer, a British
+television interview given hours later,
+and a newspaper column arguing the
+opposite case. The king is trying to
+bring him back. The brother is not and
+the one foreign head of state who
+genuinely admires this family has now
+told the country which of them he thinks
+is right. Which leaves the question of
+what Harry is actually coming back to.
+Return to what he left behind in
+California because that is the part the
+reconciliation effort never mentions.
+The story being told in Britain is that
+a man chose to come home. The story
+sitting in the source material is
+narrower and a great deal less
+flattering.
+A royal commentator who lives in the
+part of the country they are moving to
+and who has spent the week listening to
+his neighbors talk about nothing else
+was asked directly what the motivating
+factor was. His answer had nothing to do
+with the king, nothing to do with the
+children, and nothing to do with Britain
+at all.
+>> Trick. So, for Harry, I just think he
+doesn't know what he's doing. Look at
+all his charities have been floundering.
+Sentebale, African Parks. The rumors
+about um Invictus are not always um
+absolutely spot-on. Yes, he's got one or
+two others like WellChild, which I've
+got plenty of time for.
+But he in Montecito, what's he got? He's
+got no friends there.
+>> The charity's gone or going.
+One left that he can point at without a
+caveat in a town where he has no
+friends. That is not a base to run a
+public life from, and it is not a
+position anybody chooses. The
+interesting question is when he worked
+it out, because the return has been
+presented as a decision reached this
+summer after the meeting with his father
+in the warmth of a family reunion. The
+timeline in the source material does not
+support that at all.
+>> It must have been sometime in the
+planning. It couldn't have been just
+when they rocked up in in July or
+whenever it was. And then when they had
+that moment with the king and and all
+that, it must have been before that to
+plan it.
+That and find out to plan it. So, it
+must have been four or five months in
+the planning. But, I I think it's
+because he's got nothing to do in
+America.
+>> Four or five months, which puts the
+decision before the meeting, not after
+it. The reunion did not produce the
+move. The move was already in motion
+when the reunion happened, which means
+the reason has to come from somewhere
+other than reconciliation. It has to
+come from the balance sheet. And the
+balance sheet is the one place in this
+whole story where there are hard numbers
+rather than opinions, read out on air
+with a correction arriving half a minute
+behind them.
+8,000
+not a day, a month. A brand that pulled
+a quarter of a million visits in January
+is now drawing fewer than 8,000 organic
+visitors across an entire month, a fall
+of more than half. And that figure is
+traffic, not customers, not orders, not
+revenue. The people who click are not
+>> Um organic search traffic hit a 12-month
+low in August 2026.
+Dipping to fewer than 8,000
+organic visitors. Total site visits
+dropped over 53% from a peak of roughly
+250,000 250,000 in
+live as we broadcast. That figure of
+8,000 clicks, I assumed that was a day.
+Forgive me. She's getting 8,000 clicks
+on her website
+in a month.
+>> thousand
+Not a day, a month.
+A brand that pulled a quarter of a
+million visits in January is now drawing
+fewer than 8,000 organic visitors across
+an entire month. A fall of more than
+half. And that figure is traffic, not
+customers, not orders, not revenue. The
+people who click are not the people who
+buy. And 8,000 clicks in 30 days does
+not support a business, let alone a
+household, a security operation, and a
+move across the Atlantic. So, the couple
+who left because Britain had nothing for
+them have come back because America had
+less.
+And the one thing Britain still has, the
+thing that made the move worth making,
+is the same thing that has just turned
+against them.
+>> It has a pulling power. We've had Donald
+Trump slagging off Meghan and Harry
+because he is a great supporter of the
+late Queen.
+>> The people who buy and 8,000 clicks in
+30 days does not support a business, let
+alone a household, a security operation,
+and a move across the Atlantic. So, the
+couple who left because Britain had
+nothing for them have come back because
+America had less.
+And the one thing Britain still has, the
+thing that made the move worth making,
+is the same thing that has just turned
+against them. That is the trap. The
+monarchy's pull is exactly why coming
+home was rational. And the man
+demonstrating that pull is the man who
+used it to say Harry should never have
+been let back in.
+There is no version of this where they
+get the platform without the verdict
+attached to it. Somebody could have seen
+that coming and moved to close it down.
+There is one person with the authority
+to do it, and his approach to problems
+inside this family has been been for
+years.
+>> It comes to problems, particularly the
+Andrew and Harry and Meghan situation,
+he kind of has a bury his head in the
+sand approach to it, which I don't feel
+like does the monarchy actually any
+favors.
+>> Head in the sand. It is the same
+criticism made of the Andrew years, and
+it produced the same outcome.
+A problem left alone until it could no
+longer be managed at all. This one has a
+cost, and the cost lands on somebody
+else. Every day Harry is in the country
+and working, the cameras have a choice
+to make, and they have already made it.
+Whatever the king decides, the person
+who pays for it is the brother who has
+said nothing throughout.
+>> There won't be interest if they if if
+William's doing an event on that day
+and Harry's going to WellChild,
+where will the
+everyone going to go?
+They're going to go to Harry, aren't
+they?
+Whether the royal family like it or not,
+and that's sad, isn't it? For the royal
+family.
+But the reality is of the way the media
+works,
+it'll be about Harry, whether
+>> Not out of preference, out of
+arithmetic. The bad boy sells and the
+dutiful one does not, and no amount of
+goodwill inside a palace changes what a
+picture desk does at 4:00 in the
+afternoon.
+So, the practical effect of the
+reconciliation the king wants is that
+the son who stayed loses column inches,
+attention, and control of his own
+calendar to the son who left. That has
+been reported and not by a hostile
+source.
+>> Uh we know, don't we, that William is
+not happy about this sudden UK return.
+Our mutual friend, Katie Nicholl, has
+been writing in Vanity Fair, based upon
+her royal sources,
+that William and Catherine feel, and I
+quote Rupert, completely derailed
+by this development.
+>> Completely derailed from royal sources
+in Vanity Fair about a couple who never
+brief and never complain,
+which puts three of the four people in
+this story in the same position. The
+brother, the sister-in-law, and the
+American president, all reading the
+return the same way against the king
+reading it alone. And still, according
+to the Daily Mail, the man at the center
+of it believes he is the one Odin
+apology.
+>> It's the other way round. Mea culpa from
+Harry. William does nothing. Keep calm,
+carry on. Not your fault, mate. Your
+brother needs to come cap in hand.
+>> Cap in hand. That is the price. And it
+has not moved in 6 years.
+It has only become more public, and now
+it has been endorsed from Washington.
+Last year, the argument was about
+whether Britain would ever forgive him.
+This year, the argument is about whether
+anybody still needs to. Last year, a
+reconciliation would have been news.
+This year, a foreign head of state can
+rule it out on camera, and the family
+cannot issue a single line in reply.
+>> Harry and Meghan
+and their California antics are better
+left in California. Sadly, they've
+decided to rejoin the royal fold in the
+UK, but the reality is the royal family
+doesn't need them. It needs to focus on
+the real aspects of royalty, which are
+duty, service, and sacrifice, and honor,
+and tradition. Not just general charisma
+and whatever the hell's
+Harry and Meghan are attempting to do.
+>> So, here is where it stands. He has come
+home to a country where the most
+powerful outside supporter the monarchy
+has has publicly taken his brother's
+side over his father's. Said so twice in
+one day, and named the book as the
+reason. He cannot answer it because
+there is no mechanism by which a private
+citizen answers a president. He cannot
+outlast it because it is on the front of
+two national newspapers and in the
+archive permanently. He cannot have it
+corrected because every word of it is a
+matter of public record. And he cannot
+rely on the one man still willing to
+arrange a way back because that man's
+approach to a problem in this family has
+never once made the problem smaller.
+Here is the question, and only somebody
+who watched the whole thing can answer
+it. He gave two answers on the same day.
+The first one named Meghan, the second
+one named William. Which of those two do
+you think the palace is more frightened
+of, and why?
+Next time, the political fight over who
+pays for his protection, and the party
+that has not yet decided.
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

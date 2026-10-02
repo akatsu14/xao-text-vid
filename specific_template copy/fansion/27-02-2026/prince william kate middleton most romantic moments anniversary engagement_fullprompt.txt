@@ -1,0 +1,125 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: fansion/27-02-2026/prince william kate middleton most romantic moments anniversary engagement.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience: Women 25–45 interested in royal fashion, heritage style, symbolic dressing, and modern monarchy image-building; fashion enthusiasts, luxury consumers, and royal watchers.
+- Primary angle / thesis: Prince William and Catherine’s romantic moments are not only emotional milestones but also powerful visual narratives—where fashion acts as soft diplomacy, brand positioning, and a language of modern royal partnership.
+- Must-include points (3–8 bullets max):
++ Body language + coordinated styling as visual storytelling.
++ Analysis of selected looks at Trooping the Colour, Earthshot Prize, and Royal Tours.
++ Fan reactions from social media highlighting authenticity and chemistry.
++ Commentary from a fashion analyst on color psychology, tailoring, and brand messaging.
+- Keywords / entities to emphasize: Catherine, Princess of Wales, Prince William, King Charles III, Westminster Abbey, Buckingham Palace, Royal Wedding 2011, Trooping the Colour, Earthshot Prize, Royal Tour of Canada, royal love story, modern monarchy couple.
+- Things to avoid / do-not-claim:
++ Do not speculate about private marital issues.
++ Avoid unverified rumors or tabloid framing.
++ Do not compare negatively with other royals.
++ Avoid political positioning.
++ No exaggerated claims about “perfect marriage.”
++ Avoid medical or personal health speculation.
+- Output constraints (optional):
++ Max 2000 words.
++ Elegant, editorial tone (Tatler/Vogue style).
++ Include 3–5 short quoted fan comments (clearly labeled as social media reactions).
++ Include 1–2 short expert-style fashion analyst insights (clearly attributed generically, e.g., “a London-based fashion analyst notes…”).
++ Structured with subheadings.
++ Balanced between romance and style analysis (60% fashion / 40% emotional narrative).
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+Prince William and Kate Middleton's most romantic moments: celebrating the royal love story on the Princess of Wales's 44th birthday
+As the Princess of Wales celebrates another year around the sun, Tatler opens the photo album to her most romantic moments with Prince William
+Prince William and Kate Middleton have supported each other as partners in domestic and royal life since their glittering Westminster Abbey wedding on 29 April 2011. Having attended a sprawling roster of engagements and been on a number of international Royal Tours, the Prince and Princess of Wales never look more at ease than when in each other’s company.
+The royal couple have been on quite the journey, as the then duke emphasised while speaking about his wife in his BBC documentary, Football, Prince William and Our Mental Health, commenting: ‘Me and Catherine… we support each other and we go through those moments together and we kind of evolve and learn together.'
+
+While public displays of affection aren’t common among the Royal Family, the prince and princess have often been caught on camera sharing a sweet, spontaneous moment. See some of Prince William and Kate Middleton's most touching pictures together below.
+1/23
+At Trooping the Colour, 2024
+2/23
+The look of love, 2023
+3/23
+Behind-the-scenes at the Earthshot Prize, 2022
+4/23
+A private moment at the the Royal Charity Polo Cup, 2022
+5/23
+Sharing a joke on a visit to a fish fry in Great Abaco, Bahamas during their royal tour of the region, 2022
+6/23
+Posing inside a bobsleigh, and Prince William couldn't contain his laughter, 2022
+7/23
+Attending a dinner hosted by the Governor General of Jamaica, 2022
+8/23
+On the Howth Cliff Walk during their Royal Tour of Ireland, 2020
+9/23
+Leaving hospital after the birth of Prince Louis, 2018
+10/23
+Trekking to Bhutan’s Tiger’s Nest Monastery, 2016
+11/23
+With Canadian Prime Minister Justin Trudeau during their Royal Tour of Canada, 2016
+12/23
+Leaving hospital after the birth of Princess Charlotte, 2015
+14/23
+At the Metropolitan Museum of Art in New York, 2014
+15/23
+Attending the Christmas Day service at St Mary Magdalene Church in Sandringham, 2013
+16/23
+Leaving hospital after the birth of Prince George, 2013
+17/23
+At the London 2012 Summer Olympics
+18/23
+At the Santa Barbara Polo Club, 2012
+19/23
+In Calgary in Canada, 2011
+20/23
+At Blachford Lake in Canada, 2011
+21/23
+On their Royal Tour of Canada, 2011
+22/23
+Leaving for their honeymoon, 2011
+23/23
+On the Buckingham Palace balcony after the Royal Wedding, 2011
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

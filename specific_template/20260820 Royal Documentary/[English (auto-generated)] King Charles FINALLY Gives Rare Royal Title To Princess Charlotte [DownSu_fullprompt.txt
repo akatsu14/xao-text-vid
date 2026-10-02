@@ -1,0 +1,321 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: 20260820 Royal Documentary/[English (auto-generated)] King Charles FINALLY Gives Rare Royal Title To Princess Charlotte [DownSu.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience:
+- Primary angle / thesis:
+- Must-include points (3–8 bullets max):
+- Keywords / entities to emphasize:
+- Things to avoid / do-not-claim:
+- Output constraints (optional):
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+She was born on a spring morning that
+carried the weight of centuries. On May
+the 2nd, 2015, as the bells of
+Westminster Abbey rang, the British
+monarchy quietly entered a new chapter.
+Her name, Princess Charlotte Elizabeth
+Diana of Cambridge. Her birth was not
+merely a joyful family event. It was a
+moment of history, the first time a
+royal daughter's place in the line of
+succession would be protected by law, no
+longer displaced by a younger brother.
+When Princess Charlotte was born, the
+succession to the Crown Act of 2013 had
+only recently come into effect. For
+centuries, Britain had followed a system
+known as male preference primogenature,
+meaning a younger son could overtake an
+elder sister in the line of succession.
+But with the act, Parliament ended that
+tradition. From then on, the eldest
+child, regardless of gender, would
+inherit first. That single change
+reshaped royal history. Charlotte became
+the first British princess ever to keep
+her place in line even after the birth
+of a younger brother, Prince Louie. In
+another era, she would have slipped down
+the line. Instead, she remains firmly
+third in succession, following her
+father, Prince William, and her brother,
+Prince George. It was a small
+legislative adjustment, but one with
+profound symbolism. For a
+thousand-year-old monarchy, it marked a
+quiet revolution toward gender equality,
+rooted not in protest, but in
+continuity.
+To understand Charlotte's title, we must
+go back 3 years before her birth. In
+December of 2012, Queen Elizabeth II
+issued a letters patent, a formal decree
+under the great seal of the realm. Its
+purpose was precise, to ensure that all
+of Prince William's children, not only
+his eldest son, would bear the titles of
+Prince or Princess and the style of
+Royal Highness. Without that decree,
+Charlotte would have been born Lady
+Charlotte Mount Batton Windsor. The rule
+dating from 1917 under King George V
+allowed princely titles only for the
+monarch's children, grandchildren
+through the male line, and the eldest
+son of the eldest son of the Prince of
+Wales. By custom, only Prince George
+would have been born a royal highness.
+But Queen Elizabeth saw the shape of
+things to come. She understood that in a
+modern monarchy, equality must begin at
+birth. And so she changed it. A symbolic
+gesture ensuring that her great
+granddaughter would enter the world not
+as a lesser royal, but as her royal
+highness, Princess Charlotte of
+Cambridge.
+The title of Cambridge linked to her
+parents' dukdom. When Prince William
+married Katherine Middleton in April of
+2011, the Queen had made him Duke of
+Cambridge, Earl of Strathn, and Baron
+Carrick Fergus. Thus, for the first
+seven years of her life, Charlotte
+carried the graceful title Princess
+Charlotte of Cambridge. Her early
+childhood was marked by a deliberate
+balance, tradition mixed with a modern
+touch. At public appearances, she waved
+confidently to the crowds outside
+Sandringham or St. Mary Magdalene
+Church. Yet much of her upbringing took
+place behind closed doors at Anma Hall
+in Norfolk and later at Adelaide Cottage
+in Windsor. The Duke and Duchess of
+Cambridge, as they were then known, were
+determined to offer their children a
+sense of normality, something Princess
+Diana had once fought for with her own
+sons. School runs, baking sessions, and
+bicycle rides were not photo
+opportunities. They were family life.
+Still, the world could not help but look
+toward this small, smiling child, a
+future royal who already represented the
+changing face of monarchy.
+Everything changed in September of 2022.
+Queen Elizabeth II passed away, ending
+the longest reign in British history.
+With her death, the crown passed
+instantly to her son, now King Charles
+III. In the first days of his reign, the
+new monarch announced a shift that
+carried both formality and emotion.
+Prince William and Catherine became
+Prince and Princess of Wales.
+>> I am proud to create him Prince of
+Wales. With Catherine beside him, our
+new Prince and Princess of Wales.
+>> With that change, their children's
+territorial designation shifted as well.
+Princess Charlotte of Cambridge became
+Princess Charlotte of Wales, echoing the
+title once held by her late grandmother
+Diana, Princess of Wales. It was not
+merely administrative. The title of
+Wales carries deep resonance within the
+royal story. Historically belonging to
+the heir apparent and his family,
+symbolizing service and connection to
+the people of Wales. For Charlotte, it
+placed her within the direct lineage of
+the future monarch, a princess born of
+destiny rather than marriage.
+Today, Princess Charlotte stands third
+in line to the throne, behind only her
+father and her brother. That position,
+though unlikely to result in a crown,
+holds immense constitutional weight. She
+is among the first royals raised
+entirely under the expectation of gender
+equality. Within a monarchy, learning to
+modernize without losing its mystique.
+Her role, as it evolves, may come to
+mirror those of her great aunt, Princess
+Anne, or perhaps Princess Margaret
+before her. Women who served the crown
+with independence and quiet influence.
+But unlike them, Charlotte's status was
+never conditional on her birth order or
+the presence of a brother. She stands on
+her own place in history, a royal
+daughter whose rights were defined by
+Parliament and affirmed by a
+grandmother's signature.
+Behind the palace walls, Prince William
+and Catherine have long sought to strike
+a delicate balance, raising royal
+children who understand duty yet live as
+normally as possible. At Lamuk School in
+Barkshire, Charlotte and her brothers
+enjoy the routines of an ordinary
+education, morning assemblies, sports
+matches, and field trips, though always
+accompanied by discrete security.
+Observers often note her confidence. At
+the Platinum Jubilee in 2022, she gently
+corrected her brother's posture during
+the national anthem. At state events,
+she curtsies with perfect composure.
+These small gestures hint at careful
+guidance from parents who understand
+both the pressures and privileges of
+public life. Prince William once said
+that he and Catherine are trying to
+raise their children in a way that
+prepares them for the future monarchy,
+whatever shape that may take. In many
+ways, Charlotte's upbringing reflects a
+monarchy still learning to adapt, one
+that honors its traditions, yet
+recognizes the need for authenticity.
+What lies ahead for Princess Charlotte?
+In time, her titles will evolve again,
+shaped by the reigns to come. When her
+father becomes king, Charlotte will
+likely become Princess Charlotte, the
+Princess Royal, if the title is
+available. It is traditionally reserved
+for the monarch's eldest daughter, first
+granted in the 17th century to Princess
+Mary, daughter of Charles I. Today, it
+is held by Princess Anne, and can only
+pass on after her lifetime. Should that
+honor come to Charlotte one day, it
+would symbolize continuity, a direct
+link to generations of royal women who
+served with quiet strength. Another
+possibility once discussed among royal
+historians is the Duchess of Edinburgh.
+A title associated with service,
+education, and philanthropy. But titles
+in the modern monarchy are not bestowed
+lightly. They carry meaning rooted in
+duty, not privilege. Whatever style she
+eventually bears, it will speak to the
+values she embodies: discipline,
+kindness, and public service.
+Charlotte's presence in public life is
+still rare and deliberately so. The
+Princess of Wales has often emphasized
+that her children's formative years are
+sacred, a time for family rather than
+ceremony. Yet, when Charlotte does
+appear, she radiates a composure well
+beyond her age. During Queen Elizabeth
+II's funeral procession, her solemn
+curtsy at Westminster Abbey became one
+of the most moving images of the day, a
+gesture of instinctive respect that
+seemed to bridge generations. In that
+moment, viewers saw not only a grieving
+great granddaughter, but also a future
+representative of a dynasty learning to
+endure through grace.
+The story of Princess Charlotte is in
+many ways the story of a changing
+nation. The United Kingdom remains a
+constitutional monarchy rooted in law
+and symbolism, but its monarchy has
+survived precisely because it adapts.
+The succession to the Crown Act of 2013
+was not a revolution shouted from the
+rooftops. It was a quiet recalibration
+of fairness. And yet, its effects ripple
+through the future. When Charlotte was
+born, her position in line was secured
+not by privilege, but by principle, a
+rare instance where law and sentiment
+aligned. Her titles, from Cambridge to
+Wales, and one day perhaps to something
+new, trace the evolution of an
+institution that still finds renewal
+through its children.
+As the camera lingers on images of
+Charlotte walking handinhand with her
+mother, one thing becomes clear. She
+represents not just inheritance but
+intention. The intent to build a
+monarchy that belongs to its time. Her
+great grandmother, Queen Elizabeth II,
+once said, "Change is a constant.
+Managing it is the art of life."
+Charlotte's story is precisely that art
+in motion, a seamless blend of heritage
+and hope. Her titles may shift as the
+decades pass, but each one will tell a
+story of adaptation. From the Duke's
+daughter to the Princess of Wales, from
+the child of Cambridge to a woman of her
+own standing. In her the monarchy's
+oldest traditions meet the promise of
+equality, the bridge between the crown
+that was and the crown that will be. She
+may be only a child now, but history has
+already written her name into its
+scrolls. Princess Charlotte of Wales,
+the little girl who quietly redefined
+royal destiny, not through power, but
+through principle. A princess born equal
+growing up in the heart of a changing
+crown.
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

@@ -1,0 +1,171 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: 20260810 The Royalist/20260810 5 Charles LOSES CONTROL After Camilla DISMISSES William In Front Of The Entire Privy Council_out.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience:
+- Primary angle / thesis:
+- Must-include points (3–8 bullets max):
+- Keywords / entities to emphasize:
+- Things to avoid / do-not-claim:
+- Output constraints (optional):
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+THE CROWN IN CRISIS: CHARLES ERUPTS AS CAMILLA'S SECRET PLOT TO OUST WILLIAM SHATTERS THE MONARCHY
+
+In a stunning breach of royal protocol that sent shockwaves through the highest echelons of the British state, Queen Consort Camilla publicly dismissed the Prince of Wales from a top-secret Privy Council meeting. The order was given in the King's name, but it was an order King Charles never gave, triggering a constitutional crisis born from a hidden family war. What followed was the complete shattering of a King's composure, the raw exposure of a secret campaign of fear and forgery, and a reckoning that would forever redefine the balance of power at the very heart of the British throne.
+
+THE DISMISSAL THAT SHOOK THE KINGDOM
+
+The air inside the Privy Council chamber, a room steeped in centuries of solemn statecraft, was already thick with unspoken tension. This ancient body, the formal assembly of senior advisors who have counseled British sovereigns since the Norman Conquest, had witnessed declarations of war, the signing of treaties, and the transfer of power that shaped empires. But its members, a collection of the most powerful figures in the kingdom, were utterly unprepared for the moment of raw, familial warfare that was about to erupt before them. Chairs stopped moving. Papers remained untouched. A profound and chilling silence descended as Queen Consort Camilla, her expression a mask of regal stillness, turned her gaze upon her stepson, Prince William, the heir to the throne.
+
+William had just finished speaking. He had been invited by his father, the King, to present a meticulously crafted succession readiness proposal. It was a sensitive but necessary document, a plan designed to gradually transfer a selection of royal duties to the next generation, ensuring a seamless and stable transition when the time came. He had spoken carefully, his words measured, emphasizing that the plan was designed to share responsibilities without in any way weakening the constitutional authority of the Crown. It was, sources close to the Prince would later insist, an act of profound duty, a strategy to protect the monarchy from the chaos that could ensue if a crisis arrived without warning.
+
+Throughout his presentation, Camilla had listened in a silence that carried more hostility than any interruption. Then, as William concluded, she cut across the room’s fragile decorum with two sentences that would detonate the monarchy’s carefully constructed facade. "Your presence is no longer required," she stated, her voice devoid of warmth. "You may leave."
+
+As if to punctuate the astonishing command, she lifted one hand, gesturing toward the chamber door with the imperious air of a monarch dismissing an inconvenient courtier. The insult was breathtaking in its audacity. This was not a private drawing room; it was the constitutional heart of the kingdom. And she was not addressing a junior official; she was addressing the future King.
+
+Prince William did not move. A flicker of disbelief, then profound hurt, crossed his face. He looked at his stepmother, then his eyes, heavy with a silent, urgent question, turned toward his father. The Prince of Wales was not waiting for permission to leave. He was waiting, in that frozen, agonizing moment, to discover whether his own father, the King, would defend him from this public and unprecedented humiliation.
+
+For what felt like an eternity, Charles remained motionless. Then, the restraint he had cultivated over a lifetime of public scrutiny, the discipline he had carried for years as both Prince and King, finally shattered. He pushed back his heavy oak chair with such explosive force that the sound of it scraping across the ancient floorboards echoed like a gunshot in the silent room. Every face turned toward him. His knuckles white, he struck the polished surface of the council table with his fist. "Who," he demanded, his voice trembling with a fury that stunned the assembled counselors, "gave my wife the authority to remove the Prince of Wales from a constitutional discussion?"
+
+The confrontation had begun. The carefully guarded secrets of the House of Windsor, the years of unspoken resentment and simmering rivalry, were no longer hidden behind palace walls. They had just exploded into the open, in front of the very people sworn to uphold the stability of the Crown.
+
+A FATHER'S SILENCE, A SON'S BETRAYAL
+
+In the charged aftermath of the King’s outburst, Camilla did not retreat. Instead, with a chilling composure, she reached for a sealed briefing paper that lay before her on the table and placed it directly in front of her husband. The document appeared to be official, originating from the King's own private office. Its seal looked genuine. Its formal, bureaucratic wording granted her, the Queen Consort, explicit control over attendance at the meeting. It was, on its face, an unassailable defense.
+
+Yet as Charles stared at the paper, his fury began to morph into something colder, more terrifying. He recognized the official mark of his authority, the royal seal that authenticated his will, but he did not recognize the order itself. He had never seen it, never approved it, never even conceived of it. In that sickening moment of recognition, he understood. Someone had taken his sovereign authority, the most potent symbol of his rule, and used it as a weapon to turn his wife against his heir. The insult was merely the surface; beneath it lay a hidden struggle for power that had now breached the inner sanctum of his reign.
+
+It was William who finally broke the spell. Gathering himself with a dignity that belied the deep wound he had just sustained, he walked toward the door. He paused beside the great council table and placed his own unopened succession file directly before his father. His voice was low but carried to every corner of the room. "You should ask," he said, his eyes locked on the King, "who was frightened enough to stop you from reading this."
+
+The heavy chamber door closed behind him, the sound sealing the rupture. Charles stared at the file, then at Camilla, and finally at the forged order bearing his own seal. He understood now that a private, emotional grievance had been allowed to impersonate the authority of the state. A hidden power struggle had entered his household, and the next answer he found could break his family, and perhaps his monarchy, apart.
+
+Behind the grand titles and constitutional roles stood three people, bound by a complex and painful history of marriage, blood, and decades of unspoken resentment. Charles, the King, saw a wife who believed she had spent a lifetime of public scorn and private devotion earning her place by his side. Camilla, the Queen Consort, saw a stepson whose future authority, guaranteed by birthright, could erase her influence and her legacy overnight. And William, the Prince of Wales, saw a father who repeatedly demanded loyalty while failing, in the most crucial moment, to protect him from a calculated and devastating humiliation.
+
+After the stunned counselors were dismissed, Charles remained beside the table, the silence of the room pressing in on him. He stared at his son's empty chair while Camilla, moving closer, began to defend her actions. She insisted that William’s proposal, with its talk of "preparation" and "transition," was a veiled attempt to weaken him, to push him aside before his reign had even truly begun. She reminded him of the years she had stood by him, how she had steadied him through scandal, grief, and the profound loneliness of kingship. In her mind, that loyalty was a shield, a currency that should have protected her place and her influence. The succession plan, she feared, would shift the gravitational center of the court toward William, reducing her access to the advisory discussions where real power was broked.
+
+Meanwhile, in an adjoining anteroom, William’s composure finally gave way. He told an aide that the core of the wound was not the contradiction or the policy dispute. It was the act of being dismissed like a subordinate while his father watched in silence. He believed, with the conviction of an heir conscious of his duty, that preparation for the future had to begin before illness or crisis forced the Crown into a state of panic. The duty of the heir, he argued, was to prevent chaos, not merely to await it. He had come to the council to protect the institution, only to be cast out by a family feud.
+
+THE SEEDS OF RESENTMENT: A WARNING AT WINDSOR
+
+This explosion before the Privy Council was not a spontaneous event. Royal ruptures of this magnitude are never born in a single moment; they are the culmination of a thousand minor slights and festering insecurities. The true beginning of this crisis, insiders now reveal, lay weeks earlier during a small, seemingly routine investiture ceremony at Windsor Castle. Beneath the polite applause and carefully rehearsed smiles, a brief, three-minute encounter planted the seeds of resentment that would eventually bloom into open warfare.
+
+As Prince William has taken on more public duties, a subtle but significant power shift has been occurring within the palace machinery. Various departments had begun seeking his approval alongside the King’s, a natural evolution that nevertheless signaled a change in the royal ecosystem. Each new responsibility made the Prince look less like a distant heir and more like the monarchy's active, working future. This shift was felt most acutely inside Camilla's own household. Decisions about patronages, ceremonial schedules, and the very shape of the next court were increasingly moving beyond her reach. She felt her influence, so hard-won, beginning to wane.
+
+According to sources present at Windsor that day, Camilla entered the investiture ceremony determined to protect that influence. An investiture is a formal ceremony governed by a strict and ancient order of precedence. In a quiet but deliberate move, she instructed an officer to place one of her personal advisors among the constitutional representatives in the front seating area, despite the fact that the man held no official state role. It was a small but symbolic assertion of her household's importance.
+
+William, ever attentive to protocol, noticed the altered seating arrangement before the ceremony began. He intercepted the officer and, in a lowered but firm voice, ordered him to restore the approved, constitutionally correct arrangement. The future king did not name Camilla, but she was standing nearby and heard every word. To William, it was a necessary and impersonal correction of a procedural mistake. To Camilla, it was a public rebuke, a warning delivered in front of staff that her personal influence had limits.
+
+After the final honor was presented, she confronted him in a narrow corridor away from the cameras. She accused William of treating her and her household as "temporary," as if every person loyal to her would simply disappear the moment Charles's reign ended. The Prince, maintaining his composure, replied that private loyalty could never be allowed to override clear constitutional boundaries. His calmness, his appeal to abstract rules over personal feeling, only deepened her anger.
+
+King Charles arrived in time to hear only the final, tense sentences of the exchange. He saw his wife visibly shaken and his son standing firm, but he had missed the crucial context of the seating dispute that had caused the conflict. Later, in private, Camilla provided him with a documented account of the incident, one that portrayed William's intervention as an unprovoked and deliberate act of humiliation. The King, seeking to contain the conflict and keep the peace within his marriage, accepted her version of events. It was a fateful decision.
+
+That very evening, a wounded and fearful Camilla acted. She instructed her private secretary to obtain every draft and memo concerning William's future authority. This began the covert chain of events that would later produce the false attendance order. Inside one of the stolen drafts of the succession proposal, she found the one sentence that terrified her most: a recommendation that, after a major transition of power, the Queen's household would lose its independent access to confidential constitutional meetings.
+
+By the time William walked into the Privy Council chamber weeks later, Camilla was no longer defending a chair at a ceremony or a minor ceremonial privilege. In her mind, she was fighting for her very survival within the royal system, battling against her own disappearance from the pages of history.
+
+A CONFRONTATION BEYOND THE THRONE ROOM
+
+Back in the corridors of power, the constitutional dispute had now morphed into a raw, unfiltered confrontation between three members of a deeply fractured family. Charles, abandoning the council table and ignoring the shocked protests of his advisors, had followed his son into the passage. Leaving a Privy Council session in progress is a staggering breach of monarchical discipline, but the King no longer cared for appearances. His son was walking away, and his wife had followed close behind to defend the very order that had driven him out.
+
+William stopped beneath a stone archway, forcing himself to breathe, to remain in control. He knew that one raised voice, one flash of anger, could be twisted and repeated by his detractors as proof that he was impatient, unstable, or hungry for power. He kept his hands rigidly at his sides as Charles reached him, catching his arm and pleading with him to return.
+
+Before William could answer, Camilla arrived. "He should re-enter," she declared, "only after apologizing for challenging the Queen's authority." She used the title as if it were a shield, a definitive statement that settled the argument. But her demand only hardened William's expression.
+
+Carefully, deliberately, the Prince of Wales removed his father's hand from his sleeve. He turned to Camilla, his voice steady but cold. "Marriage to the sovereign does not create powers the Crown has never granted you," he stated, articulating a core constitutional truth. He added that no private fear could ever justify removing the heir to the throne from a meeting called by the monarch himself.
+
+It was then that Charles finally turned on his wife, his own restraint vanishing completely. He accused her of humiliating his son, of misusing the royal seal, and of trapping him in an impossible position before the kingdom's most senior advisors. His voice, filled with the pain of betrayal, carried down the corridor.
+
+But Camilla, cornered and defiant, did not retreat. She answered with one devastating sentence that changed everything. She reminded Charles that during a private argument, in a moment of frustration, he himself had once called William "too eager to inherit."
+
+The monarch froze. He had spoken those words in a moment of private fear and insecurity, never imagining they would be honed into a weapon and used against him. William looked at his father, and the anger on his face gave way to a profound and weary disappointment. He now understood. Camilla's suspicion had not grown in a vacuum. His own father had fed it, then allowed him to walk into the council chamber completely unaware of the ambush that awaited him.
+
+The balance between them had irrevocably shifted. William agreed to return to the chamber, but on one non-negotiable condition: the sealed attendance order would be immediately and formally investigated, right there, before the entire council. Charles, seeing no other way out, accepted without hesitation. The three of them walked back together, but the fragile peace of their family was gone. Camilla had lost her shield of silence. William had lost his trust. And Charles was about to discover just how deeply his own authority had been compromised.
+
+THE FORGER'S SEAL: UNRAVELING THE PALACE CONSPIRACY
+
+Power inside a royal palace rarely announces itself with shouting. It moves silently, through signatures on documents, changes to schedules, locked files, and instructions that appear perfectly ordinary until someone dares to ask who truly issued them. Back inside the chamber, Charles ordered the forged document to be placed beneath a lamp. He asked his private secretary to explain how the King's seal—the official mark used to show that an order carries the sovereign's unimpeachable authority—had appeared on an instruction he had never approved. The answer revealed a shadow system of influence operating dangerously close to the throne itself.
+
+While the King alone holds constitutional power, the officials controlling his diary, his correspondence, and his digital access codes can shape what reaches him and, more importantly, what appears to come from him. The secretary, reading from a documented access report, revealed the damning truth. Camilla's deputy secretary had created the order using a digital authorization code. That code had been obtained during a previous emergency briefing and was meant only to approve urgent communications when Charles was physically unable to reach his office. It had never been intended to settle a family dispute or to bar the heir to the throne from a meeting of state.
+
+As the report was read, Camilla admitted she had requested William's removal, but insisted she believed her husband would agree once he understood the "danger" inside the succession plan. Her deputy, she claimed, had acted after receiving a handwritten note stating that the King had approved "necessary restrictions" on attendance. Charles, his expression grim, demanded to see the original note.
+
+A secretary returned moments later, carrying it inside a clear evidence sleeve. The monarch recognized the stationery immediately. It came from a stock of paper kept inside his own private desk, in a space reserved exclusively for the King. The discovery was sickening. Someone had entered his most private domain, removed official material, and used it to turn his personal authority into a political weapon.
+
+The investigation, however, soon uncovered something even more sinister. An audit clerk, reviewing past records, found that two earlier meeting summaries had been subtly altered. The changes were minor but significant, designed to make William's contributions sound more hostile toward Camilla's household than they had actually been. These doctored records had been passed to Charles, slowly and systematically poisoning his mind, convincing him that his heir was conducting a covert campaign against the Queen. This was no longer about one reckless order issued in a panic. Someone had been building a false narrative, sentence by sentence, knowing Charles would read those summaries as evidence and carry their poison into every conversation he had with his son.
+
+By late afternoon, the palace had fractured into warring camps. Officials loyal to the King demanded immediate suspensions. Members of Camilla's household defensively called the entire incident a "misunderstanding." William's team refused to comment publicly but began quietly collecting every instruction issued under the sovereign's name for the past year.
+
+Charles acted before the rot could spread further. He suspended Camilla's deputy secretary and ordered a full, six-month audit of every document issued with his approval. He also temporarily withdrew William's succession proposal, not as a rejection, but to determine if its confidential contents had also been stolen or altered. The King had lost control in that chamber, but he was now beginning to reclaim it, piece by painful piece.
+
+THE KING'S RECKONING
+
+That night, there was no council table between them, no queen defending her position, and no official waiting to soften the truth. In a small, private library, far from the formal state rooms where sovereign business was conducted, Charles met William alone. The King had spent the day demanding answers from everyone else. Now, his son asked the one question Charles could not redirect: why had he found it easier to doubt his heir in private than to defend him when the humiliation happened in public?
+
+Charles spoke first, his voice heavy with regret. He admitted that he had once complained that his son seemed impatient, but confessed that the words had come from his own fear rather than genuine suspicion. He feared becoming irrelevant before his reign had truly settled, feared watching the future of the monarchy gather around William while every room he entered slowly stopped turning toward him.
+
+William listened, but he did not rescue his father from the difficult silence. He explained that while Camilla’s dismissal had wounded him, the deepest injury came in the seconds that followed, when he had looked to his father and seen not immediate defense, but hesitation. In that moment, he had not seen a sovereign weighing constitutional limits; he had seen a father deciding whether his son was worthy of protection.
+
+Lowering his head, Charles apologized without qualification or excuse. He admitted that his constant efforts to preserve peace with Camilla had allowed her resentment and fear to grow unchecked. He had mistaken avoidance for stability, and his silence had given private insecurity the room to imitate royal authority. It was then that William finally explained the true intent of his proposal. He had designed the gradual transfer of duties not to replace Charles, but to protect him. A planned, orderly transition would prevent a sudden illness or crisis from forcing the monarch aside abruptly, turning necessary preparation into a public humiliation.
+
+The King reached for the unopened file. The succession proposal no longer looked like a threat. He opened it himself and, in a gesture that changed everything, moved his chair so that he was sitting beside his son, not across from him. Before the night ended, a new alliance had been forged in the wreckage of the old one. Father and son left the library bruised, but for the first time in years, they were aligned.
+
+A MONARCHY REDEFINED, A FAMILY FOREVER SCARRED
+
+By morning, the palace’s hope of containing the crisis was gone. The image dominating every newspaper and television screen was not of a smiling royal procession, but a single, stark photograph showing William leaving the council entrance alone, his succession folder tucked under his arm, while several steps behind him, King Charles stood, his face a mask of visible fury. That one frozen moment told the public everything the official statements tried to avoid.
+
+A major newspaper captured the shock with four devastating words: "The Order The King Never Gave." Outside Buckingham Palace, a crowd gathered, one woman holding a handwritten sign that read, "The Crown Is Not A Private Household." The message was clear: royal affection could never be allowed to replace royal rules.
+
+Charles now had to choose the monarchy's answer. In a final, decisive meeting, he gathered Camilla and William. On the table between them lay three documents: the final investigation findings, William’s succession proposal, and a new, legally binding household order. The King read the findings aloud, stating for the official record that Camilla had ordered William’s dismissal without constitutional authority and had allowed an aide to misuse the royal seal.
+
+He then signed the new household order. The document was clear and ruthless in its precision. Camilla could continue to advise him privately, as his wife, but the Queen Consort was henceforth barred from controlling Privy Council attendance, entering confidential succession discussions, or issuing instructions in the monarch's name. The boundary was now absolute. Camilla, defeated, signed an acknowledgement, stating for the record that fear of losing her place had driven her to seek authority that was never hers.
+
+Finally, Charles invited William back before the reconvened Privy Council. He faced his advisors and declared that the dismissal of the heir had been unacceptable, and he apologized for his own failure to stop it at once. He then formally approved the revised succession plan. The monarch’s shocking loss of control had, in the end, forced him to discover what real control meant. He had separated devotion from duty, protected his wife's dignity without surrendering his royal authority, and restored his son without weakening himself. When the final document was removed and the chamber doors reopened, the immediate crisis was over. But the monarchy would never return to its previous arrangement. Camilla had been forced to confront the absolute limits of her position, William had reclaimed his voice and his constitutional place, and King Charles had learned the hardest lesson of his reign: that to protect the Crown, a monarch must sometimes be willing to refuse the person closest to his heart.
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

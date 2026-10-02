@@ -1,0 +1,4 @@
+{
+  "winner": "SVR",
+  "criterion": "CV RMSE mean; tie MAE, RMSE SD, R2"
+}

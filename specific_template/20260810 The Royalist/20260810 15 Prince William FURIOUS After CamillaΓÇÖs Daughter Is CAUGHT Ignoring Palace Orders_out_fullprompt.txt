@@ -1,0 +1,183 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: 20260810 The Royalist/20260810 15 Prince William FURIOUS After CamillaΓÇÖs Daughter Is CAUGHT Ignoring Palace Orders_out.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience:
+- Primary angle / thesis:
+- Must-include points (3–8 bullets max):
+- Keywords / entities to emphasize:
+- Things to avoid / do-not-claim:
+- Output constraints (optional):
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+THE CROWN DIVIDED: INSIDE THE WINDSOR SHOWDOWN THAT PUSHED THE MONARCHY TO ITS BREAKING POINT
+
+The photographs were laid out on the polished mahogany table with the chilling precision of evidence. Prince William did not raise his voice. In the silent, wood-paneled office where the future of the British monarchy is managed, that quiet was more terrifying than any royal rage. Six images, one gold-embossed invitation, and a guest list of forty-two influential names. This was not just a social blunder; it was a calculated transgression, a direct challenge to the authority of the next King. And as William’s gaze fell upon a tiny, handwritten note, a single question hung in the air, heavy and unanswered: Who told the Queen’s daughter she could defy a direct order from the Crown?
+
+The silence that followed was not one of confusion, but of complicity. Someone in that room knew. Before the Prince of Wales could dismantle the wall of feigned ignorance, the door opened. Queen Camilla entered, her presence instantly shifting the room’s delicate balance of power. She glanced at the photographs, her expression unreadable, and uttered a sentence that transformed a private family dispute into a constitutional crisis. “My daughter did nothing wrong.”
+
+William’s response was a slow, deliberate slide of the offending invitation across the table, his finger tapping the gilded symbol at its crest. To understand why that small, embossed crown could ignite such panic within the ancient walls of Windsor Castle, one must rewind thirty-six hours, to a digital command that was designed to be final, and an act of defiance that threatened to unravel the carefully woven fabric of a new royal era.
+
+THE FORBIDDEN INVITATION
+
+The instruction had been unequivocal. It arrived in the email inbox of Laura Lopes’s office just after seven in the morning, a time when the palace machinery is already grinding into gear. The language, as is the custom of the monarchy’s highest offices, was painfully polite, a velvet glove sheathing an iron fist. A private art reception, which Mrs. Lopes, the Queen’s daughter, had been planning for weeks, could not, under any circumstances, take place within the East Terrace rooms of Windsor Castle. The message, issued from the Lord Chamberlain’s Office but bearing the implicit weight of the Prince of Wales, left no room for negotiation. No royal insignia was to appear on any materials. No photographers were to be granted access. No commercial sponsors could be associated with a royal residence. The instruction was not a suggestion. It was, in the unyielding parlance of the Crown, final.
+
+Confirmation of receipt was logged. The email was opened. And then, nothing. A void of silence where a message of compliance should have been. That alone, a senior aide would later recount, was enough to cause significant irritation. In the meticulously ordered universe of royal protocol, silence in the face of a direct command is a form of dissent. What happened next, however, was not dissent. It was a declaration.
+
+Twenty-four hours later, two unmarked delivery vans approached a Windsor service entrance. Their manifests were a checklist for an elegant society event: lighting rigs, cases of champagne, custom-built display walls, elaborate floral arrangements, and luxury gift bags. Crucially, they lacked the standard visitor authorization required for such a large-scale delivery. Instead, the paperwork described the cargo with a phrase that acts as a master key to the kingdom’s most secure locations: “Private family delivery for the Queen.” That designation changes everything. It bypasses layers of security and transforms a logistical problem into a matter of royal prerogative. Staff, trained to facilitate the monarch’s life, waved the first vehicle through.
+
+The entire operation might have succeeded unnoticed had it not been for a moment of simple misfortune. A box in the second van had split open, spilling its contents onto the floor. Inside were dozens of freshly printed invitations. The cardstock was thick cream, the lettering raised, the edges gilded. And there, sitting directly above Laura Lopes’s name, was the very symbol she had been explicitly forbidden to use: a royal crown. This was not a mistake. This was a statement. The question that landed on Prince William’s desk at 8:17 the next morning was no longer about a breach of protocol. It was about intent. Why would someone print and distribute invitations with a royal crest after receiving a direct order banning its use?
+
+The situation was more insidious than it first appeared. An investigation by William’s staff quickly unearthed the original invitation design, approved weeks earlier. It was tasteful, private, and entirely appropriate. It contained no crown, no official palace wording, no hint of royal endorsement. The illicit royal symbol had been added deliberately, post-warning. Someone had not simply ignored an order; they had doubled down, escalating the event’s branding from private to pseudo-official. And beneath Laura's name, four new words had appeared, a phrase dripping with unearned authority: “By gracious royal permission.”
+
+There was, of course, no permission. Not from William, the steward of his father’s estate. Not from the Lord Chamberlain’s Office, the historic guardians of royal protocol. And not from the King’s own Private Secretary. Yet forty-two of the country’s most influential people—art collectors, gallery owners, wealthy patrons, even two former government ministers—had been told otherwise. This was no longer a family gathering. It had been engineered to look like an official, monarch-endorsed function. For William, a man whose entire public life has been a crusade to professionalize and streamline the monarchy, this was an unforgivable sin. It was the blurring of lines, the monetization of access, the very kind of reputational damage his grandmother, Queen Elizabeth II, had spent seventy years meticulously avoiding. He gave the order: the event was to be stopped. Immediately.
+
+A QUEEN’S DEFENSE, A PRINCE’S FURY
+
+That command should have been the end of it. But it wasn’t. Because Laura Lopes was already inside the castle. She had used a private family access point, bypassing the main gates, accompanied by three individuals not on any approved list. When a senior staff member, tasked with the deeply uncomfortable job of intercepting the Queen’s daughter, approached her in a corridor to explain the reception was cancelled, Laura reportedly did not argue. She simply opened a blue folder, removed a single sheet of paper, and presented it. “I have authority to continue,” she stated, her tone leaving no room for debate.
+
+The staff member read the document. He then stepped aside. The contents of that paper remain a mystery, but its effect was electric. What authority could possibly override a direct instruction from the heir to the throne’s office? The question ricocheted through Windsor’s ancient corridors via hushed phone calls and frantic text messages. Senior aides scrambled, trying to identify the signature. No one could. The instruction at the bottom, however, was clear: “Please provide Mrs. Lopes with all reasonable assistance.” The document appeared to originate not from the King’s Household, but from the Queen’s.
+
+To the outside world, this is a bureaucratic distinction. Inside the palace, it is a chasm. It implies the existence of two separate, and potentially competing, courts operating under one roof. Queen Camilla has her own staff, her own diary, her own charitable portfolio. But her household, by every constitutional and historical precedent, is subordinate to the King’s. It cannot, and must not, be seen to countermand an order issued in the sovereign’s name, especially concerning the use of a royal residence. This was the institutional nightmare William had always feared: a parallel power structure, built on family loyalty rather than constitutional duty.
+
+He ordered the document brought to him for inspection. It never arrived. In the chaotic minutes that followed, someone removed it from Laura’s folder before a copy could be made. The problem had metastasized. An order had been ignored, and now, evidence had vanished. This was the moment William stopped treating the situation as a misunderstanding and began treating it as an insurrection. He requested access logs, security photographs, staff statements—every digital and human trace connected to the event. He made one final demand: no one was to warn the Queen.
+
+But in a palace of whispers, secrets have a short lifespan. By 10:30 a.m., Queen Camilla had cancelled her morning schedule and was en route to Windsor. The message relayed to William was that she wanted a “family conversation.” His reply, delivered through an aide, was arctic. “This is no longer a family matter.”
+
+That sentence, a clear drawing of a battle line, reached Camilla before her car swept through the castle gates. She arrived, according to eyewitnesses, furious. But not for the reason William expected. She was not angry that the event had been stopped. She was incandescent that her daughter had been questioned by palace staff. “My daughter is not a criminal,” she reportedly declared upon entering the room.
+
+William’s response was colder still. “Then she should have no difficulty explaining the document.”
+
+Camilla insisted there was no document, that it was a simple misunderstanding. William placed the security staff member’s written statement in front of her. A man had seen it. Two of Laura’s assistants had discussed it. It had been used to gain access to a restricted area. And now it was gone. Camilla read the statement twice. Then she delivered the line that turned William’s suspicion into pure fury. “Perhaps your staff misunderstood what they saw.”
+
+Your staff. Not palace staff. Not the King’s staff. The possessive pronoun landed like a grenade in the center of the room, creating an immediate and hostile separation between the heir’s court and the Queen’s. William, and everyone else present, heard the implication instantly. This was a declaration of tribal loyalty over institutional unity. The future King leaned forward, his voice low and sharp. “These people serve the Crown.”
+
+Camilla did not flinch. “For now,” she replied.
+
+Three words. That was all it took. The temperature in the room plunged. This was no longer about champagne and canapés. It was about whose authority would command the loyalty of the vast and complex machinery of the state. It was about whose vision of the monarchy would survive the next reign.
+
+THE MYSTERY OF THE TWELFTH PAINTING
+
+As the standoff between stepmother and stepson locked the room in a tense stalemate, a more dangerous secret lay hidden in plain sight, buried within Laura’s guest list. William’s eyes scanned the forty-two names again. One had been added by hand, an afterthought that was anything but. The name belonged to a prominent property solicitor. Why, William wondered, would a solicitor specializing in trusts and charitable foundations be invited to a private art reception? He circled the name and ordered a full background check.
+
+The information that came back twenty minutes later caused him to abandon the meeting entirely. He walked, with grim purpose, directly toward the East Terrace rooms where the phantom event was being dismantled. The solicitor’s expertise was not just in trusts, but specifically in the transfer of privately held art collections. Suddenly, the art itself was the central clue.
+
+William entered the room as workers were taking down the display walls. Laura was standing near a grand fireplace, speaking quietly with an organizer. On a table behind her sat twelve framed artworks that had not appeared on the original event inventory. The Prince walked past his step-sister without a word, his attention fixed on the labels. Eleven of the pieces belonged to private lenders, their names clearly marked. The twelfth, a small landscape painting, carried no lender’s name at all. Instead, three typed words were printed on the card: “Private Royal Collection.”
+
+That label should not have existed. The Royal Collection is not a private treasure chest for the family to dip into at will. It is a national heritage, held in trust by the sovereign for his successors and the nation. Its more than one million objects are meticulously catalogued, insured, and handled under the strictest museum-grade protocols by the Royal Collection Trust. For a piece to be moved, let alone displayed at a private event, requires a mountain of paperwork and authorization from the highest levels. This painting wasn't even on the authorized movement list. So how did it get here?
+
+The answers were a cascade of contradictions. Laura claimed she didn’t know. The event organizer claimed it had arrived with “the Queen’s deliveries.” The Queen’s household flatly denied sending it. Three people, three different stories, all of them implausible. William stepped closer to the painting and looked behind the frame. There, attached to the backing board, was a small paper tag. It was not a museum tag. It was a valuation tag. Someone wasn't preparing the picture for display. They were preparing to establish its monetary worth.
+
+This was the moment William’s legendary composure finally fractured. Not with a shout, but with something far more decisive. He ordered every door to the room closed and locked. “Nobody leaves,” he commanded. “Nobody removes a phone, a folder, or a scrap of paper until the ownership of this object has been established.”
+
+Laura stared at him, aghast. “You can’t detain people at a family event.”
+
+William’s gaze swept across the half-built exhibition, the cases of unopened champagne, the now-useless gift bags. “This stopped being a family event,” he said, his voice cutting through the tension, “when someone put the Crown on the invitation.”
+
+But Laura had one more card to play, a defense so audacious it momentarily stunned the room. The picture, she claimed, did not belong to the Royal Collection. It had been given, privately, to her mother, Queen Camilla. Not loaned. Given.
+
+“By whom?” William asked, the question hanging in the air.
+
+Laura hesitated. And in that brief, fatal pause, William knew the answer before she spoke it. “The King.”
+
+A KING’S INDECISION
+
+The entire confrontation had just pivoted on a single, explosive claim. If King Charles had indeed gifted the painting to Camilla, it would become her private property. Laura, as her daughter, might have had every right to display it. The unauthorized move would still be a breach of protocol, but the far more serious accusation—the attempted appropriation of a national treasure—would dissolve. But if he hadn’t, then someone was using the King’s name to seize control of royal property, a crime with implications that reached far beyond a family squabble.
+
+There was only one way to know the truth. The King had to be asked. Camilla, sensing the precipice, tried to de-escalate. The King had enough to manage, she argued. The picture was trivial. William was turning a simple family courtesy into a constitutional crisis. But William was implacable. He had to protect the bright line between the monarch’s private property and the state’s assets held in trust. He sent a private, urgent message requesting his father’s immediate presence at Windsor.
+
+Then, something strange happened. Camilla stopped arguing. She exchanged a look with Laura. Laura’s eyes darted toward the blue folder, the same folder that had once contained the missing authorization document. William saw the glance. He walked to the table, picked up the folder, and unceremoniously emptied its contents. Out spilled guest biographies, catering invoices, seating plans, insurance documents. But no authorization.
+
+Then, a single folded paper slipped from an inner pocket. It wasn't the missing order. It was something far more significant. A draft proposal, several pages long, bearing a formal title: “The Queen’s Family Cultural Initiative.”
+
+This was the master plan. Not one exhibition. Not one borrowed room. An initiative. The document outlined a long-term program of private cultural events to be hosted at royal residences, involving Camilla’s relatives, a curated list of corporate sponsors, and wealthy patrons. Laura’s disastrous Windsor reception was listed as the official “launch event.” The launch that had been stopped. The launch that had continued anyway.
+
+Now William understood everything. The crown on the invitation wasn't just a decorative flourish; it was branding. This was a calculated attempt to create an unofficial, parallel royal operation, a separate court with its own sphere of influence, its own funding streams, and its own network of powerful friends. It was a second door into the monarchy, one that did not run through the Prince of Wales. Once established, with wealthy supporters and influential guests attached to its prestige, it would become politically impossible to close.
+
+King Charles arrived shortly after midday, without ceremony. He walked in carrying his red dispatch box, the symbol of his daily duty, saw the scattered documents, the tense faces of his wife and son, and then his eyes fell on the painting. His expression changed. He recognized it instantly.
+
+“Did you give this to Camilla?” William asked, his tone direct.
+
+Charles’s answer was a single, quiet word. “No.”
+
+Laura turned to her mother, her face a mask of confusion. Camilla said nothing. The King asked to see the valuation label, then asked who had moved the picture from its designated location. Silence. He opened his red box and produced a signed instruction, dated three weeks earlier. It directed that this specific painting, along with several other privately held pieces, was to be placed into a protected family trust. The beneficiaries of that trust were to be Prince George, Princess Charlotte, and Prince Louis.
+
+Suddenly, the final pieces of the puzzle fell into place. That was why the solicitor was on the guest list. That was why the valuation mattered. And that was why the event had to happen before the trust documents were finalized. If the painting could be seen, just once, publicly displayed as Camilla’s property, photographs and guest testimony could be used to create a legal argument that it had already been treated as her private chattel. It wouldn’t be definitive proof, but it would create doubt. Enough doubt for lawyers to argue, to delay, to dispute the painting’s inclusion in a trust meant for William’s children.
+
+The story was no longer about Laura ignoring an order. It was about a systematic attempt to pull a valuable asset away from the direct line of succession. But the plot had another twist. Camilla, cornered, denied orchestrating any such plan. She insisted she genuinely believed Charles had promised her the picture years ago. She produced a worn piece of notepaper from her handbag. It was a birthday message, written in Charles’s familiar, spidery handwriting. At the bottom, beneath several lines of affection, he had written: “One day the little landscape will be yours.”
+
+There it was. A promise. But was it a legally binding gift? That one, ambiguous sentence, a product of romantic sentiment, had created this entire catastrophe. Camilla had interpreted it as a transfer of ownership. Charles had intended it as a statement of affection. And now, it was being used as a weapon in a dynastic property dispute.
+
+THE LINE IN THE SAND
+
+Charles took the note. He placed it on the table beside the formal, signed trust instruction. He then asked the solicitor, who had been waiting in an adjacent room, to read both and offer a professional opinion. The solicitor’s judgment was swift and brutal. The birthday message expressed a future intention, but it did not constitute a legal transfer of ownership. The signed, dated, and witnessed trust instruction, however, did. The painting belonged with the trust. The legal question was settled.
+
+But William was not finished. He still wanted to know who had written the phantom authorization document. Charles ordered it found. An exhaustive search began. Printer logs were checked, deleted emails restored. At 2:46 p.m., an aide discovered the source. The document had been created and printed from a computer in Queen Camilla’s private office. But she hadn’t signed it. The signature belonged to one of her most senior and trusted advisers.
+
+The woman, when summoned, admitted everything. She had drafted the “Cultural Initiative” proposal. She had instructed the printers to add the royal crest. She had told the delivery vans to use the Queen’s designation. But her motive, she claimed, was not malice, but a misguided sense of loyalty. She believed William’s household was systematically drawing a harder line between blood royals and Camilla’s family, slowly pushing them out of palace life. She saw the initiative as a way to secure a permanent, recognized place for the Queen’s family before William eventually became King. Not with titles or public money, but with access and influence. She believed she was defending her Queen. But she had used Laura, the Queen’s own daughter, as her instrument.
+
+That was the ultimate betrayal. Laura had not arrived at Windsor intending to steal royal property. She had been manipulated, told the event was approved, shown a document with a senior signature, and assured the painting belonged to her mother. But when the official cancellation order arrived, she made a critical error: she chose not to question the narrative she had been fed. She ignored the warning because the version she wanted to believe was more convenient. William wasn't furious because she was Camilla's daughter. He was furious because her family connection had been weaponized, used as a key to unlock gates, move priceless objects, and silence staff who were only doing their duty.
+
+Charles dismissed the adviser immediately. The invitations were ordered destroyed. But Camilla was still not satisfied. She demanded a written apology for Laura, for the humiliation of being confronted by staff. William flatly refused. An apology would legitimize her actions. Charles, ever the peacemaker, tried to calm the situation, but only made it worse. Camilla accused William of using the incident to humiliate her family and establish his dominance before the throne was even his. William’s reply was devastatingly blunt. “I am protecting the throne,” he said, looking directly at his father, “because you failed to draw the boundary yourself.”
+
+The silence that followed was absolute. Even William seemed shocked by the force of his own words. It was the accusation that lay beneath everything: that Charles, in his desire to blend his two families, had never enforced the difficult, necessary distinctions between private affection and public duty. His ambiguity had created this crisis.
+
+But the final blow was yet to come. After Laura had left, William returned to the guest list. Forty-one names had been invited to the reception. The forty-second, the solicitor, had been added by hand. The handwriting did not belong to Laura, Camilla, or the dismissed adviser.
+
+Charles recognized it. It was his own.
+
+The King had known about the planned reception from the beginning. He had even suggested his wife’s daughter get legal advice. But when the proposal became controversial, when his son’s office began asking questions, he had remained silent, allowing the palace to shut it down without ever admitting his own initial involvement. He hadn’t ordered the seizure of the painting, but his passivity, his refusal to take a clear position, had created the vacuum in which everyone else fought over what they thought he wanted.
+
+William placed the guest list in front of his father. “You could have prevented all of this.”
+
+Charles did not deny it. He looked at the empty space on the wall where the painting had hung. He looked at the destroyed invitations. Finally, he reached for a pen. He drew a single, heavy line through the words “The Queen’s Family Cultural Initiative.” Underneath, he wrote a new, definitive policy: “No private family member acts with royal authority.” He signed it.
+
+It was a complete capitulation. A formal decree, born from a crisis, that enshrined William’s vision of a rigid, professionalized monarchy. Camilla read the sentence. Laura’s name wasn’t there, but it didn’t need to be. Everyone in the room knew who the boundary had been written for. As William gathered the papers and walked away, he left behind a king surrounded by his own signatures—the affectionate birthday note that had promised too much, and the formal order that had arrived too late. A king nearly broken not by his actions, but by the words he never had the courage to say. The question that now echoes through the halls of power is not whether a line has been drawn, but whether it has divided a family so deeply that the House of Windsor itself may never fully recover.
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

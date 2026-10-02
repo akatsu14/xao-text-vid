@@ -1,0 +1,135 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: 20260810 The Royalist/20260810 1 BREAKING Anne HALTS Memorial Dinner After Camilla's Outburst Leaves Sophie In Tears_out.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience:
+- Primary angle / thesis:
+- Must-include points (3–8 bullets max):
+- Keywords / entities to emphasize:
+- Things to avoid / do-not-claim:
+- Output constraints (optional):
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+THE CROWN IN CRISIS: INSIDE THE ROYAL SHOWDOWN THAT HALTED A KINGDOM AND REDEFINED THE MONARCHY
+
+Princess Anne pushed back her chair, and with three words, shattered a royal dynasty's fragile peace. The command—"This dinner ends now"—was not just an interruption; it was an act of rebellion against a Queen. Now, the palace must confront how a tribute to a dead monarch ignited a war for the future of the living, a war that would force a new King to choose between the wife he loved and the institution he was born to lead.
+
+A PROMISE SHATTERED IN SILENCE
+
+The air inside Windsor Castle was meant to be heavy with solemnity, not suspense. Within the hallowed walls that had witnessed centuries of English history, a small, exclusive gathering of senior royals and their most trusted aides had assembled for a memorial dinner. This was not a state function, broadcast to the world with pomp and pageantry. It was intended as an intimate act of remembrance, a closed family meal to honor the legacy of Queen Elizabeth II, the matriarch and monarch who had defined an era. The very purpose of the evening was to insulate her memory from the rivalries and tensions that inevitably simmer beneath the polished surface of the House of Windsor. It was a sanctuary in time, designed to be governed by grief, not grievance.
+
+At the emotional center of this sanctuary was Sophie, the Duchess of Edinburgh. Her selection to deliver the primary tribute was neither accidental nor a matter of simple protocol. It was a reflection of a profound and quiet bond, forged over years of shared confidences and understated loyalty. While others in the family commanded headlines, Sophie had earned something far more valuable: the late Queen’s deep and abiding trust. She had become a daughter to the sovereign, a steady presence during the isolating years following Prince Philip’s death. For Sophie, this tribute was not a performance or an opportunity; it was the carrying of an emotional burden, the fulfillment of a final, sacred duty to a woman she had loved like a mother.
+
+Sources close to the Duchess confirmed she felt the immense weight of this responsibility. Before the guests entered the dining room, she was seen gripping the pages of her speech, her knuckles white. It was Princess Anne who, sensing her anxiety, offered a quiet reassurance. "You were chosen because you knew her heart," the Princess Royal reportedly told her, a simple sentence meant to steady a confidant about to speak for the silent. The words worked, settling Sophie’s nerves. She rose to her feet, the room hushed in anticipation, and began to speak of loyalty, of kindness, of a duty performed without demand for praise.
+
+Then, the sanctuary was violated. A single, furious sentence from Queen Camilla cut across the room, sharp and cold as broken glass. She accused Sophie of turning a sacred family remembrance into a performance about herself. The accusation hung in the air, a shocking breach of decorum. Sophie, visibly trembling, tried to continue, her hands shaking as she forced out another sentence. But Camilla was relentless. She interrupted again, her voice laced with ice, asking whether Sophie had ever truly understood the burden of the crown—a question aimed not at a piece of regalia, but at the crushing weight of sovereign duty and authority that Camilla now shared with the King.
+
+The attack broke something fundamental. The carefully constructed peace of the evening lay in ruins. The Duchess of Edinburgh lowered her pages, her tribute unfinished. She covered her mouth with her hand, a desperate, futile gesture to contain the sob that was already escaping. Before the assembled family, the woman trusted with the late Queen’s heart began to cry.
+
+THE QUEEN'S GAMBIT
+
+To understand the ferocity of Queen Camilla’s outburst, one must look beyond the confines of that single evening and into the long, arduous history of her own royal journey. For decades, Camilla was the outsider, the specter haunting the fairytale marriage of Charles and Diana, the woman labeled by the press and the public as the architect of its demise. Her path to the throne was not a birthright but a brutal, decades-long campaign for acceptance, fought in the unforgiving glare of global scrutiny. Her eventual ascension to Queen Consort was the culmination of a masterfully executed strategy of rehabilitation, a testament to her resilience and unwavering devotion to Charles. But royal historians note that such a journey leaves indelible scars. Having fought so hard for her position, she guards it with a fierce, almost primal, territorialism.
+
+In the meticulously ordered world of the monarchy, every gesture, every placement, every speaking role is freighted with meaning. It is a universe of symbols, where precedence is power. For Camilla, seeing Sophie of Edinburgh placed at the emotional heart of the memorial was not merely a poor choice of scheduling; it was, according to palace insiders, perceived as a direct challenge to her authority. The printed speaking order, a simple document outlining the sequence of tributes, became in her eyes a public declaration that another woman—one who had won the late Queen’s affection without scandal or struggle—held a more authentic claim to her legacy. The trusted confidant, the quiet daughter-in-law, had been elevated, while Camilla, the Queen Consort, felt she had been marginalized.
+
+Psychological profiles developed by royal analysts suggest that this perceived slight would have tapped into her deepest insecurities. The question she posed to Sophie—"whether she had ever understood the burden of the crown"—was deeply revealing. It was a projection of her own experience, a reflection of the immense personal cost she had paid to stand beside the King. In her view, she had borne the true burden, enduring public scorn and private heartbreak to finally arrive at her rightful place. Sophie’s quiet, uncomplicated relationship with Elizabeth II, built on shared carriage rides and private teas, seemed to bypass that crucible of suffering. It was a form of legitimacy that Camilla, for all her new titles and jewels, could never claim. The outburst, therefore, was not simply an act of jealousy; it was a desperate, misguided defense of her own narrative, an attempt to assert that her hard-won rank superseded Sophie’s earned affection. It was the gambit of a Queen who, even with the crown secured, still feared the ghosts of the past and the shadows of those more effortlessly loved.
+
+THE PRINCESS ROYAL'S RECKONING
+
+As Sophie’s composure crumbled, the gaze of the room shifted to Princess Anne. Her expression, already known for its stoic and often severe quality, hardened into something formidable. She watched the humiliation unfold not as a passive observer, but as a guardian of a legacy under assault. The scrape of her chair against the polished floor was the only sound that dared to break the tension. When she rose, she did so with an authority that seemed to emanate not from her title, but from the very core of her being. Her declaration, "This dinner ends now," was not a suggestion. It was a command, delivered with the finality of a judge’s gavel.
+
+This was Princess Anne in her most elemental form: the enforcer, the pragmatist, the keeper of the institutional flame. The title she holds, Princess Royal, is traditionally bestowed upon the monarch's eldest daughter and is steeped in a history of formidable women who served the crown with unyielding devotion. Anne has embodied this role with an almost military discipline throughout her life. Consistently ranked as the hardest-working member of the royal family, she has eschewed the glamour and drama that have often consumed her siblings, focusing instead on the relentless, unglamorous work of monarchy. She is, as many royal commentators have noted, the living embodiment of her mother’s famous creed: "never complain, never explain."
+
+Her intervention was not born of simple sympathy for Sophie. It was a defense of the monarchy itself. For Anne, the memorial was a final promise to her mother, a sacred occasion to honor a lifetime of service. To allow it to devolve into a public contest for status, fueled by personal insecurity, was an unforgivable desecration. When Camilla demanded to know what gave her the authority to end the dinner, Anne did not need to answer. Her authority came from a deeper place than protocol. It was the moral authority she had accumulated over a lifetime of selfless duty, the same quality that had made her her mother’s most trusted lieutenant. She was not just protecting a sister-in-law; she was protecting the dignity of the Crown from the vanities of those who wore it. She ordered arriving staff to be stopped at the doors and instructed every guest to leave without another word, effectively placing the entire event, and the Queen Consort herself, under her command. It was a stunning assertion of power, a reminder that within the complex ecosystem of the royal family, true influence is not always aligned with the highest rank.
+
+A KING'S PARALYZING SILENCE
+
+While his sister seized control and his wife seethed with rage, King Charles III remained seated, a statue at the head of the table. His silence was the most deafening sound in the room. He did not intervene. He did not defend his wife. He did not comfort his sister-in-law. He simply stared at a sealed manila folder placed beside his wine glass, as if the answer to the entire crisis lay within its simple confines. This moment of inaction was a terrifyingly public glimpse into the central conflict of his reign: the collision between his duty as sovereign and his deep, personal loyalties.
+
+Constitutional experts and royal biographers have long pointed to Charles's character as one of greater sensitivity and emotional complexity than his famously stoic mother. He is a man known to feel things deeply, a monarch who has spent a lifetime waiting, contemplating the nature of his future role. At that dinner table, he was trapped in an impossible position. To his right was Camilla, the love of his life, the woman for whom he had risked everything and whose security and status were now his paramount concern. To his left was the unfolding legacy of his mother, represented by the dignified grief of Sophie and enforced by the iron will of his sister, Anne. To defend Camilla would be to condone an act of public cruelty and undermine the very values of duty and restraint his mother had championed. To side with Anne and Sophie would be a public rebuke of his own Queen, a move that would signal instability at the very heart of his new court.
+
+His paralysis was understandable. The history of the British monarchy is littered with the wreckage of kings who failed to navigate the treacherous currents of family and duty. His great-uncle, Edward VIII, had chosen love over the crown, plunging the institution into its greatest crisis of the 20th century. Charles, having witnessed the devastating marital wars of his own generation, knew better than anyone the damage that internal conflict could inflict on the monarchy's public standing. The sealed folder on the table was more than just a piece of evidence; it was a symbol of his inheritance. It contained his mother’s will, her final instruction, a ghost from the past demanding fealty. But his heart, and his future, were tied to the woman who had just defied it. Every second that ticked by increased the pressure, forcing him toward a decision that would not only resolve the chaos of the evening but would also serve as the first foundational ruling of his entire reign.
+
+THE GHOST IN THE MACHINE: A MOTHER'S FINAL WISH
+
+The true origin of the explosion at the dinner table lay not in Camilla’s insecurity, but in a few lines of elegant script, handwritten by a monarch no longer alive to defend them. The conflict had begun hours earlier, in the solemn quiet of St. George's Chapel, the historic royal place of worship at Windsor. There, during a final check of the ceremonial program, the disputed message was found. It was a personal note from Queen Elizabeth II, reproduced for the occasion, thanking Sophie for bringing "steadiness and kindness when grief had weakened everyone around her." Crucially, the late sovereign had also requested that Sophie lead a future private remembrance.
+
+In the coded world of the monarchy, such a document is a powerful artifact. It is not a legal will, but it carries an almost sacred moral weight. The late Queen was famously economical with her public praise, preferring gestures of quiet inclusion over grand declarations. For her to commit such personal affection and a direct instruction to paper was a significant act. It transformed Sophie’s tribute from a simple speech into a personal duty, a charge she could not surrender without betraying the trust that had been placed in her.
+
+When Camilla read the reproduced message, she saw it not as a touching tribute but as a calculated move to elevate Sophie’s importance. She insisted that such "intimate praise" be removed, arguing that private affection should remain private. Sophie, though shaken, calmly refused, understanding that to erase the message would be to silence her beloved mother-in-law's recorded wish. It was at this moment that Princess Anne arrived, a fulcrum of authority. Upon confirming the message was an exact match of the approved copy, she issued a direct order: "Not one word will be removed." Camilla’s warning that the matter was not settled was met with Anne’s sharp retort: "Her Majesty already settled it."
+
+This chapel confrontation reveals the premeditated nature of the subsequent crisis. Anne, ever the strategist, knew the battle was not over. Without informing Camilla, she placed a second, authenticated copy of the sealed instruction inside the folder destined for the King's place at dinner. It was a brilliant tactical move, a safeguard against the very challenge she anticipated. The folder sitting by Charles’s glass was not just a prop; it was Anne’s checkmate, waiting to be played. She was no longer merely protecting Sophie; she was preparing to confront the woman who had dared to challenge her mother's final, written choice, armed with the one weapon that even a Queen could not defy: the authenticated word of her predecessor.
+
+JUDGEMENT IN THE KING'S STUDY
+
+After the last guest had departed the ruined dinner, the real confrontation moved behind closed doors. Charles entered his private study, the contentious folder in his hand. He was no longer just a son and a brother; he was the sovereign, the final arbiter. When Anne joined him, she did not arrive with demands for punishment or retribution. Instead, she posed a single, devastating question that cut to the heart of the matter: could royal rank be used as an excuse for cruelty committed in the name of authority?
+
+She methodically laid out the facts. Charles himself had appointed her as chair of the private family remembrance committee, a formal role that gave her the explicit authority to protect the dignity of the occasion. Her decision to suspend the dinner was not, therefore, an impulsive act of anger but the deliberate and valid execution of a duty he had assigned her. She was holding him to his own command.
+
+The King opened the official event log, a meticulous record kept by a private secretary who had witnessed the entire exchange. The log was a crucial piece of institutional memory, an objective account that prevented the raw, emotional truth of the evening from being softened or rewritten by palace spin doctors. Charles read it twice, his eyes stopping on the sentence describing Sophie lowering her tribute as tears overtook her. He removed his glasses, a small, weary gesture that spoke volumes. Anne pressed her advantage, framing the choice before him not as one between his wife and his sister, but as a far more profound decision between appearance and accountability. "Loyalty to the crown," she insisted, meant correcting harm inside their own family before they could demand respect from the world outside it.
+
+Finally, the King reached for his pen. He signed a private directive, a formal royal instruction that served as his verdict. The memorial dinner would remain officially canceled. Queen Camilla was to be removed from all remaining planning decisions related to the memorial. Sophie’s original tribute, unedited and uncensored, would be protected and delivered at another, more private gathering. And then came the final, most personal condition: Camilla would apologize to Sophie directly, face to face, with no aides, no prepared statements, and no negotiated wording. The King wanted genuine contrition, not a polished statement from the palace communications team. He was demanding that his Queen confront the woman she had broken and acknowledge the damage she had caused, without the protective armor of the institution to shield her. It was a decisive, painful, and necessary judgment.
+
+THE WINDSOR WHISPERS: FALLOUT AND A FRAGILE TRUCE
+
+By midnight, the abandoned dining room had been cleared, but the emotional wreckage remained. The news of the halted dinner inevitably escaped the castle walls, spreading first as whispers among the household staff and then, by morning, exploding onto the front pages of the nation's newspapers. One headline captured the essence of the drama in four stark words: "ANNE STOPPED IT FOR SOPHIE." The accompanying photographs were equally potent: Princess Anne leaving Windsor with a rigid, determined expression; the Duchess of Edinburgh departing separately, her eyes visibly reddened. The public did not see a complex dispute over protocol; they saw a simple, powerful morality play—one woman, the bully, and two others, the victim and the protector.
+
+The Palace, under direct orders from the King, refused to engage in the usual tactics of obfuscation. There would be no convenient stories of a sudden illness or a scheduling conflict. The official statement was a masterpiece of strategic transparency. It confirmed that the private dinner had ended early and that Princess Anne had acted under her authority as chair of the remembrance committee. Crucially, it also affirmed that Sophie’s tribute would proceed at a later date, signaling to the world that she retained the late Queen's written confidence. While it avoided the explicit, humiliating details of the outburst, the statement’s meaning was clear. By confirming whose role would continue and whose influence had been curtailed, the King had publicly ratified his private verdict.
+
+The most critical act of reconciliation, however, occurred far from the public eye. As instructed, Camilla went to Sophie. There was no audience, no secretary to record the words. In that private room, the Queen Consort reportedly admitted that jealousy and fear had driven her actions. She accepted responsibility for questioning Sophie’s motives and for turning a memorial into a contest. Sophie, in turn, accepted the apology but made it clear that forgiveness would depend on future conduct, not past words. It was a fragile truce, not a full restoration of trust. But it was a beginning, one forced into existence by a King who had chosen the difficult path of accountability over the easy illusion of unity.
+
+A THRONE REDEFINED: THE LEGACY OF A BROKEN DINNER
+
+In the days that followed, Sophie, Duchess of Edinburgh, stood before a smaller, more intimate gathering of the family. With Princess Anne standing silently beside her, she delivered her tribute to Queen Elizabeth II in full. She read every word of the speech that had been so brutally interrupted, her voice clear and steady. The final paragraph, which she had never reached at the dinner, described service as "the courage to remain gentle when others mistake gentleness for weakness." The line landed with profound resonance, a perfect encapsulation of both the woman she was honoring and the ordeal she had just endured.
+
+The canceled dinner was never rescheduled. It remains on the official record as a stark symbol of a monarchy at a crossroads. The incident has irrevocably altered the internal power dynamics of the House of Windsor. Princess Anne, long respected for her work ethic, has emerged as the family's undisputed moral compass, the guardian of her mother's austere code of duty. Queen Camilla, while still the King's consort, has been served a powerful reminder that her authority is conditional and that her position does not grant her immunity from consequence. Her journey to full public acceptance, once thought complete, now faces a new and unexpected challenge.
+
+Most significantly, King Charles III, in his first major test, defined the character of his reign. By signing that directive, he chose accountability over appearance, and dignity over rank. He demonstrated that in his monarchy, the quiet, earned trust of a figure like Sophie of Edinburgh would be protected, even at great personal cost. He upheld his mother’s final wish, proving that her legacy was more than just a memory to be honored with ceremony, but a set of principles to be actively defended. The monarchy survived this crisis not by hiding its fractures, but by confronting them. The outburst that shattered the peace of a memorial dinner ultimately forced a verdict: that kindness is not weakness, and that true royal authority is measured not by the power to command, but by the courage to be just.
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

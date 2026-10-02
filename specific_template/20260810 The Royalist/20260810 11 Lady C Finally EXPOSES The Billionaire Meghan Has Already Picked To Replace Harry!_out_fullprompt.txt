@@ -1,0 +1,129 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: 20260810 The Royalist/20260810 11 Lady C Finally EXPOSES The Billionaire Meghan Has Already Picked To Replace Harry!_out.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience:
+- Primary angle / thesis:
+- Must-include points (3–8 bullets max):
+- Keywords / entities to emphasize:
+- Things to avoid / do-not-claim:
+- Output constraints (optional):
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+THE MONTECITO ENDGAME: INSIDE MEGHAN'S ALLEGED HUNT FOR A BILLIONAIRE TO REPLACE THE PRINCE
+
+Meetings are taking place in Los Angeles. Not parties, not red carpets. Meetings. According to sources close to the Sussexes’ new world, these are discreet, strategic discussions between Meghan Markle and a select group of billionaires. While Prince Harry, the man who gave her a global platform, reportedly struggles to define his own existence, his purpose in their shared enterprise is said to have expired. The question circulating in the hushed corridors of power, from London to California, is no longer if this trans-Atlantic royal experiment will end, but who has already been chosen to succeed him.
+
+ THE PRINCE WHO BECAME A PAUPER
+
+There is a particular kind of silence that settles over a man who has lost his purpose. For Prince Harry, Duke of Sussex, that silence is now said to be deafening, echoing through the manicured grounds of his Montecito estate. Recently, on a podcast, the 41-year-old was asked a simple, devastating question: what do you do for a living? The hesitation was palpable. He mumbled something about his ducal title, a phantom limb of a former life. He mentioned being a prince of a kingdom he no longer serves. Then, he stopped. The answer had evaporated, because the role itself has ceased to exist. A royal expert, observing his trajectory, likened him to a “well-trained racehorse” suddenly left in an open field, utterly lost without the familiar tracks of duty and protocol. Montecito, in this analogy, is a vast and terrifying wilderness.
+
+This is not merely a crisis of identity; it is a quantifiable collapse in value. When the Sussexes first arrived in California, a whirlwind of royal mystique and rebellious glamour, Prince Harry’s presence at an event commanded a fee of a million dollars. He was a prize, a direct link to a thousand years of history, packaged for a new American market. Today, that value has plummeted. He was recently paid a reported fifty thousand pounds to speak at a property conference—a staggering 95% drop in his perceived worth. For a man raised to believe his very blood was priceless, this market correction must feel less like a business negotiation and more like a personal judgment. He is no longer the main attraction; he is the supporting act in a drama he no longer controls.
+
+The institutional scaffolding that once held him up has been systematically dismantled, largely by his own hand. The King, his father, does not want him back in a working capacity. The Queen, his stepmother, remains a silent but formidable barrier. And his brother, the Prince of Wales, the man with whom he once shared an unbreakable bond forged in tragedy, will reportedly not have him in the palace. The family, the institution that was his entire world, has closed its gates. He is left in a sun-drenched California exile, a prince without a portfolio, a soldier without a regiment. Royal editor Ingrid Seward, who has chronicled the family’s fortunes for four decades, once noted that Meghan had to “hang on to Harry,” for he was her “entree” into a world she coveted. Without him, she was just another actress. But today, as one commentator brutally assessed, “the entree has been eaten.” Meghan Markle bought a prince, and according to a growing chorus of insiders, she is now left with a man who cannot even articulate his own job. For a woman of her alleged ambition, this is not a partnership; it is a liability.
+
+ A BLUEPRINT FOR ASCENSION
+
+To understand where this story might be heading, one must first exhume its beginning. The official narrative, the one polished for television interviews and hagiographic documentaries, was a fairy tale of a blind date, of love at first sight, a whirlwind romance that defied convention. But according to multiple sources who knew Meghan before she met her prince, the reality was far more calculated, a meticulously planned operation years in the making. The story did not begin with love; it began, they claim, with a hunt.
+
+Veteran royal biographer Tom Bower, known for his forensic and often unflattering portraits of the powerful, unearthed a telling detail from Meghan’s own agent. Before her first date with the world’s most eligible bachelor was even in the diary, Meghan allegedly confided that she had done more than just look him up. “I have Googled Harry,” she reportedly said. “I have gone deeply into his life.” This was not the idle curiosity of a woman with a crush. This was, in the cold language of strategy, opposition research. It was homework. She was studying a target, learning his weaknesses, his passions, his psychological pressure points—the deep, unhealed wound left by the death of his mother.
+
+This alleged mission had a clear objective. According to those who observed her in London society from 2013 onwards, she was on a “man hunt.” The goal was specific: she wanted an Englishman, a man of status and connection who could elevate her from the world of basic cable television to a higher plane of influence. Royal watchers have pointed to an early interest in footballer Ashley Cole, long before a prince was ever a possibility. Piers Morgan, the British broadcaster who became one of her most vocal critics, has preserved the digital evidence of her networking. He released a screenshot of a direct message she sent him in September 2015, unprompted, at one o’clock in the morning. “Well, hello there,” it began. “Thanks for the follow. Big fan of yours.” It was the opening move of a master networker, an attempt to cultivate an influential media ally.
+
+The narrative that she arrived in London as a successful, independent woman uninterested in romance is, in the words of one insider, a “tissue of inaccuracies.” She was, by these accounts, a woman with a plan, a social climber of prodigious talent and relentless focus. Lady Colin Campbell, the aristocratic author who has moved in royal circles for decades, offered a chillingly precise assessment of Meghan’s operational mindset, an impression of her business philosophy that cuts through all sentimentality. “I am not giving away the milk for nothing,” Lady C stated, channeling what she perceives as Meghan’s core principle. “I demand something back, what I want, and I get exactly what I want.” She followed this with three words that define the entire enterprise: “Very transactional.” This was not a search for a soulmate. It was a merger and acquisition.
+
+ THE GHOSTS OF FRIENDS PAST
+
+A transactional life leaves a trail. If a person’s value is measured only by their utility, then relationships become disposable assets, to be discarded the moment they cease to serve a purpose. Critics of the Duchess have assembled a compelling, if circumstantial, case by pointing to the long list of people who were once central to her life and are now conspicuously absent. It is a pattern, they argue, of using and losing, of climbing a ladder and kicking away the rungs below.
+
+The list begins in her childhood. Ninaki Priddy was her best friend from the age of two, a bond so close she was a bridesmaid at Meghan’s first wedding to producer Trevor Engelson. But when that marriage dissolved, Priddy, who reportedly took Engelson’s side, was excised. She described a “shutdown mechanism” in Meghan, an ability to turn ice-cold and sever a connection completely. Her final verdict was a stark epitaph for a friendship: “There is Meghan before fame, and there is Meghan after fame.”
+
+In London, before Harry, television personality Lizzie Cundy was a confidante. She claims she was ghosted the moment a more valuable connection was made. Her analysis is blunt: “People served a purpose. Purpose served, onto the next.” Millie Mackintosh, a British reality television star, used four words to describe her own experience of being discarded: “She cut me dead.” Gina Nelthorpe-Cowan was not a friend but a professional associate, her agent in the UK for two years. She witnessed the transformation firsthand. She describes a woman who made a habit of “moving on to better things,” and recounts a chilling moment years later, in a room with both Harry and Meghan, where she was completely ignored by the Duchess, a non-person. The interaction was so carefully managed, she says, that Harry was sent over to speak with her instead, a buffer between Meghan and her own past.
+
+Perhaps the most high-profile and debated example is that of Jessica Mulroney. The Canadian stylist was not just a friend; she was an architect of Meghan’s pre-royal brand, a key ally whose children were page boys and a bridesmaid at the royal wedding. Yet, following a controversy in which Mulroney was embroiled, she was unceremoniously dropped. The speed and finality of the separation shocked observers. This was a woman who was intimately involved in the couple’s life, yet she was cast aside.
+
+Of course, friendships end. People grow apart. Divorces create painful schisms. But critics point to a telling counter-argument: the people who have remained. Doria Ragland, her mother, is a constant. Serena Williams, a global icon of immense power and prestige, remains in the circle. And crucially, Markus Anderson, the Soho House consultant who was her key social connector in the early 2010s, the man who opened every important door for her, is still in the photographs more than a decade later. The pattern, they argue, is clear. Those who can still provide access, status, or a valuable association remain. The ones who have been outgrown, or who represent a past she wishes to forget, are gone. It is the cold calculus of a relentless ascent.
+
+ HOLLYWOOD'S GILDED CAGE
+
+The ultimate irony of the Sussexes’ grand escape to California is that in chasing the global superstardom they felt the monarchy denied them, they have found themselves increasingly isolated, trapped in a gilded cage of their own making. The social currency of a royal title, they are discovering, is subject to a brutal exchange rate in Hollywood, a town that worships power, money, and relevance—all of which appear to be in dwindling supply for the couple.
+
+The snubs are becoming impossible to ignore. The Met Gala, the absolute pinnacle of the fashion and celebrity calendar, is a room Meghan has reportedly been desperate to enter. It is the ultimate validation, a global stage where one’s status is affirmed by a single photograph. But Anna Wintour, the formidable editor of Vogue who presides over the event like a modern-day empress, has not extended an invitation. As Ingrid Seward explained, such an appearance is not about glamour for Meghan; it is a business necessity. It would “up her rate,” a starkly commercial assessment of a Duchess’s brand. She is seen not as royalty, but as a commodity whose price is falling.
+
+The social exclusion extends beyond a single event. A crucial bridge was reportedly burned with Lauren Sanchez Bezos, the partner of Amazon founder Jeff Bezos. According to reports, Sanchez Bezos attempted to befriend Meghan, extending invitations and opening a door to the most rarefied circle of tech billionaires on the planet. Meghan not only snubbed her but was said to have privately dismissed her as “trashy.” In the unforgiving social hierarchy of Los Angeles, this was a catastrophic miscalculation. To insult the partner of one of the world’s richest men is to close a door that will never open again. The woman allegedly hunting for a billionaire had alienated the one billionaire’s wife who was holding that door wide open.
+
+The list of cooled relationships reads like a who’s who of the A-list. The Obamas, the Clooneys, Oprah Winfrey, Gwyneth Paltrow, Elton John—all were once considered close friends or powerful allies. Today, the connections appear to have frayed. The reason, according to one brutal on-air assessment, is a matter of toxic association. Celebrities, whose careers depend on public perception, are increasingly wary of being photographed next to a couple that has become deeply unpopular. They never needed the Sussexes; the Sussexes needed them. The moment the association became a liability, the calls stopped being returned.
+
+The most damning evidence of their social isolation came from their own Netflix production. Despite a massive budget and the promise of a global audience, their series on life in Montecito failed to attract a single A-list star. There was no Elton John at the piano, no George Clooney sharing a coffee, not even a cameo from their supposed close friend Serena Williams. The biggest name they could secure was model and television personality Chrissy Teigen. They had built a grand stage but found that none of the stars they claimed to know wanted to appear on it. They are, it seems, famous for being famous, but increasingly disconnected from the very power structures they sought to join.
+
+ A CONSPIRACY OF TWO
+
+In the popular narrative of the Sussex saga, Prince Harry is often cast as the victim—a damaged, vulnerable man manipulated by a worldly and ambitious older woman. It is a simple, compelling story of a lamb led to slaughter. But according to those who have studied the couple’s dynamics closely, this interpretation is not only simplistic, it is a profound misreading of the man himself. Harry was not a passive hostage; he was, and is, an active and willing co-conspirator.
+
+Lady Colin Campbell has been particularly forceful in dismantling the “poor Harry” narrative. She insists he was not duped. On the contrary, he was an equal partner in a mutual deception. “He also initially deceived her into thinking that he was more powerful than he was,” she stated, revealing a crucial, often overlooked aspect of their courtship. He sold her a version of himself as a global power-broker, a prince who could rival his brother on the world stage. In turn, she sold him a vision of a life free from the constraints of the monarchy, where they could achieve true global influence and financial independence.
+
+Their shared ambition was breathtaking in its scope. According to Lady C, the couple had a grand plan: William and Catherine would have Britain and the Commonwealth, a quaint, parochial domain. Harry and Meghan, meanwhile, would take the rest of the world. They would be the “global royal couple,” a new kind of royalty for the modern age, unburdened by tradition and accountable to no one. It was a plan to carve up a thousand-year-old institution over a dinner table in California, hatched by two people who, as events have proven, could not successfully run a jam business.
+
+This reveals Harry’s own deep-seated resentments and ambitions. He was not merely an accomplice; Meghan’s desires aligned perfectly with his own. She gave voice to the frustrations he had long harbored about being the “spare,” about living in his brother’s shadow, about the perceived injustices of the institution. A woman like Meghan, as one commentator noted, needs an enabler. She needs a man who wants exactly what she wants. In Harry, she found the perfect partner: a man with a prestigious title, a global platform, and a burning desire to settle scores with his family. He did not fall into this marriage by accident. He raised his hand for it.
+
+The late Queen Elizabeth II herself was said to have harbored deep reservations. A royal source recounted a conversation where the monarch confided in her cousin, expressing a belief that Meghan “didn’t actually love him and didn’t really care for him.” She saw the dynamic for what it was: a user and an enabler. Angela Levin, Harry’s own biographer, described him as a man who was “entrapped,” but the trap was one he willingly walked into because it promised him everything he thought he wanted. The tragedy is not that of a good man led astray, but of two deeply flawed individuals whose destructive ambitions found a perfect, ruinous synergy. As Lady C concluded with characteristic acidity, “Never did two people more richly deserve penury than the two of them. Studies in treachery, both.”
+
+ THE EXIT STRATEGY AND THE OPEN DOOR
+
+The endgame is now being spoken of openly. What was once whispered in private is now being debated by the very people who have chronicled this family for a generation. On a panel of royal watchers, the question of the couple’s future was met with a chilling consensus. “She will dump him,” said one, without hesitation. “She will drop Harry and move on and find herself somebody else. It will be some kind of older, really rich man.” No one at the table disagreed. Paul Burrell, who spent a decade as Princess Diana’s butler and understands the private behavior of royals better than almost anyone, was unequivocal. Harry’s current life “will not be enough for Meghan,” he declared. “Her next step is a billionaire.”
+
+This is not idle gossip. It is an analysis based on a perceived pattern of behavior and a cold assessment of the couple’s current predicament. Harry’s utility, the central thesis goes, is exhausted. He has provided the title, the children with royal status, and the insider stories that fueled their initial media deals. Now, with his own market value collapsing and their social standing in Hollywood precarious, he is no longer an asset. The purpose he served is over. They are, as one commentator put it, “no longer aligned in purpose.” For a pragmatist like Meghan, it is simply time to move on.
+
+The truly stunning part of this potential future is not Meghan’s next move, but the fate that awaits Harry. There is a powerful belief among royal insiders that should the marriage end, the door to his old life would immediately swing open. “If Harry were to separate, get divorced, he would be welcomed back by father and son like that,” one source claimed emphatically. In this scenario, Meghan would be cast as the sole villain, the scapegoat for the entire destructive saga. The family’s anger, it is said, was never truly directed at him, but at her influence. Donald Trump, in a typically blunt assessment to a biographer, summed up the palace view in five words: “Oh boy, that wife of his.”
+
+The British public, too, would likely embrace a prodigal son. As American host Billy Bush observed after covering the Queen’s funeral, the public’s bitterness is almost entirely directed at Meghan. “They still love Harry,” he said. “They’re mad at Harry, but forgiveness will be quick and swift. It’s all her.” The path to redemption for the prince is clear: he would need to renounce his American life, admit his errors, and return to the fold. He would be a diminished figure, forever marked by his rebellion, but he would be home.
+
+Yet, this is a path he is unlikely to take. To walk back through the gates of Windsor Castle would mean admitting to his brother, Prince William, that he was right all along. For a man as proud and stubborn as Harry, that admission may be a price too high to pay. He would sooner sit in his Montecito mansion, a king in a kingdom of one, than grant his family that ultimate victory. And so he waits, trapped between a past he cannot reclaim and a future he does not control. She, meanwhile, is allegedly taking meetings, planning her next ascension. He was never the destination. He was the vehicle. And he has, for all intents and purposes, finally run out of road.
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

@@ -1,0 +1,195 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: 20260809 Secretos Reales/20260626 6 BREAKING Princess Anne Honors Charlo_fb0eb8fb.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+Fix And develop this document to be 4000 words In Spanish Following The News Style!
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+Welcome back to our channel, where we share updates and untold stories about Catherine, Princess of Wales, and her royal family. Today, we bring you some news: BREAKING: Princess Anne Honors Charlotte With Diana's Legacy—Camilla Loses Her Composure!
+Under the antique lights of Buckingham Palace, a sparkling tiara started a war for the spirit of the monarchy. It was never about jewels — this was about a ghost that would not be exorcised and a clandestine wiping operation that threatened to destroy the House of Windsor. Now we knew Princess Anne had laid a trap, disclosing a plot two decades in the making, and confronting a Queen with a fact she could no longer ignore.
+
+The cool tension looked ready to burst and the May sunshine, broken by the stained glass windows of the main hall of Buckingham Palace, did little to warm it. It was a small, private celebration of Princess Charlotte of Wales’s eleventh birthday, officially, but in actuality it was a carefully choreographed ambush. The 25-year-old drama was about to be forcefully revealed to an audience of the most senior royals and heads of royal families.
+
+At the centre was Princess Anne, Princess Royal. She was the kingdom’s rock at 75, her stance as solid as her commitment. She was a force, in her dark suit and no-nonsense bun. It was a sharp eye, a piercing eye, and it raked the room as a razor might. In an ancient red velvet box she bore the burden of a memory and a fight.
+
+The naive Princess Charlotte was beside her. She was a white-clad embodiment of a famous, and controversial, line, her golden blonde hair framing features that may have belonged to a grandma she’d never known. The majestic hall of polite conversation waited in deathly silence.
+
+Princess Anne came. Her voice was low but clear and forceful, a clarion call that broke the silence. 'Today,' she said, turning to her brother the King and then to her nephew, the Prince of Wales, 'I am declaring before this family and the royal household that I am conferring an honorary title on Princess Charlotte. The Diana award.
+
+A fast, sharp breath. The name had been murmured here in these sacred halls. Now it was spoken with power.
+
+“She is not only a young member of the house of Windsor,” Anne answered, raising her voice. “She will be heir to the compassion, courage and closeness to the people that her grandmother Diana, Princess of Wales once represented for this nation and the world.”
+
+Anne cautiously opened the velvet box. Inside was a tiny sparkling tiara. Royal historians and the public knew it as a personal diadem, not one of the big official ones. She liked this tiara on her charity travels, holding the hands of Aids victims, trekking through minefields. What altered the monarchy was not royal rank but a symbol of revolutionary empathy. "That'll go to Charlotte," Anne finished, "reminding us of Princess Diana living inside us.
+
+Applause, at first tentative, dwindled away amid a chorus of astonished murmurs. Across the room, Catherine, Princess of Wales, held her husband's hand, her knuckles white. Her grin was rehearsed. Her eyes showed her inner turmoil. Prince William stood stiffly, concealing his agony. He knew better than anyone the earthquake effect of his aunt's statement.
+
+King Charles III sat still in his ceremonial chair, his face a Gordian knot of emotion. Nostalgie? Worries? Or the glorious abdication of a sovereign seeing a well-made peace fall apart?
+
+The King’s most violent answer started the fire. Queen Camilla stood, the click of her chair legs on the polished floor. Her face was a mask of blazing wrath, not of feeling. Her voice rang out strong and clear, over the melancholy mood.
+
+"This is totally unacceptable!" she yelled. The room became quiet at her rage. "You haven't the right to decide this at all, Anne. I order you to stop it this minute!"
+
+All eyes were now on the Queen Consort. In a burst of anger she had breached the first rule of the monarchy: unity and equanimity in public. Her finger was shaking as she pointed at the Princess Royal. That tiara is owned by no one in this younger age. Diana is dead! We must look forward, not backward, to unearth and reanimate the tragic past!” 
+
+It was a raw, shocking encounter. No argument. War was declared.  But Anne was a granite island in the middle of the pandemonium. Camilla’s anger faced steely, focused eyes. There was a tiny smirk about her mouth, the quiet knowing look of a chess master who'd just watched her opponent walk right into a calculated checkmate.
+
+William’s heart pounded in his chest. Now he knew. This was no run-of-the-mill birthday honour. His daughter, his mother’s memory and a diamond tiara were all pawns in a much bigger, much more hazardous fight. She was delivering a message to the royal family: the spirit of Diana would not be silenced.
+
+Puzzled and over whelmed Charlotte took Anne by the hand. Did I do something wrong, Aunt Anne?the girl screamed.
+
+Anne relaxed and knelt down to look at the baby. “No honey. You’re doing everything right. Your grandmother would be so proud of you right now.” She spoke gently but powerfully.
+
+The air in the hall was taut, a fragile membrane about to tear. King Charles climbed the throne with bone-white knuckles. Camilla stood breathing deep, her rage subsided to a primordial horror in her eyes. A small ceremony had openly begun a hidden contest for memory, power and the identity of the British Crown.
+
+Ghost of the Archive
+
+The echoes of the confrontation died away in the great hall and Princess Anne retired to her own private chambers. The deep stillness was a contrast to her storm. She settled into old chair weighted by her actions. This disobedience was the result of a six month secret investigation and a solitary campaign prompted by a persistent hunch that a great historical crime was being done behind the royal walls.
+
+Tea came, carried in by her long-time aide, a small comfort on a hectic day. Finally, Anne mumbled to herself, not to her assistance, “It has begun. I have waited for this day for a very long time.
+
+It started with a whisper. A series of small, disturbing anomalies. As Princess Royal, Anne is rather powerful. She is the monarch’s sister, and not in direct line of succession, but has immense access and influence. She is known for her eye for detail, and her understanding of royal protocol and history. This sharp eye spotted the gaps first.
+
+“I’m not doing this because I’m mad at you, personally,” she told her nephew William later that night in a tense confrontation. “I’m doing this for justice. Diana has been forgotten for too long. Or rather, deliberately erased.”
+
+The Royal Archives, the sacred repository of Windsor history, lay at the heart of it all, within the ancient walls of Windsor Castle. For years this archive had preserved the memory of the monarchy, safeguarding state papers and private correspondence. Anne was searching for something in particular concerning her former sister-in-law, but there was nothing to be found. No records existed.
+
+"I looked at the archive ledgers," she said, anger held in check. "Files that were clearly documented in 1998, 2005 and even as recently as 2012. Letters Diana wrote to you and Harry. Records of gifts she received on behalf of the Crown. Even drafts of her speeches. But when I asked for them recently, they were gone. No records of transfer. No deaccession notes. Just… vanished.
+
+This wasn't incompetence in the record keeping. This was an intentional purge. The missing items weren't haphazard. Her letters that showed Diana as a loving mother, the images of her groundbreaking charity work that showed her empathy, her personal journals spoke for her. Someone was deliberately rewriting history, reducing the 'People's Princess' to a footnote, a disturbed unhappy wife, rather than the worldwide symbol of compassion who had transformed the image of the royal family single-handed.
+
+Anne and Diana had always had a complicated relationship. The two women were very different in temperament. Anne, the tough, duty-driven horsewoman and Diana, the media savvy, emotionally sensitive superstar. Diana and Anne were not close friends but Anne admired Diana's strong work ethic and her revolutionary impact. Anne had seen Diana speak out against landmines and AIDS when it was not fashionable and she had shone a light on the darkest corners of the earth. The systematic dismantling of Diana's tremendous legacy felt like a betrayal of her memory and the monarchy she served.
+
+William rushed to the door, his face worried, the heart of the situation. "Aunt Anne, I just talked to Father. The whole family is in a turmoil. Had it truly to happen?" 
+
+Anne's look softened but the determination was still there. "William, you are Diana's son. You know better than any one what she went thru. If we don’t stand up for her now and safeguard her legacy, then all Charlotte, George and Louis will know about their grandmother will be edited stories and sanitised narratives. "We cannot permit those who wish see her diminished to rewrite history.
+
+William did not say anything. He was torn between his memory of his mother and his duty as king to maintain order. He did not support her but neither did he oppose her. He nodded briskly and left Anne to her papers and her beliefs. The battle lines were drawn. Anne knew she did not have enough proof to charge Camilla but her furious and exaggerated response at the ceremony was a huge mistake. This was the response of a secretive person. It confirmed Anne's worst fears and prepared her for war.
+
+A conspiracy of silence;
+
+Anne’s public campaign had begun months earlier, on a bleak afternoon in a quiet London suburban house. She drove herself like any purposeful woman, in a plain coat and a wide-brimmed hat. She was meeting Robert Harrington, a former butler who had worked for nearly 10 years with Princess Diana in the late 70s. He was one of Diana's last loyal staff, and had seen it all.
+
+"Your Royal Highness," he went on hoarsely and hesitantly, "I have thought much on this topic. What I am about to tell you may put me in danger, but I cannot take this secret to my grave.
+
+He outlined a calculated, methodical and chillingly efficient operation that began almost immediately after Diana's 1996 divorce from Prince Charles. It was a series of orders, Your Highness," said Harrington nervously. "'To protect the Princess' privacy,' they said. Boxes of handwritten letters, private photo albums, even gifts from world leaders were packed up and taken away. We were told they were being transferred to the central archives for safe keeping.
+
+The operation changed after Diana died in 1997. It became more difficult and more permanent. The ‘reorganization’ mask was removed. “Diana’s inner circle, the ones who knew her secrets, who had seen her struggle, were quietly let go. They were pushed aside into the dusty corners of other royal households, or eased into early retirement,” he muttered, looking out the window. Reasons were vague but we understood the truth. We knew too much.
+
+They built a culture of terror, that was the worst. Some people were threatened indirectly,” Harrington said, his voice dropping. “They told us if we wanted to live in peace, we and our families, the best thing to do was keep quiet. That it would be… unwise to talk about what we had seen. That our careers, our reputations, would be destroyed. I was lucky. I knew to keep my mouth shut. But my conscience has been my tormentor for the last twenty-odd years.
+
+Ann listened, and a cold hatred came into her expression. The key was Harrington's statement. It gave a personal context to the barren expanses of the archive. This was not some bureaucratic error. This was a calculated effort to silence Diana, and to get her out of the institution she had fought to change. Harrington's testimony left little doubt that only one person had the motive, power and personal stake to undertake such a long-running and violent campaign. The name Camilla hung between them.
+
+Princess Diana was a good person,” said Harrington, eyes brimming with sorrow. “She did so much for this country. I can’t bear to see her legacy chipped away, day by day, until there’s nothing left but a tragedy. She deserves to be remembered as the force of nature that she was.
+
+That meeting lit her fire. Anne realised she was fighting not negligence but conspiracy. Words and gentle questions won’t do it. There must be a visible, powerful and undeniable deed which makes the issue public. The ceremony was her idea. Charlotte would wear Diana’s tiara as a tribute to the past and an anointing of the future. She would breathe life into Diana’s legacy for the next generation of royalty and a potent symbol that could no longer be ignored or consigned to some dusty archive file. That would be an issue, she thought. Robert Harrington’s story made her more certain than ever that the monarchy needed a crisis.
+
+THE QUEEN’S GAMBIT
+
+The tiara ceremony was booming around Buckingham Palace, but it was the reverberations in the private quarters of Queen Camilla that were felt the most. She made the fatal mistake of public outrage, one of the few lapses of regal control. Now her loyal staff confirmed her greatest fears. Anne's was not an emotional behaviour. It was the beginning of a full investigation.
+
+Camilla played restrained panic in her icy corners. The Princess Royal had personified her fear for decades that she would forever be compared to Diana. "She dares," Camilla muttered to an attendant as she walked a stunning Aubusson carpet. "She will stir up things that should have been left buried.
+
+She was acting out of fear. In her desperate, dangerous counter-offensive, she tried to erase any evidence that could identify her. She began with an ultimate scorched-earth “cleanup.” Two of her closest aides were ordered to clear the decks, say palace sources. Old archive minutes Logs and indexes of digital photos suddenly disappeared from royal computer systems within 48 hours after Diana. All digital footprints were erased. Like they never have been.”
+
+Then she took out the human threat. She stated Anne contacted her former colleagues, who received anonymous, disturbing phone calls. The message was usually the same, given in a quiet, steady voice; “You have had a long and peaceful retirement. Old stories would be a folly to dredge up. “Silence is best for your health, and the health of your family.” It was a classic intimidation approach to silence potential witnesses.
+
+She put up her final barrier. She had her attorneys quietly produce internal memoranda and position papers. The meticulously constructed narrative blamed a senior palace secretary who left the royal household more than 15 years ago and died two years later for the “archival irregularities.” They would blame him.  At worst, Camilla would be shocked, and blame it on the stupid enthusiasm of some long-dead underling.
+
+These measures gave Camilla a slight sensation of security. She'd thought she'd shut herself off completely. She recovered and ran a family PR campaign. She pretended to be concerned about the institution at a hastily arranged emergency council meeting, summoned by King Charles.
+
+' I said to the King that Anne has been behaving not only recklessly, but deeply divisive recently. "To bring Diana back like this is to destroy our family. We have to be one. We have to think of the future, not be slaves to the past." Then she told them what had happened. “And to confer upon young Charlotte a tiara, a symbol of royal lineage, without the consent or even consultation of the sovereign or myself, the Queen, is a gross abuse of power. "It is an act of disobedience which I cannot approve."
+
+She was all right. Anne was perceived as a wayward agent of ambition, using a child as a pawn in her own battle for the defence of monarchical stability. She said with phony sympathy, “Anne is making Charlotte into a tool. It is an injury to the Crown, and an injustice to the kid.
+
+She left the meeting knowing she was in control of the story. She had petrified witnesses, deleted the paper trail and painted her opponent as a reckless destabilizer. She thought the conflict was concluded. No matter how hard she searched Anne never discovered the proof she desired. There was the faintest tinge of worry in her brain. She recognized Anne’s drive.  She didn’t realize her frantic efforts to forget had been in vain. She assumed the smoking gun was cold, but it was still warm, ready to be fired.
+
+Winsor House Decision 
+
+Camilla’s ripostes went ignored by Princess Anne. She was angry by the threats she thought were against former personnel, who spoke in afraid tones. Not simply preserving the historical record, but opposing a present abuse of power. She kept meeting across a huge network of retired butlers, maids and private secretaries in calm parks, suburban cafes and even underground car parks.
+
+But there were the same horrible stories of organized effort, except the actual evidence was lacking. A former maid, who was in tears, said she observed the boxes being taken away in the middle of the night. “But what could I do?  I was merely a maid.” Camilla’s anxiety was still present.
+
+The breakthrough came in a Surrey house, during a stormy night . Anne met Edward Langford, the Junior Archive Assistant, who retired in 2008. Quiet and humble, with eyes that shone with a determination not dimmed in more than two decades. “I have waited for this day, Your Royal Highness,” he whispered softly. “I knew that the truth would have to be told sometime.
+
+Langford led Anne into a small, dry underground room. From an ancient safe he drew a heavy package of papers in watertight containers. Copies of retrieval minutes, lists of keepsakes marked for deletion, and internal memos outlining the disposal procedures were removed from the official archives. The worst evidence was unstated. Black little USB thumb drive.
+
+“I secretly recorded a meeting in 2005,” Langford said quietly. “I was a junior aide at the time, and I was supposed to take notes. I suspected something was amiss so I put a little digital recorder in my jacket pocket.”
+
+Anne put the drive in her laptop. The play began, and the little area was heavy and chill. The small speakers sent forth a clear, solid woman’s voice.
+
+“Burn all letters, photographs and mementos connected with Diana. Don’t leave anything that might remind the public of her. This is an order from the top. I don’t want to see them raised up again, ever.”
+
+Camilla, Duchess of Cornwall, speaks shortly after her marriage to the future King. The smoking gun.   Anne sat stiff, knuckles white, holding the edge of the table. It was not rumor, it was not a conclusion. It revealed that the Queen had chosen to cancel a major royal function.
+
+Three weeks after the rowdy tiara ceremony, King Charles called a final meeting in a private conference room to end his family’s civil war. There was only one family there, Charles and Camilla and Anne and the Prince and Princess of Wales. Choking under pressure.
+
+“Time to tell the whole story.” Anne’s voice sounded harsh. She threw the hefty file down on the polished mahogany table. “Not doing this to divide. "I’m doing this to preserve the truth.
+
+She proceeded to play the tape following that. 
+
+Camilla's voice, which had been heard for twenty years and more, finally pierced the eerie silence. The aspect of her was really pallid. A slight involuntary tremor occurred in her palm, despite the fact that she was making an attempt to remain calm. A notice was even taken by King Charles. His face went from one of disbelief to one of great disappointment and exhaustion as his countenance changed and transformed.
+
+After that, Anne moved on to the photocopied papers that Langford had, which included statements from Robert Harrington and a dozen other former staff members. All of these statements were thrown about for her to examine in great detail. All of the strands that are going to be presented to the Queen. It is a falsehood in each and every one of its strands. An endeavor that lasted for a number of years.
+
+Anne then turned her attention to Camilla and stated, "This was not the work of some rogue secretary." Camilla was confused by Anne's statement. It was made quite obvious that the chain of command was created, beginning with a command that was issued forthright.
+
+This remark was made by Camilla in an attempt to justify her absence from the meeting. "It was a misunderstanding... I just wanted to protect the family from a painful past... you are exaggerating." Her story about the deceased scapegoat, which she had planned out in before, was debunked by the overwhelming evidence that she had prepared in advance. For each and every argument, it is absolutely necessary to have its own counter-document, witness, and proof that is entirely devastating.
+
+At long last, King Charles arrived, and his pronouncement held not only the weight of his power but also the heritage of his nation. It was he who closed out the conversation. This is the remark that he made, and it was with the following words: "Camilla, you've exhausted this." I, for one, do not trust any of it even a little bit.
+
+The stillness that followed the ruling was so oppressive that it was difficult to take a breath. By resolving the issue internally, it may be possible to prevent a huge dispute from reaching the public. The punishment was also irreversible, which was another issue. According to those with knowledge of the royal family, Queen Camilla will be completely cut off from the rest of the world. This was reported by sources from institutions. For the time being, she was relocated to a unique apartment suite located in the eastern wing of the palace. The palace contained a number of private suites. Someone has made a decision. In addition to this, it was anticipated that she would be prohibited from official tasks and public appearances. All of her power and importance within the family were taken away from her. All of these were unsuccessful for her. It was impossible for her to find work.
+
+During that night, Anne gazed out the window at the night sky filled with stars. It was a scene that captivated her. Her celebration of her win was marked by melancholy and self-compassion. Neither of them were overjoyed. She had strong self-esteem. Now that he was standing opposite of her, William had acquired power. It was his Aunt Ann who heard him say, "You were absolutely correct." Any person, at any point in time, is incapable of comprehending the staggering cost.
+
+Anne's demeanor changed when she responded to the enthusiastic response from the audience. In order to allow the wound to heal, we may need to make an incision in certain circumstances. Therefore, the incision is what is required. Doing anything to show your mother affection is preferable to doing nothing at all. This is the most desirable option. Upon completion of it, Charlotte would proceed with her life in the same manner as before. The whole public is now aware of the situation. It is possible that Diana's great-aunt will secure the continuation of her heritage through her fortitude. It was believed that that they were represented by the voice of a young princess and the spirit of the archives. Additionally, both manifestations took place at the same time. During that period of time, it would be passed down to a new generation that would not commit the most disastrous errors in the history of the planet. It would be more brilliant than it has ever been. For the purpose of being passed down.
+
+Thank you for watching the video! Please let us know your thoughts, and goodbye for now!
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

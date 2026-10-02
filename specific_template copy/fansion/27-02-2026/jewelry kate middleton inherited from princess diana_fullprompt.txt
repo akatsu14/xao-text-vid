@@ -1,0 +1,136 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: fansion/27-02-2026/jewelry kate middleton inherited from princess diana.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience: Phụ nữ 22–45 tuổi yêu thích thời trang hoàng gia, độc giả quan tâm đến di sản phong cách của Diana, Princess of Wales và sự chuyển giao sang Catherine, Princess of Wales; fashion enthusiasts, luxury jewelry followers, royal watchers quốc tế.
+- Primary angle / thesis: Phân tích cách Catherine không chỉ “thừa hưởng” mà còn tái định nghĩa di sản trang sức của Diana — biến những biểu tượng cảm xúc thành tuyên ngôn phong cách đương đại, cân bằng giữa truyền thống hoàng gia và hình ảnh future queen.
+- Must-include points (3–8 bullets max):
++ Comment fan reactions (Instagram, X, TikTok) về mỗi lần Kate tái xuất món trang sức
++ Nhận định từ fashion analyst về chiến lược hình ảnh hoàng gia
+- Keywords / entities to emphasize: Catherine, Princess of Wales, Diana, Princess of Wales, Prince William, Queen Elizabeth II, Garrard, Queen Mary’s Lover’s Knot Tiara, sapphire engagement ring, emerald choker, Japanese Pearl Suite, Collingwood earrings, royal heirloom jewelry, British royal collection.
+- Things to avoid / do-not-claim:
++ Không khẳng định việc chuyển giao quyền sở hữu nếu thực tế chỉ là cho mượn.
++ Không suy đoán về di chúc ngoài nội dung đã được báo chí uy tín công bố.
++ Không đặt câu chuyện theo hướng cạnh tranh hoặc so sánh tiêu cực giữa Kate và Meghan.
++ Không thổi phồng giá trị tài chính nếu chỉ là ước tính truyền thông.
++ Không sử dụng narrative “drama hóa” về thừa kế.
+- Output constraints (optional):
+Độ dài: 2000 từ.
++ Văn phong: luxury editorial, phân tích sâu, storytelling cảm xúc nhưng khách quan.
++ Cấu trúc theo từng món trang sức (đánh số 01–10 như outline).
++ Đan xen tự nhiên phân tích chuyên gia và phản ứng công chúng.
++ Tone: sang trọng, tôn trọng di sản, tập trung vào continuity & legacy.
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+All of the Jewelry Kate Middleton Inherited From Princess Diana, Including Her Engagement Ring
+Like Diana, Kate is fond of pearls and sapphires.
+
+Princess Diana dreamed that her jewelry would be worn by her daughter-in-laws one day. Per The Telegraph, she wrote in a “letter of wishes” that she wanted “to allocate all my jewellery to the share to be held by my sons, so that their wives may, in due course, have it or use it." Princess Catherine and Meghan Markle have carried out those wishes, donning their late mother-in-law’s pieces for royal business and special occasions. 
+
+Kate Middleton’s first piece from Diana’s collection came in 2010, when Prince William proposed to her with his mother’s engagement ring. The striking Ceylon sapphire and diamond bauble originally came out of a Garrard catalog, making it a controversial choice in 1981 as most royal proposal pieces were custom-made at the time. It’s since become a beloved heirloom and a signature of the Princess of Wales’s $527, 312 ring stack.
+
+The ring may be the most well-known piece Middleton inherited from Diana via her husband, but it’s far from the only one she’s worn. She’s also donned earrings, tiaras, necklaces, and bracelets which were once beloved by the People’s Princess—a noted jewelry aficionado in her lifetime.
+
+Here’s a breakdown of all the jewelry from Princess Diana’s collection that Prince William has given to his wife, Kate Middleton.
+
+01 Sapphire Engagement Ring
+Since 2010, Middleton has worn Diana’s sapphire engagement ring, as it was her own proposal piece from now-husband William. The prince popped the question while the two were on holiday in Kenya. They’d been dating for nearly a decade.
+
+In an ITV interview following the announcement of the couple’s engagement, William elaborated on his choice to gift Diana’s ring to his soon-to-be bride. “It’s my mother’s engagement ring, and it’s very special to me, as Kate is very special to me now as well,” he said. “It was only right the two were put together. It was my way of making sure my mother didn’t miss out on today and the excitement and the fact that we’re going to spend the rest of our lives together.”
+
+The ring features a 12-carat sapphire set in a halo of 14 round brilliant diamonds. InStyle previously reported its worth at approximately $520,000.
+
+02 Queen Mary’s Lover’s Knot Tiara
+The Queen Mary’s Lover’s Knot Tiara (sometimes referred to as the Cambridge Lover’s Knot Tiara) is one of the most iconic diadems in royal history. Before it was Kate Middleton’s go-to and one of Diana’s favorites, the headpiece belonged to Queen Mary. Upon the latter’s death in 1953, the headpiece went to Queen Elizabeth II. Diana wore it on loan from the queen, meaning it stayed in the royal collection following her divorce from Prince Charles. Reportedly, it was so heavy it gave Diana headaches.
+
+Middleton became a royal following her 2011 marriage to Prince William, but she didn’t debut the Queen Mary’s Lover’s Knot until 2015, wearing it to the annual diplomatic reception at Buckingham Palace. She’s since worn it on at least 10 other occasions, including at two state banquets in 2025.
+
+03 Diamond and South Sea Pearl Earrings
+Speaking of the Queen Mary’s Lover’s Knot Tiara, Princess Diana once paired it with a set of diamond and South Sea pearl earrings at a banquet in 1990. The unique earrings can be worn with or without their sizable pearls—Diana donned them sans pearls while attending a performance of Swan Lake in June 1997, one of her final public appearances.
+
+Following Diana’s death, the earrings were absent from the spotlight for over 20 years. They reemerged when Middleton wore them at the 2019 BAFTA Awards (with a different pair of pearl drops than the ones her late mother-in-law wore). She later styled them with a high-neck polka dot dress at the 2022 Royal Ascot and that year’s Remembrance Sunday service. In 2023, the elegant jewelry reappeared as the Princess of Wales selected them for King Charles’s coronation.
+
+04 Three-Strand Pearl Bracelet
+Diana loved her pearls, giving even Elizabeth Taylor a run for her money. Case in point: her delicate three-strand pearl bracelet. According to People, Nigel Milne designed the piece for the princess in the 1980s. Diana famously wore it with her “Elvis” outfit—a white Catherine Walker dress embroidered with 28,600 pearls—on a 1989 trip to Hong Kong. 
+
+Photos show that the bracelet has diamond and pearl spacers for added sparkle, making it the ideal accent for subdued looks. For example, Middleton debuted it with a contemporary Markus Lupfer bird-print dress on a 2017 royal tour of Germany. She later proved the three-strand pearl bracelet’s versatility by pairing it with an elegant white lace Alexander McQueen dress on a 2022 royal tour.
+
+05 Emerald Choker
+Who can forget when Diana donned her emerald and diamond choker as a headband? The jewelry trailblazer stepped out with the unique converted headpiece on a 1985 tour of Australia with Prince Charles, according to People.  She’d previously worn it as a necklace in the early 1980s, and would continue to after its famous headband appearance—including on her 36th and final birthday, July 1, 1997, when she attended a gala at the Tate Gallery.
+
+Middleton wore the emerald choker as a necklace at the 2022 Earthshot Prize Awards ceremony. She paired it with a bright green Space London dress rented from HURR, nodding to the night’s sustainability theme.
+
+Per People, the glittering necklace originally belonged to Queen Mary. The Ladies of India bestowed it upon her in 1911. Diana received the choker as a wedding gift from Queen Elizabeth, and bequeathed it to her sons to give to their wives after her passing.
+
+06 The Reinvented Sapphire Necklace
+While not confirmed, many royal watchers believe that the Princess of Wales reinvented one of Diana’s sapphire necklaces into a stunning pendant. Princess Di received the initial sapphire suite as a wedding gift from the Saudi royal family in 1981, per Town & Country. It includes a necklace, earrings, a ring, and a bracelet, and was made to match the bride’s signature sapphire engagement ring.
+
+Fast forward to 2020, and Middleton welcomed Ukraine’s President Zelenskyy to Buckingham Palace while wearing a sapphire pendant that bore a striking resemblance to the stone in Diana’s necklace. The new pendant is flanked by diamonds and suspended on a fine gold chain, according to People.
+
+07 Sapphire and Diamond Earrings
+Another piece from the sapphire suite that Middleton inherited from Diana was a pair of sapphire and diamond earrings. Prince William gave them to his future wife ahead of their 2011 wedding. 14 years on, she’s still accessorizing with the deep blue beauties, wearing them during a November 2025 visit to the Anna Freud Center in London.
+
+The earrings feature only a single sapphire each, but are often confused with Diana’s double-drop sapphire and diamond earrings. Diana wore the sapphire and diamond earrings in a stud setting, while Middleton appears to have modernized them by altering them into drop earrings.
+
+08 Double-Drop Sapphire and Diamond Earrings
+Of all the earrings in Diana’s covetable jewelry box, few are as instantly recognizable as the double-drop sapphire and diamond earrings. The ‘people’s princess’ modeled them on the cover of Vogue in the ‘90s and at her one and only Met Gala appearance in December 1996. For the latter occasion, she styled them with a trendy John Galliano for Dior slip dress and a Lady Di Dior bag, per Vogue. 
+
+Middleton debuted the dangly sparklers at the 2022 Trooping the Colour parade. She’s since worn them on a visit to the U.S., at a 2023 Shaping Us event, and at the 2023 Christmas Day Church service in Sandringham.
+
+09 Four-Strand Pearl Choker
+Three generations of royals have worn the four-strand pearl choker, which originated as part of Queen Elizabeth’s collection. The necklace is part of what’s known as the Japanese Pearl Suite, as the pearls were reportedly given to Elizabeth by the Japanese government in the 1970s, according to the Court Jeweller. It has a diamond clasp.
+
+Diana styled the layered necklace with the Queen Mary’s Lover’s Knot Tiara and pearl earrings during a 1982 state banquet. Decades later, Middleton wore it to a celebration of Elizabeth and Prince Philip’s 70th wedding anniversary in 2017. She later chose the necklace as a tribute to the couple, donning it at both of their funerals.
+
+10 Collingwood Pearl Earrings
+Royal wedding gifts tend to be on the opulent side, as is the case with the Collingwood pearl earrings, a gift from the jewelers to Diana ahead of her July 1981 nuptials. The engagement present made its first public appearance before her wedding, and she continued to wear them throughout her tenure as princess.
+
+Middleton became the girl with the pearl earrings in 2017, stepping out in the Collingwood pair at a state banquet. She’d later wear them for a portrait commemorating her 40th birthday. The trend of donning them on special occasions continued in 2025, as she sported the heirloom earrings on Remembrance Sunday in a poignant tribute to her late mother-in-law.
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

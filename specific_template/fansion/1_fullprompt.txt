@@ -1,0 +1,101 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: fansion/1.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience: Phụ nữ 20–45 tuổi yêu thời trang cao cấp, hoàng gia, red carpet fashion; độc giả quan tâm đến phong cách của Kate Middleton và xu hướng evening gown.
+- Primary angle / thesis: Phân tích sự tiến hóa phong cách thảm đỏ BAFTAs của Kate Middleton theo cấu trúc timeline đảo ngược (2025 → 2011), làm nổi bật chiến lược re-wear, tính bền vững và quá trình xây dựng hình ảnh hoàng gia hiện đại qua thời trang.
+- Must-include points (3–8 bullets max):
++ Timeline các lần xuất hiện tại BAFTAs từ 2025 ngược về 2011.
++ Phân tích các nhà mốt chính như Alexander McQueen, Jenny Packham, Gucci.
++ Ý nghĩa của việc tái mặc (re-wear) và thông điệp bền vững.
++ So sánh silhouette, màu sắc, chất liệu và styling qua từng năm.
++ Phân tích chiến lược re-wear và sustainable luxury.
++ 3–5 comment fan (giả lập theo phong cách social media reaction).
++ 1–2 nhận định chuyên sâu từ fashion analyst (phân tích kỹ thuật & branding hình ảnh).
++ Đánh giá tác động đến xu hướng red carpet và public perception.
+- Keywords / entities to emphasize: Kate Middleton, Princess of Wales, BAFTAs, Alexander McQueen, Jenny Packham, Gucci, red carpet fashion, sustainable fashion, royal style evolution.
+- Things to avoid / do-not-claim:
++ Không suy đoán đời tư hoặc tình trạng sức khỏe.
++ Không đưa tin đồn chưa xác thực.
++ Không so sánh tiêu cực với thành viên hoàng gia khác.
++ Không khẳng định thông tin tài chính hoặc hợp đồng thương mại nếu không có nguồn chính thống.
+- Output constraints (optional):
++ Độ dài: 1800–2000 từ.
++ Văn phong: editorial cao cấp, phân tích sâu, có storytelling.
++ Có tiêu đề phụ rõ ràng theo từng năm.
++ Comment fan và phân tích chuyên gia phải được phân bổ tự nhiên trong bài (không gom một chỗ).
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+See Kate Middleton’s Most Glamorous Looks at the BAFTAs Through the Years
+(Originally published by Town & Country, Sophie Dweck, Feb 22, 2026 – full text)
+
+The Princess of Wales has attended the prestigious awards show seven times since marrying into the royal family, becoming one of the most anticipated figures on the red carpet. (Town & Country)
+
+2025
+At the 2025 BAFTAs, Kate again chose a look from her closet — a blush pink and purple Gucci gown she previously wore in 2019. She accessorized with the historic Greville Chandelier Earrings. (Town & Country)
+
+2023
+After a three-year hiatus, the Princess returned to the red carpet in an upcycled, white, one-shoulder gown from Alexander McQueen with black opera gloves and ornate earrings. This was a revised or updated version of the dress she first wore to the 2019 BAFTAs. (Town & Country)
+
+2020
+In 2020, Kate wore her hair in an intricate updo and glittered in a white and gold Alexander McQueen dress paired with Van Cleef & Arpels jewelry, showing classic elegance on the BAFTA red carpet. (Town & Country)
+
+2019
+Here’s the original Alexander McQueen gown before she updated it for the 2023 awards. At the event, she paired the elegant look with Princess Diana’s earrings — creating one of her most memorable BAFTA outfits. (Town & Country)
+
+2018
+Kate, who was then expecting Prince Louis, looked radiant in a green Jenny Packham dress, paired with stunning emerald and diamond jewelry, striking the perfect balance of glamour and pregnancy style. (Town & Country)
+
+2017
+For one of her earlier BAFTA red carpet moments, the then-Duchess of Cambridge stunned in an off-the-shoulder floral gown from Alexander McQueen, matched with oversized statement earrings. (Town & Country)
+
+2011
+Her very first BAFTA appearance featured a lovely lilac Alexander McQueen dress, which has since become one of her most iconic early fashion moments at the awards. (Town & Country)
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

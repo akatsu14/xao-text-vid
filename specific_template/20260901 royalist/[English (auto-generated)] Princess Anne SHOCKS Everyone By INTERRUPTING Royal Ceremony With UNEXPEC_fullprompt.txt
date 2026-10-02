@@ -1,0 +1,692 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: 20260901 royalist/[English (auto-generated)] Princess Anne SHOCKS Everyone By INTERRUPTING Royal Ceremony With UNEXPEC.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience:
+- Primary angle / thesis:
+- Must-include points (3–8 bullets max):
+- Keywords / entities to emphasize:
+- Things to avoid / do-not-claim:
+- Output constraints (optional):
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+So, Princess Anne, apparently, walked
+into St. James's Palace, interrupted a
+major signing ceremony, and slapped a
+military gray flash drive on the table.
+And the story behind why that happened
+is way more interesting than the
+interruption itself, because the more
+you look at the timeline and the
+documents involved, the less any of it
+adds up. Honestly,
+the fact that there's a hidden ledger of
+the King's Regiment just sitting in a
+binder at Gatcombe Park is one thing,
+[music]
+but the fact that the palace allegedly
+tried to lock her out of the network
+while she was reading it, that's where
+it gets weird. It suggests someone was
+watching her search history in real
+time, which is not exactly standard
+operating procedure for a routine
+military property review. So, first we
+have to go back to that foggy Thursday
+afternoon. Princess Anne is in her
+office at Gatcombe Park. She's not in a
+palace, she's in a military headquarters
+environment, which is important because
+it means she's operating in her capacity
+as a senior royal with direct [music]
+links to the armed forces. On her desk
+is an encryption terminal, and she's
+looking at a 12-page logistical audit.
+This isn't a casual read. This is a
+detailed breakdown of vehicle and supply
+allocations for the King's Guard
+regiments, and right away she notices
+something off. The financial codes in
+the margins don't match the standard
+defense budget allocations. They
+reference commercial leasing companies
+that shouldn't be there.
+When you actually look at what was said
+versus what happened, it's clear this
+wasn't a simple accounting error. The
+back pages describe what looks like a
+massive unauthorized asset repositioning
+project, [music] one that bypassed
+parliamentary oversight entirely. Now,
+for anyone who doesn't follow the
+intricacies [music]
+of royal finances, there's a hard line
+that's supposed to exist here. Since
+[music] the Crown Estate Act of 1961,
+all military property and assets have to
+be registered with the Treasury. The
+whole point is to keep public money in
+the sovereign's private wealth
+completely [music] separate. The
+monarchy isn't supposed to run an
+independent financial network inside the
+armed forces. That's the baseline. So,
+when Princess Anne sees a parallel
+system quietly operating for 18 months,
+that's not a minor procedural hiccup.
+That's a red flag the size of a parade
+[music] banner. But, here's where the
+story takes a turn that feels less like
+a bureaucratic audit and more like a
+thriller. As she's reading, an automated
+security alert goes off. Her terminal
+disconnects from the mainframe. The
+communication links to Aldershot
+Garrison freeze completely. Someone in
+London detected her specific data search
+and initiated a total network lockdown
+from a central terminal. That's not an
+accident. That's [music] a response. And
+it's fast. Princess Anne doesn't call
+IT. She knows a standard inquiry would
+just alert the senior courtiers at
+Buckingham Palace that she's found the
+parallel records. So, she does something
+very practical. She walks to a
+wall-mounted steel safe, opens it, and
+pulls out a physical master backup
+drive, which tells you she was prepared
+for the digital system to fail her.
+Within 10 minutes, a physical log check
+reveals the network block came directly
+[music] from the personal office of the
+keeper of the privy purse. The authority
+code belonged to a senior accountant who
+answers exclusively to the king's
+private financial trustees. So, the
+palace actively tried to blindfold the
+Princess Royal while she was doing a
+routine review. That's not just
+suspicious. That's an admission that the
+data she was looking at was dangerous
+enough to require immediate lockdown.
+And if the palace was that worried, you
+have to ask what else was in that
+ledger. The answer, according to the
+story, is a sequence of secret bank
+transfers. The final page of the hidden
+ledger lists money moving from a private
+Duchy fund directly into an offshore
+holding company in the Cayman Islands.
+The transfers are labeled as emergency
+funding for specialized military
+transport units near the capital. But
+here's the problem. The official defense
+logs show no record of these
+transactions. That means the king used
+private crown wealth
+>> [music]
+>> to fund a specialized security cell
+without the knowledge or approval of the
+Ministry of Defense. That is a massive
+constitutional problem. The military
+owes its allegiance to the crown through
+Parliament, not through [music] private
+corporate entities controlled by the
+monarch's personal estate. If this is
+true, then the entire legal chain of
+command has a crack running through it.
+Now, this is where the timeline gets
+really tight. Princess Anne realizes
+she's legally obligated to report this
+to Parliament within 24 hours. If she
+doesn't, she becomes an accessory to an
+unauthorized distribution of crown
+resources. So, she orders her car,
+doesn't file a travel manifest, doesn't
+notify her brother's scheduling office,
+and heads straight to London. She
+arrives at St. James's Palace at 3:00 in
+the afternoon, rain coming down in
+sheets. The gate guards recognize her
+vehicle and wave her through. They have
+no idea what's in her briefcase.
+Meanwhile, King Charles is inside
+preparing to sign a Regency transition
+charter. This is the document that will
+redistribute administrative
+responsibilities
+>> [music]
+>> during his upcoming medical recess. The
+palace says it's a routine update. But
+the fine print contains an alteration to
+the traditional chain of command. Under
+the Regency Act of 1937,
+if a sovereign is temporarily
+incapacitated, a panel of counselors of
+state takes over. That panel is supposed
+to be the spouse [music] and the next
+four adults in the line of succession.
+That keeps executive power transparent
+and balanced. But line 22 of this new
+charter changes all that. It grants a
+single unnamed member of the private
+estate
+>> [music]
+>> board the unilateral power to approve
+Crown property reallocations without the
+consent of the other councilors. That
+means a private corporate employee would
+hold veto power over decisions that are
+supposed to belong to the royal family
+and Parliament. When Princess Anne walks
+into that throne room, she doesn't wait
+for an escort. [music] She marches down
+the center aisle, coat dripping water on
+the floor, and places a printout of the
+military data on top of the state
+charter. She [music] points to line 22,
+and the Lord President of the Council,
+Lucy Fraser, leans in to read it. She
+calls her legal adviser immediately. The
+politicians in the room realize they are
+seconds away from validating a document
+that fundamentally subverts a public
+statute of Parliament. So, how did that
+clause get in there? The drafting logs
+show it was inserted at 4:00 in the
+morning during a closed-door session at
+Clarence House. The digital signature
+belongs to an outside constitutional
+consultant hired directly by the King's
+personal estate trustees.
+>> [music]
+>> And this is where the story gets even
+more tangled. Princess Anne pulls up the
+consultant's retainer agreement on her
+tablet. The consultant was paid through
+the same offshore shell company in the
+Cayman Islands that received the
+military transfers. So, the people who
+funded a secret security cell also paid
+to insert a legal loophole into the
+Regency Charter. [music]
+That's not a coincidence. That's a
+coordinated effort. But, here's the
+trap. Princess Anne [music] flips to a
+secondary appendix dated
+1999. It's a confidential agreement
+signed by Queen Elizabeth II
+regarding the limits of private estate
+intervention in state affairs. The
+document states that any attempt to
+grant a non-royal entity veto power over
+Crown assets automatically invalidates
+the entire Regency appointment charter.
+By forcing that clause into the modern
+document, the King's advisers triggered
+a historic legal trap.
+>> [music]
+>> The signing ceremony wasn't just flawed.
+it was constitutionally invalid. If
+Charles signed it, his entire temporary
+administration would be open to
+immediate legal challenges in the High
+Court. William's chief of staff,
+watching from the back row, immediately
+contacts his legal team at Kensington
+Palace. The balance of power in the room
+shatters within 5 [music] minutes. King
+Charles sets his fountain pen down. He
+looks at his sister, then at the
+printout of the offshore transfers.
+[music] He doesn't defend the clause. He
+doesn't argue. He knows the military
+audit trail makes denial useless. The
+room goes silent except for the rain
+against the windows. Senior ministers
+whisper in small [music] groups refusing
+to touch the parchment until the
+Treasury solicitors review the drafting
+history. Anne stands by the table
+waiting for the formal postponement
+order. She's used her position within
+the military branches to block what
+looks like a systemic corporate takeover
+of the Crown's
+>> [music]
+>> traditional authority. But the
+underlying ledger contains even more. It
+records the movement of hundreds of
+thousands of pounds
+>> [music]
+>> from sovereign secondary reserve
+accounts in spring 2025.
+The destination matches private
+architectural firms conducting unvetted
+surveys [music] on properties in
+Aberdeenshire. The Treasury
+representatives demand access to the
+digital tokens to verify these
+transactions. If the King was using
+private Crown capital to fund unapproved
+infrastructure projects while modifying
+the Regency Council's legal limits,
+the Treasury is exposed to a massive
+compliance violation under the National
+Audit Act. Then a text alert hits Lucy
+Fraser's phone.
+>> [music]
+>> The Cabinet Office has flagged an
+anomalous statutory instrument placed on
+the parliamentary order paper the
+previous evening. [music]
+It's designed to fast-track the transfer
+of regional Duchy land titles to private
+trusts, bypassing public debate. And
+suddenly all all pieces connect. [music]
+The unvetted clause in the Regency
+Charter wasn't an isolated error. It was
+the crown piece of a synchronized secret
+[music] project designed to secure the
+family's private property holdings from
+state auditing before the transition.
+The King's private legal advisers built
+a hidden highway through state
+regulations. William's representative
+walks to the center of the room, stands
+beside Princess Anne, and states that
+the Prince of Wales' office will
+withhold all signature approvals for the
+upcoming financial rotation bills until
+a full independent forensic audit of the
+Cayman transactions is delivered.
+[music] The heir is officially freezing
+the Crown's operational liquidity.
+Charles remains silent, face pale. He
+gestures [music] for his private
+secretary to remove the parchment from
+the signing desk. The institutional
+mechanism has jammed completely, not by
+an external enemy, but by the meticulous
+recording of the Princess Royal and the
+decisive intervention of the future
+king. The Privy Council members file out
+through side exits.
+>> [music]
+>> They leave the parchment behind. It's
+blank signature lines a silent testament
+to a failed constitutional maneuver.
+The historical boundary between public
+authority and private wealth holds, but
+the trust at the center of the household
+fractured completely. Now, William's
+private briefing's a whole other layer.
+He's standing in the West Gallery with
+his chief legal counsel, Jonathan Jones.
+>> [music]
+>> It's 4:00 in the afternoon. The laptop
+screen shows data from the Balmoral
+Castle registry files, which Princess
+Anne just forced into the open.
+>> [music]
+>> The spreadsheets track capital transfers
+from 2025 executed without the knowledge
+or signature of William's own financial
+trustees. Under the Duchy of Cornwall
+Management Act 1863, [music] the
+revenues and landholdings of the Duchy
+are the exclusive personal property of
+the heir to the throne. The sovereign
+has zero constitutional right to
+interfere with or redistribute Duchy
+resources. Yet, the unvetted files prove
+a systematic bypass occurred. Jonathan
+highlights a hidden clause buried in a
+routine land exchange deed signed during
+the coronation adjustments of 2024. It
+[music] contains an archaic French legal
+trigger known as an asset reversion
+waiver. This mechanism allows the
+sovereign to quietly reclaim territorial
+mineral rights under the guise of an
+emergency military defense mandate.
+William's face goes rigid. The palace
+trustees used his own administrative
+signatures on standard property renewals
+to create a silent pipeline pulling
+resources from his estate to [music]
+fund the unvetted logistics cells
+managed by the king's personal advisers.
+The institution used medieval property
+law to pick the pocket of the future
+monarch. William demands verification of
+the digital signatures. How did this
+clause get into his estate papers
+without his legal team flagging it? The
+answer comes from a forensic software
+scan. [music] The clause wasn't in the
+physical document William's lawyers
+reviewed. It was appended to the digital
+registry file 3 weeks after the physical
+signing using a master administrative
+override code held exclusively by the
+Lord Chancellor's private seal keeper,
+Sir John Dyson. That turns a family
+disagreement into a severe
+constitutional violation. The palace
+trustees
+>> [music]
+>> manipulated a public legal registry to
+alter private land titles violating
+multiple sections of the Land
+Registration Act 2002. [music]
+But, the metadata tracking raises an
+even bigger question. If the king's
+advisers were willing to alter existing
+land registries to secure funds, what
+did they insert into the secret annexes
+of the current transition charter?
+William orders the doors locked. He
+calls for a total freeze on all
+communication links between the Duchy of
+Cornwall financial offices and the main
+treasury terminals at Buckingham Palace.
+No more data sharing, no routine
+transfers, no joint meetings until Sir
+John Dyson is removed. His private
+secretary warns that a total lockout
+would signal a fracture to the financial
+markets within an hour. William doesn't
+care. He says he will not inherit a
+hollowed-out estate [music] controlled
+by an unvetted corporate board in the
+Cayman Islands. He picks up his secure
+phone and dials the Prime Minister
+directly, bypassing the palace protocol
+that requires all communications to go
+through the King's private secretary.
+>> [music]
+>> He informs the head of government that
+his office is withholding consent for
+the Regency Council appointments. Under
+constitutional guidelines, the Prime
+Minister cannot present a Regency
+activation bill
+>> [music]
+>> if the next in line to the throne
+formally challenges its legal validity.
+William has just dropped a political
+anchor, halting the entire machinery of
+the state. Back in the Privy Council
+conference room, the long mahogany table
+is covered in printed copies of the
+military ledger. King Charles sits at
+the far end under a portrait of Charles
+I. [music]
+24 senior politicians and legal advisers
+stand in anxious clusters. Nobody sits.
+The Privy Council constitution dates
+back to the 14th century.
+It allows the sovereign to issue orders
+in council with the full weight of
+legislation without a Commons vote. It's
+meant for emergencies, but on this
+afternoon, the machinery has turned
+against its creator. Princess [music]
+Anne walks to the center of the floor.
+She picks up a copy of the National
+Audit Act, opens to section 8, and
+states that the unvetted transfers from
+the Duchy of Lancaster into the Cayman
+accounts violate three separate
+transparency directives passed by
+Parliament in 2025. [music]
+The Crown lawyers can't argue these
+funds were entirely private. They were
+used to modify active state logistics
+units. Lucy Frazer takes [music] her
+seat and calls the meeting to order. She
+looks at the forensic report from
+William's legal team. She tells the king
+that the cabinet office cannot recommend
+presenting the Regency Charter to
+Parliament while the offshore
+transactions remain unresolved. The
+mystery of how the council handles a
+legal freeze from the air hangs over the
+table. If the Prince of Wales withholds
+consent, the council must suspend all
+transition procedures and refer the
+dispute to the High Court. [music] That
+would drag the private financial
+arrangements of the royal family into a
+public courtroom, destroying the wall of
+secrecy the institutions [music]
+maintained for generations. The Attorney
+General resolves the procedural
+question. The post-signing digital
+modifications mean the current charter
+is legally contaminated. It can't be
+fixed with a simple amendment. [music]
+The entire framework must be torn up and
+rewritten, requiring at least 6 weeks of
+independent forensic accounting. But
+that creates a political crisis. If the
+ceremony is officially halted, will
+realize a massive structural fracture
+has occurred. Senior ministers argue
+over the press release. Some advise a
+total media blackout. Others warn that a
+sudden delay without explanation will
+trigger financial panic. Charles remains
+silent throughout the debate.
+>> [music]
+>> He looks at his fountain pen still on
+the silver tray, a useless piece of
+metal now that his executive authority
+has been checked by his own sister. The
+parallel financial network his advisers
+built over 18 months collapsed within a
+single hour. [music] Anne refuses to
+leave until a formal written
+postponement order is drafted and
+signed. She has accomplished exactly
+what she set out to do. She blocked an
+unvetted corporate takeover of the
+Crown's traditional authority. The clock
+strikes 5:00. Lucy Fraser writes out the
+formal declaration suspending the
+signing ceremony indefinitely. She signs
+it, followed by three senior cabinet
+ministers.
+>> [music]
+>> The secret transition plan comes to a
+total halt. Advisors pack their
+briefcases in silence, avoiding eye
+contact with the king. The confrontation
+is over. Not through shouting or open
+warfare, but through the clinical
+application of statutory law and
+historical precedent. Charles stands,
+leans on his cane, and walks to his
+private elevator without a word. The
+palace falls silent, a heavy stillness
+that signals a permanent shift [music]
+in internal leverage away from the
+monarch's private trustees and directly
+into the hands [music] of Princess Anne
+and the future king. The physical
+parchment is lifted from the table by a
+clerk in white cotton gloves. He slides
+it into a blue velvet folder and pulls
+the silk ribbons tight. The signing desk
+is bare. Outside streetlights flick on
+through the mist. The cancellation
+triggers an automated security downgrade
+across the palace perimeter. Diplomats
+and religious leaders waiting in the
+Queen's Gallery are quietly directed to
+side exits. No official explanation,
+just [music] a technical scheduling
+conflict. But, under the Public Records
+Act,
+>> [music]
+>> the suspension must be logged in the
+Crown Office Ledger within 1 hour. The
+entry records the postponement under
+code 44, a designation reserved for
+unresolved constitutional discrepancies
+involving the royal prerogative. The
+tension shifts to the underground
+security bunker. The digital terminals
+of [music] the Metropolitan Police Royal
+Protection Command begin receiving
+administrative revocations. [music] The
+security clearances allowing the king's
+personal estate lawyers to enter the
+private archives at Windsor Castle
+[music]
+are deactivated from an external source.
+Princess Anne walks down the concrete
+corridor [music] with the Treasury
+Solicitor. She's holding the backup
+drive. She doesn't return it to the
+palace registry. She's heading to a
+transport vehicle dispatched by the High
+Court's Administrative Division.
+Under standard protocols, any document
+introduced during [music] a Privy
+Council dispute is absorbed into the
+Royal Archives at Windsor. If that
+happened, [music] the King's private
+trustees would regain possession of the
+evidence and could classify or destroy
+it under national security exemptions.
+Sir Jonathan Stephens produces [music]
+a physical preservation order signed by
+the Master of the Rolls under the
+Tribunals Courts and Enforcement Act
+2007. [music]
+It designates a secure bomb-proof
+basement vault beneath the Rolls
+Building in Central London as the
+temporary legal repository. The files
+are placed outside the geographic and
+legal jurisdiction of the Royal
+Household under the direct protection of
+the civilian judiciary. But moving the
+evidence to a civilian court vault opens
+a more complex structural problem.
+>> [music]
+>> The offshore Cayman accounts are now
+vulnerable to independent judicial
+review. If a single judge decides the
+parallel logistics network violated
+public laws, the entire private income
+stream of the sovereign could face an
+emergency parliamentary freeze.
+William's legal team initiates a second
+phase. They send a formal memorandum to
+the Cabinet Office demanding a total
+restructuring of the Crown's [music]
+private asset management board before
+any new regency text is presented. The
+heir is using the frozen ceremony to
+permanently strip his father's personal
+advisers of their authority. The King's
+inner circle is fractured. The estate
+trustees realize their legal highway is
+blocked at both ends. They can't use the
+regency charter to bypass Parliament and
+they can't access the frozen Duchy funds
+without triggering a full forensic
+audit. Their structural leverage has
+vanished
+>> [music]
+>> in less than two hours. Outside the rain
+stops, wet asphalt glistens under the
+floodlights. Unmarked black sedans
+transport cabinet members back to
+Whitehall. The politicians refuse to
+answer questions from a single poor
+reporter near the outer barrier. Anne
+watches from the security lobby window.
+She hands the master backup drive to a
+court courier who locks it inside a
+steel transit case with a digital
+combination seal. The physical evidence
+of the secret parallel network
+officially leaves the palace grounds
+signaling a complete failure for the
+private legal team at Clarence House.
+[music]
+The clock on the palace tower strikes
+six. The deep metallic note echoes over
+the empty streets. The institution has
+survived the immediate attempt to alter
+its constitutional boundaries, but the
+internal framework of trust is
+destroyed. The family is left to face a
+silent unresolved reality where the
+future king and the princess royal hold
+the ultimate legal veto over the
+reigning monarch's private
+administration. The dramatic disruption
+at St. James's Palace exposed a deep
+structural fracture within the modern
+monarchy. By unearthing the unvetted
+military files, Princess Anne once again
+positioned herself as a protector of the
+crown's traditional constitutional
+boundaries using old world protocols to
+stop a modern palace apparatus from
+rewriting the rules in secret.
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

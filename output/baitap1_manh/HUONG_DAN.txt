@@ -1,0 +1,39 @@
+BÀI TẬP 1 - LƯƠNG ĐỨC MẠNH - B26CHKH068
+
+NỘI DUNG GÓI
+- B26CHKH068_Luong_Duc_Manh_BT1_HoanChinh.pdf: báo cáo hoàn chỉnh.
+- B26CHKH068_Luong_Duc_Manh_BT1_HoanChinh.docx: bản Word chỉnh sửa được.
+- bayes_server.py: toàn bộ chương trình tạo dữ liệu và tính toán Bayes.
+- draw_charts.py: vẽ ba biểu đồ từ kết quả tính toán.
+- ket_qua/: dữ liệu CSV, kết quả JSON, bảng khảo sát và ba biểu đồ PNG.
+
+CÁCH CHẠY
+1. Cài Python 3 nếu máy chưa có.
+2. Mở Terminal/Command Prompt trong thư mục này.
+3. Chạy: python bayes_server.py
+   Phần này chỉ dùng thư viện chuẩn, không cần cài thêm gói.
+4. Để vẽ lại biểu đồ, chạy:
+   python -m pip install Pillow
+   python draw_charts.py
+
+KẾT QUẢ CHÍNH
+Train: 4.800 mẫu, 216 Failure. Test: 1.200 mẫu, 54 Failure.
+MAP: TP=29, FP=6, FN=25, TN=1140, chi phí=506.
+Bayes theo chi phí: TP=49, FP=166, FN=5, TN=980, chi phí=266.
+Chi phí trong so sánh chính: C_FP=1, C_FN=20.
+
+PHẠM VI DỮ LIỆU
+Đây là dữ liệu mô phỏng theo tần số ấn định, không phải dữ liệu telemetry
+thu từ máy chủ thật. Bảng Train được giữ theo báo cáo gốc. Bảng Test được
+bổ sung như một thiết kế mô phỏng tường minh, phù hợp với các tổng đếm
+đánh giá của báo cáo gốc; không phải dữ liệu Test gốc được khôi phục.
+Các mẫu chỉ có id, x_bin, label. Giá trị x_bin=4 nghĩa là từ 4 chỉ báo trở lên.
+Hai tập được tạo riêng từ bảng đếm; không thực hiện chia ngẫu nhiên.
+
+CÁC BỔ SUNG CHÍNH
+- Công bố toàn bộ bảng tần số Test và cách tạo từng mẫu.
+- Bổ sung mã đánh giá, khảo sát chi phí/prior, dữ liệu và biểu đồ chạy lại được.
+- Phân biệt chi phí thực nghiệm với rủi ro có điều kiện theo mô hình.
+- Bổ sung so sánh luôn Normal, quy ước hòa, quy ước Precision mẫu số bằng 0.
+- Làm rõ điều kiện giữ likelihood khi thay prior và giới hạn dữ liệu mô phỏng.
+- Công thức trong Word dùng đối tượng phương trình, có thể chỉnh sửa.

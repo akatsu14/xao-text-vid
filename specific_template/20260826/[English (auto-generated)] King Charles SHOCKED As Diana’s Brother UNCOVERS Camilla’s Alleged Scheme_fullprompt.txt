@@ -1,0 +1,674 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: 20260826/[English (auto-generated)] King Charles SHOCKED As Diana’s Brother UNCOVERS Camilla’s Alleged Scheme.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience:
+- Primary angle / thesis:
+- Must-include points (3–8 bullets max):
+- Keywords / entities to emphasize:
+- Things to avoid / do-not-claim:
+- Output constraints (optional):
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+So, Earl Spencer walks into Westminster
+carrying a leather portfolio that
+apparently contains decades of sealed
+family correspondence,
+>> [music]
+>> and within hours the entire narrative
+around the royal succession has
+completely flipped. That's where this
+story gets genuinely strange because the
+timeline of how these documents
+surfaced, how they got into
+parliamentary hands,
+>> [music]
+>> and who actually wrote the marginal
+notes on them doesn't line up with
+anything the palace has officially
+acknowledged. King Charles is now facing
+what might be the most serious
+institutional crisis of his reign, and
+[music] the weirdest part is that the
+documents allegedly corroborating a plot
+against Prince William were never
+supposed to leave a vault in
+Northamptonshire. So, let's actually
+walk through what happened because when
+you look at what was said versus what
+the record show, the contradictions
+start piling up fast. Before we get into
+the details, if you enjoyed breaking
+down royal family drama with actual
+timelines and receipts, hit subscribe to
+Crown Watch so you don't miss the next
+update. It helps the channel, and
+honestly the story is moving so fast
+that missing one development means
+missing the whole thread. So, the first
+thing that jumps out
+>> [music]
+>> is that Earl Spencer, Diana's younger
+brother, does not typically hand over
+private family archives to state bodies
+without a formal legal summons.
+>> [music]
+>> That's not speculation, that's just how
+the Spencer family has operated for
+centuries. The Althorp estate archive is
+>> [music]
+>> one of the most carefully guarded
+private collections in the country. So,
+when he walked into that parliamentary
+inquiry with a worn brown leather
+portfolio tucked under his arm, the
+immediate question was not what was in
+the documents, but why now and why
+voluntarily. The answer that emerged is
+actually more interesting than the
+documents themselves. Detectives
+executing a separate warrant on a former
+estate secretary's London flat
+>> [music]
+>> had uncovered photographic copies of the
+Althorp letters hidden inside a desk
+drawer. The police seized those copies
+and notified Spencer,
+>> [music]
+>> which prompted him to bring the original
+master documents directly to Westminster
+to ensure their authenticity was not
+disputed. That detail matters because it
+means the leak did not originate from
+Spencer himself. Someone inside the
+administrative network had already
+copied those letters years ago and they
+were sitting in a drawer waiting to be
+found. That raises a whole separate
+question about who wanted them
+discovered and who was panicking enough
+to leave physical evidence in a flat
+that could be raided. The portfolio
+itself contained typewritten letters and
+the state memos dated between 1995 and
+2003. Those documents had supposedly
+remained locked inside the Althorp vault
+for over two [music] decades and yet the
+certified delivery receipt Spencer
+showed to the committee clerk was dated
+just two days before his appearance. The
+Metropolitan Police Evidence Unit stamp
+was on it. So, the chain of custody goes
+like this. Original documents in Althorp
+vault, photographic copies made at some
+unknown point, copies hidden in a former
+employee's flat, police find copies
+during a raid, police notify Spencer,
+Spencer brings originals to Westminster.
+That timeline does not suggest uh
+spontaneous development. It suggests
+someone had been sitting on those copies
+for years and the raid simply forced the
+issue into the [music] open. Now, here's
+where it gets even more tangled. The
+memos outlined administrative strategies
+developed by senior court officials to
+manage public perception during periods
+of intense royal friction. That phrase
+manage public perception is doing a lot
+of heavy lifting. According to the
+documents, there were formal proposals
+to reduce Prince William's operational
+budget by 20% over three consecutive
+years starting around 2011. The stated
+justification was administrative
+restructuring. The hidden objective,
+according to a handwritten margin notes,
+>> [music]
+>> was to restrict the prince's public
+engagements and limit his growing
+influence across national youth
+charities. When you actually look at
+what was implemented between 2011 and
+2014, several key aides working within
+William's office experienced sudden
+budget freezes and delayed [music]
+project approvals. Other departments
+maintained their funding without
+interruption. That's not a general
+austerity measure. That's targeted
+resource restriction dressed up as
+fiscal responsibility. What makes this
+more than just a historical curiosity is
+the signature block on the policy
+directive. The co-signatures included
+the Queen's private secretary and a
+senior legal adviser who officially
+worked under the direct jurisdiction
+>> [music]
+>> of the sovereign's private office.
+Bureaucratic lines of authority within
+the palace normally prevented
+cross-departmental interference of this
+nature. But when investigators
+cross-referenced the signature with
+personnel transfer logs recovered from
+the police raid, [music]
+they found that the legal adviser had
+been moonlighting as an unofficial
+liaison between Clarence House and
+external media consultants. That's the
+connection
+>> [music]
+>> that turns us from internal palace
+politics into something much larger. The
+policy to sideline Prince William was
+not a localized office dispute. [music]
+It was a coordinated administrative
+strategy backed by senior figures across
+multiple royal households. And then
+there's the meeting. The documents
+reference a closed-door meeting held at
+a private country club in Berkshire on
+November 12th, 2012. [music]
+The meeting list included two prominent
+national newspaper editors alongside the
+royal administrative director. The hotel
+reservation receipts and phone billing
+records confirmed that the tab for the
+private dining room was paid directly
+using an expense account linked to the
+Clarence House discretionary fund. So,
+you have palace funds being used to host
+national newspaper editors at a private
+club, at and the subject of that
+meeting, according to the documents, was
+the future of the Crown. That's not a
+casual lunch. That's an operational
+meeting between palace officials and
+media executives [music]
+funded through a discretionary account
+at a time when William's budget was
+being systematically reduced. The
+pattern is hard to ignore. Now, the
+question everyone keeps asking [music]
+is how King Charles could have been
+unaware of any of this. The private
+office of the sovereign is [music]
+responsible for reviewing high-level
+administrative briefs before they reach
+the monarch's desk. Day-to-day
+operations are managed by the private
+secretary and senior advisers, but the
+memos outlining strategies to restrict
+William's budgets between 2010 and 2014
+never crossed the King's desk during
+that period. They were intercepted and
+filed away by a lower-level
+administrative committee before reaching
+executive oversight. That's a massive
+blind spot at the center of the royal
+administration. And the explanation for
+how the documents leaked without leaving
+an electronic audit trail is honestly
+the most concerning part. The files were
+accessed through an external terminal
+registered to a defunct advisory board
+that was dissolved in 2015. Someone used
+an old, unmonitored administrative
+backdoor to siphon copies of the files
+directly to external recipients [music]
+years prior
+keeping the active palace servers clean
+of any illicit data transfers. That's
+not a mistake. That's infrastructure
+built for concealment. The recent memo
+that landed on Charles's desk just 3
+weeks ago adds another layer. It
+outlined a contingency plan to transfer
+certain royal estate properties directly
+to estate-managed trust if the ongoing
+parliamentary inquiry resulted in
+criminal indictments against senior
+household staff. The distribution list
+included three active cabinet ministers
+alongside the personal secretary's
+private cipher. [music]
+So, government ministers were receiving
+operational updates on royal succession
+planning
+>> [music]
+>> behind closed doors and the sovereign
+was not in the loop. When Charles
+instructed Sir Edward to summon the
+cabinet secretary to Windsor Castle
+immediately, the response was that the
+cabinet secretary was already in London
+and could be at the castle gates within
+45 minutes. That detail suggests the
+government was prepared for the summons
+before it [music] was issued. The whole
+thing feels less like a crisis response
+>> [music]
+>> and more like a choreographed sequence.
+Meanwhile, William's response was
+completely different in tone and
+strategy. While Buckingham Palace
+remained silent and Clarence House
+isolated itself, [music] William's legal
+team filed an emergency injunction
+through the High Court of Justice that
+froze all remaining discretionary assets
+and property transfers linked to the
+administrative network named in
+Spencer's archive. The injunction
+bypassed traditional palace arbitration
+channels entirely. By filing directly
+through the civil courts, William's team
+short-circuited the attempts by rogue
+officials to quietly reassign estate
+properties before the parliamentary
+inquiry reached its final conclusions.
+[music]
+The decryption keys that allowed
+investigators to access the secondary
+offshore accounts came from the
+principal accountant who had confessed
+at Scotland Yard during his second round
+of police interviews. Those keys gave
+investigators direct access to the
+digital ledger tracking every
+unauthorized transfer executed by the
+administrative faction. The decrypted
+[music]
+data revealed a direct financial link
+between the succession plot memos and
+the hidden offshore accounts. The funds
+used to finance the negative media
+campaigns against William's office had
+been drawn straight from estate
+maintenance reserves. [music] The
+financial embezzlement and the political
+smear campaign were funded by the exact
+same source.
+>> [music]
+>> That's the detail that really makes this
+feel less like family drama and more
+like institutional corruption. The money
+that was supposed to maintain royal
+estates was being funneled into offshore
+accounts and then used to fund media
+campaigns designed to undermine the
+future king. And the same administrative
+network that managed the money was also
+managing the narrative. When William's
+team identified 12 active staff members
+still employed within the Clarence House
+administrative wing after the initial
+police raids, the personnel renewal
+stamps showed the signatures belonged to
+junior undersecretary who had been
+quietly reassigned to a regional office
+in Scotland. Two days after the scandal
+broke, [music] the network was not dead,
+it was repositioning its key players
+away from London to evade the expanding
+scope of the judicial investigation.
+William's response was to expand the
+injunction to cover every regional
+administrative office across the United
+Kingdom. No safe harbors. That's a
+calculated legal countermeasure, not a
+reactive statement. And then there's the
+archive itself. Earl Spencer went back
+to the Althorp vault and pulled out
+notebooks kept by the ninth Earl Spencer
+with handwritten labels in black ink
+from 1984. The notebooks contain notes
+dated October 12th, 1998
+detailing secret meetings [music]
+between senior royal advisers and
+newspaper executives regarding public
+perception strategies for the young
+princes. The notes recorded specific
+dates, names of participating officials,
+and explicit instructions on how to
+handle press inquiries concerning estate
+funding divisions. [music]
+A small folded index card tucked into
+the back cover of one notebook was
+written in Spencer's late father's
+handwriting. It stated that these
+specific notes had been removed from a
+government filing cabinet in Whitehall
+during the autumn of 1999 to protect
+family members from targeted political
+retaliation. So, the historical
+documents had been preserved as an
+insurance policy against future
+institutional attacks. That's [music]
+not a conspiracy theory. That's a family
+archive documenting exactly what was
+happening. The final page of the 1998
+notebook had a clean horizontal tear
+across the center. The bottom half of
+the sheet was completely missing.
+[music]
+Spencer checked the adjacent pages for
+carbon transfer marks or indentation
+impressions left by a pen nib. He
+pressed a soft lead pencil against the
+blank sheet of paper and rubbed it
+gently across the wooden table surface
+beneath where the page had rested. Faint
+outlines of letters began to emerge
+through the graphite shading. The word
+visible on the impression was a surname
+belonging to a former Lord Chancellor
+who had served during the late 90s.
+>> [music]
+>> So, the missing half of that page likely
+contained a name or instruction that
+someone
+>> [music]
+>> went to great lengths to remove from the
+historical record. The fact that Spencer
+could recover part of it through simple
+graphite rubbing suggests the removal
+was hasty, not careful. Outside
+Buckingham Palace, the public response
+has escalated. 300 protesters pushed
+against police barriers. Sirens wailed.
+A protester hoisted a cardboard sign
+reading absolute accountability now.
+Three separate anti-monarchy groups
+called for an emergency constitutional
+convention in Trafalgar Square. The
+Labour and Liberal Democrat parties held
+an emergency meeting in Whitehall to
+discuss whether to introduce a
+parliamentary motion for a comprehensive
+review of the Sovereign Grant Act.
+Lawmakers who previously defended royal
+exemptions were now facing intense
+pressure from constituents to vote in
+favor of strict state oversight. [music]
+The political consensus that protected
+royal funding mechanisms for decades has
+completely fractured. And through all of
+this, Buckingham Palace communications
+officers maintained absolute silence for
+72 hours, refusing to issue even a
+standard holding statement. An internal
+palace memo leaked to the evening news
+revealed that senior press aides had
+been locked out of their digital
+communication channels
+>> [music]
+>> by order of the Lord Chamberlain. The
+palace administrative apparatus was
+paralyzed by infighting with different
+[music] factions offering contradictory
+advice. The king's personal medical
+advisers
+>> [music]
+>> recommended against a live television
+broadcast due to the unpredictable
+nature of the ongoing police
+investigations
+>> [music]
+>> and the risk of contradicting active
+court proceedings. The crown was legally
+gagged by its own legal counselors to
+prevent prejudicing the pending criminal
+trials of former staff members. That
+silence was interpreted by the public as
+a sign of weakness and institutional
+guilt. Without a reassuring voice from
+the throne, the vacuum was filled by
+speculative media reports, leaked
+government memos, and aggressive
+commentary from political opponents. The
+division between the monarchy and the
+public widened with every passing hour.
+And then there's the missing ledger
+entry. A senior parliamentary researcher
+discovered that a financial record in
+the Duchy of Cornwall dating back to
+2008
+recorded a multi-million pound property
+transaction involving an unregistered
+offshore holding company. No required
+parliamentary disclosure signatures. The
+researcher flagged the anomaly and
+forwarded the digital file directly to
+the lead investigator heading the
+financial fraud task force at Scotland
+Yard. The investigation was no longer
+confined to Clarence House
+administrative files. It was digging
+into the ancient revenue streams of the
+royal estates themselves. [music]
+Every corner of the financial
+architecture was being exposed to
+judicial scrutiny. So, when you step
+back and look at the whole picture, the
+contradictions [music] are everywhere.
+The palace claimed for years that budget
+reductions were standard austerity
+measures,
+>> [music]
+>> but the internal memos showed targeted
+cuts against William's office, while
+other departments maintain full funding.
+The palace
+claimed that no one in senior leadership
+knew about the administrative
+strategies, but the signature blocks
+show the Queen's private secretary and a
+senior legal adviser were directly
+involved. The palace claimed that the
+leaks were a recent breach, but the
+external terminal used to access the
+files belong to a defunct advisory board
+dissolved in 2015. The government
+claimed to be cooperating with the
+sovereign, but cabinet ministers were
+receiving operational updates on
+succession planning behind the King's
+back.
+>> [music]
+>> And the Spencer family archive, which
+supposedly had no connection to current
+events, turned out to contain a missing
+page that someone physically tore out of
+a notebook, leaving behind an
+indentation that revealed the surname of
+a former Lord Chancellor. The deeper
+implication is that this was never just
+about Camilla or a personal feud. The
+documents suggest an institutional
+playbook refined over 30 years using
+administrative pressure and media
+influence to manage the succession. The
+financial corruption and the narrative
+manipulation were funded from the same
+source. The people who were supposed to
+be managing royal estates were instead
+managing public opinion against the
+future king. And the only reason any of
+this came to light is that someone got
+sloppy, left photographic copies in a
+flat, and a police raid on an unrelated
+warrant happened to find them.
+>> [music]
+>> That's not a master plan coming
+together. That's a cover-up falling
+apart. The crown is now caught between
+the demands of public accountability and
+the weight of centuries-old tradition.
+[music]
+William's legal team is moving through
+the courts with precision. Charles is
+summoning cabinet secretaries to Windsor
+Castle. Buckingham Palace is silent.
+Clarence House is isolated. The
+parliamentary inquiry is expanding.
+>> [music]
+>> And the public is outside the gates with
+signs demanding answers. The institution
+that survived wars, abdications, and
+scandals is now facing something it has
+never really had to confront before, a
+complete loss of control over its own
+internal narrative. The documents are
+out, the archives are open, the receipts
+are on the table, and the one thing
+everyone keeps asking is the simplest
+question of all, who authorized the
+transfer of Duchy funds into an external
+account [music] without the required
+signatures? The answer to that question
+might be the one that finally forces the
+monarchy to choose between reform and
+collapse. But, there's one more layer
+that hasn't been fully explored yet, and
+it involves the timing of Spencer's
+appearance itself. Parliamentary records
+show that the committee had originally
+scheduled a routine procedural hearing
+for that morning, something completely
+unrelated to royal finances. Spencer was
+not on the witness list, his name did
+not appear on any public agenda, and yet
+when he arrived at the security
+checkpoint, his parliamentary pass had
+already been pre-authorized through a
+back channel request filed by an unnamed
+clerk in the records office. That clerk
+had apparently processed the
+authorization at 6:40 in the morning,
+hours before the building officially
+opened. The security log shows the pass
+was printed and waiting at the front
+desk under a code that had not been used
+since 2019. So, someone inside
+Westminster knew Spencer was coming
+before Spencer [music] himself had even
+confirmed his travel plans. That means
+the decision to bring the documents
+forward was not entirely his own. The
+leak, the raid, the [music]
+pre-authorized pass, the timing of the
+committee hearing, it all fits together
+like a sequence that had been quietly
+assembled in advance. The only question
+is whether Spencer was the one pulling
+the thread or whether someone else was
+pulling him. And that brings us back to
+the former estate secretary whose London
+flat was raided. She had not worked at
+Althorp since 2016. Her employment
+record show she left under a
+confidentiality agreement that included
+a clause preventing her from retaining
+any physical copies [music]
+of estate correspondence, but the
+photographic copies found in her desk
+drawer were not recent prints. Forensic
+analysis dated the photographic paper to
+2014, [music]
+meaning she had been sitting on those
+images for over a decade. Neighbors
+described her as reclusive, rarely
+leaving the flat, and consistently
+paying her rent through a third-party
+account registered to a solicitor in
+Geneva. That solicitor's name appears
+again in the Morgan notes of the 1998
+notebooks, [music]
+not as a participant in the meetings,
+but as a witness to a separate financial
+arrangement involving a trust fund
+established for the maintenance of
+Spencer family archives. So, the same
+legal network that helped preserve the
+archive was also connected to the person
+who [music] leaked its contents. The
+entire chain of custody is contaminated
+by overlapping relationships that make
+it nearly impossible to separate family
+loyalty from institutional manipulation.
+The palace has not commented on any of
+these new revelations, and given the
+legal constraints, it probably won't.
+But, the silence is no longer being
+interpreted as strategic caution. It is
+being read as structural paralysis.
+Every day without an official statement
+allows another leaked document, another
+forensic finding, another parliamentary
+leak to define the story. The monarchy
+has lost the initiative, and the people
+who are now shaping the narrative are
+not the ones sitting in the palace
+briefing room. They are the
+investigators, the archivists, the
+researchers,
+>> [music]
+>> and the family members who decided that
+the only way to protect the institution
+was to expose the machinery that had
+been quietly corrupting it from within.
+The question is no longer whether the
+palace can manage the story. The
+question is whether the palace can
+survive the story that is already out.
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.

@@ -1,0 +1,113 @@
+[MANDATORY ROLE: ACT AS A SENIOR INVESTIGATIVE JOURNALIST.]
+
+Your mission is to execute a COMPREHENSIVE, DEEPLY ANALYTICAL, AND DRAMATIC news article based PRIMARILY on the factual claims and events detailed in 'RAW SOURCE DATA'. The output must be a single, continuous, high-quality feature article suitable for professional voice-over narration.
+
+1. OUTPUT REQUIREMENTS (ULTRA-STRICT):
+  PRIMARY GOAL: LENGTH ABSOLUTE PRIORITY: 3500 - 3800 words. The text must maximize dramatic detail and context until this length is reached.
+  Style: Professional Investigative Journalism, authoritative, cinematic in tone, and rigorous in logic.
+  PROHIBITION: STRICTLY FORBIDDEN to use the words 'Introduction', 'Part I', 'Part II', 'Section', '', 'Conclusion', or any similar numbered segment indicators.
+  Structure: Use the Main Headline, followed by the opening narrative hook. The body of the article must be divided only by strong SUB-HEADINGS to signal topic shifts.
+
+2. HYPER-EXPANSION PROTOCOL (CONTENT DEVELOPMENT — ENFORCING LENGTH AND AUTHENTICITY):
+  MANDATORY EXPANSION: Convert ALL raw data into RICH, EXTENDED, and ANALYTICAL prose. To reach the required length, you MUST dedicate substantial paragraph space to the following four elements for EVERY major fact/event:
+    a) CONTEXTUAL DEEP DIVE & ANALOGIES (REQUIRED): Provide extended historical, institutional, and cultural background using VERIFIED EXTERNAL KNOWLEDGE (e.g., the constitutional role of the monarch, historical precedents for divorce/abdication).
+    b) PSYCHOLOGICAL & EMOTIONAL DEVELOPMENT (REQUIRED): Develop the internal drama and motivations of the main figures (Charles, Anne, Camilla, William) in rich, extensive detail, supported by established public opinion and psychological profiles.
+    c) INFERRED EXPERTISE & PUBLIC REACTION (Logical Conjecture): Fill necessary narrative gaps using logical conjecture and quoting general expert consensus (e.g., constitutional experts, royal historians) to sustain narrative flow and length.
+    d) FUTURE IMPLICATIONS (EXTENDED): Dedicate substantial narrative space to analyzing the long-term, dramatic consequences of these actions on the stability and succession of the British Monarchy.
+
+3. STRUCTURE & FLOW:
+  Headline: All Caps, Intriguing, maximum 16 words.
+  Opening Hook: ULTRA-STRICT (MANDATORY FOR YOUTUBE RETENTION)
+The opening hook MUST:
+- Begin immediately with the CORE EVENT, CONFLICT, or REVELATION at the heart of the story.
+- Clearly imply WHAT happened or WHAT changed before any emotional or historical framing.
+- Establish WHY this moment matters within the first 2–3 sentences.
+- Create a sharp information gap that forces continued listening.
+- Be written explicitly for YouTube voice-over retention (spoken length: 10–15 seconds).
+- Avoid vague atmosphere, slow scene-setting, or delayed context.
+- Avoid general background, history, or institutional explanation.
+
+MANDATORY STRUCTURE:
+1) A direct, high-impact statement naming the central event or rupture.
+2) A sentence exposing tension, contradiction, or hidden consequence.
+3) A compelling question or promise of revelation.
+
+FAILURE TO COMPLY = ARTICLE INVALID.
+  Body: The text must flow continuously, using descriptive paragraphs and strong sub-headings for structure.
+
+3B. ARTICLE-SPECIFIC INSTRUCTIONS (ONLY FOR THIS ARTICLE):
+<<<BEGIN_SPECIFIC_INSTRUCTIONS>>>
+ Article: fansion/27-02-2026/30 pieces of Royal jewellery gifted to Kate Middleton.txt
+ Điền yêu cầu cụ thể cho bài này (KHÔNG dán raw source vào đây)
+
+- Target audience: Luxury fashion enthusiasts, royal watchers, jewelry collectors, high-end style followers (25–55), đặc biệt độc giả quan tâm đến British Royal Family, couture heritage và high jewelry analysis.
+- Primary angle / thesis: An in-depth fashion and heritage analysis of Catherine, Princess of Wales’ most significant royal jewelry pieces — exploring their historical provenance, gemstone quality, craftsmanship, symbolic meaning, market valuation, and how she recontextualizes legacy jewels for modern monarchy branding.
+- Must-include points (3–8 bullets max):
++ Fan reactions from royal style communities (social media & fashion forums sentiment summary)
++ Commentary from fashion analysts on how Kate modernizes archival jewels
+- Keywords / entities to emphasize: Catherine, Princess of Wales, Prince William, Diana, Princess of Wales, Queen Elizabeth II, King Charles III, Cartier, Boucheron, Asprey, Cartier Halo Tiara, Lover’s Knot Tiara, Nizam of Hyderabad Necklace, British royal jewelry valuation, Royal heirloom symbolism.
+- Things to avoid / do-not-claim:
++ Do not speculate on inheritance disputes or internal royal conflicts
++ Do not fabricate confirmed monetary figures if not publicly sourced
++ Avoid conspiracy narratives regarding Diana’s jewels
++ Avoid framing loans as permanent ownership
++ No defamatory or unverified claims about any royal member
+- Output constraints (optional):
++ Maximum 2000 words
++ Structured in clear sections with subheadings
++ Include 3–5 short fan reaction quotes (clearly labeled as community sentiment, not verified individuals)
++ Include 2–3 professional fashion analyst commentary paragraphs
++ Tone: authoritative, analytical, luxury editorial (Vogue / Financial Times HTSI style)
++ Maintain factual accuracy and historical context
++ No tabloid-style sensationalism
+
+<<<END_SPECIFIC_INSTRUCTIONS>>>
+
+4. RAW SOURCE DATA:
+--- BEGIN RAW SOURCE DATA ---
+Since meeting Prince William back at university and officially joining the royal family in 2010, Kate Middleton has been gifted and loaned some of the world's most incredible pieces of jewelry, whether it's her birthday or not. To show our love for the Princess of Wales incredible style, we have analyzed every piece of jewelry that she's been gifted or loaned from another royal family member.
+After comprehensive desk research, we were able to identify 30 pieces of jewelry ranging from 600 to over 66 million. In total, the value of the jewelry gifted and loan to Kate Middleton adds to up to staggering £83,16,368.  From heartfelt jewels from Prince William to sensational pieces from Queen Elizabeth's personal collection, the Duchess has been spoiled with royal jewels over the years.
+Kate Middleton's engagement ring, which was formerly Princess Diana's, features a 12 karat salon sapphire originating from Sri Lanka. Like with most precious gemstones, the quality and value of a sapphire is graded by its color and hue, which can range from a light pale blue to a dark royal blue.
+The sapphire is a deep royal blue of AA quality, making it amongst the most valuable of its kind. Globally, the sale of blue sapphires increased by around 300% at the time and even now.  The sparkling suite consists of a diamond and sapphire necklace, a matching pair of earrings, a ring, and a bracelet.
+All of which were a wedding gift by the crown prince of Saudi Arabia. This is an incredible jewelry suite, especially the necklace, which is a real showstopper. This sapphire in the necklace alone is around 30 to 35 carats, which is almost treble the size of the stone in her engagement ring.  The dazzling diamond and pearl tiara was originally designed for Queen Mary back in 1913, which passed on for her granddaughter.
+Queen Elizabeth too reportedly presented it to Diana for her royal wedding day in 1981, although she respectfully declined and opted to wear her father's Spencer's family tiara instead. Despite this, the lover's knot became one of her favorite pieces. Although it's claimed to have been so heavy that it hurt her head, the fact that it's so heavy it hurt Princess Diana's head indicates that this is a valuable tiara embellished with the finest quality diamonds and pearls.
+This beautiful threest strand pearl bracelet was created to support the charity Birthright which Diana supported. It was designed by Nigel Mil in 1988 featuring three rows of cultured pearls with diamond and pearl spacers with even the clasp having intricate detailing.
+Like many of Diana's jewelry, this piece was made using only the finest quality stones and pearls, which makes it so high in value.  These sensational drop pearl and diamond earrings were a wedding gift from the London jeweler Collingwood when Princess Diana married the then Prince Charles. They have been worn by Princess Diana on numerous occasions, both casual and formal.
+Kate Middleton inherited the earrings, wearing them to honor her late mother-in-law at Queen Elizabeth I's annual garden party at Buckingham Palace on 15th May 20119. While pearls can vary in price, the ones featured in these earrings are of the highest quality as they are South Pearls. Earrings like this would cost between £30,000 to £35,000 today.
+Kate Middleton debuted Diana's stunning diamond and South Sea pearl earrings at the Baptist in 2019 in London. Diana frequently wore these earrings both with and without the detachable pearls. The earrings feature various cuts of diamonds, including a cluster of marquees cut diamonds in the center and a suspended South Sea pearl.
+We would value them at around £65,000.  To pay tribute to the Olympic Games in 2021, Kate stepped out wearing some stunning hoops of her own. Designed by Cartier, the 18 karat chain features paved diamonds as well as three intertwined circles of pink, yellow, and white gold. The necklace is thought to have been a gift for her 30th birthday from Prince William, but neither Cartier or her aids would be drawn into discussing who bought it.
+The earrings and necklace have an estimated combined value of 121,000161 USD on today's market. In celebration of their third wedding anniversary back in 2014, Prince William gifted Kate the Balon blue decardier watch complete with sapphire detailing a time piece quite similar to both Princess Diana's and his own. The sapphire details perfectly complements the stone in Kate's engagement ring, making the pair a match made in heaven.
+While Kate's engagement ring is no doubt her most iconic piece of jewelry, it wasn't the first ring she received from Prince William. When they were dating back at university, the love struck Prince gifted Kate with a very meaningful piece of jewelry that actually reveals a lot about their relationship and their personalities.
+The couple started dating in 2001 while at the University of Andrews. During that time, William gave Kate a gold ring with pearls and garnets which she wore on her middle finger set on a rose gold Victorian band. The ring features two garnets which are Kate's birthstone for January and pearls to represent William's birthstone for June.
+To celebrate their first official Christmas together in 2011, Prince William gifted his new wife a pair of green amethyst earrings designed by one of Kate's favorite designers, Kiki Mcdana, the stunning pair of five cord pair cut amethyst's hand under a group of 40.1 opts diamonds set an 18 cord gold  rumored to have been a gift from Prince William.
+In celebration of Princess Charlotte's birth, Kate received yet another pair of custom Kiki Mcdana earrings using green turmoline and amethyst stones. These earrings have only been spotted on the princess a handful of times, including fittingly on Stei Patrick's Day 2019.  Loan to members of the royal family by the Irish guards in celebration of Stei Patrick's Day.
+Kate first wore this simple yet stunning brooch in 2011 and is reported to have exclusively worn it since then. It is believed to have been designed by Cartier made from 18 karat yellow gold and featuring a tiny single emerald at the center of the textured leaves. Just two weeks after her 38th birthday, during a visit to the Eli and Crow Children's Center in Cardiff, Kate Middleton stepped out wearing a personalized gold necklace that is suspected to have been a birthday gift from Prince William.
+The necklace was designed by British jeweler Daniela Draper and is retailed as the gold midnight moon necklace. The personalized piece features the initials G, C, and L for her three children, Prince George, Princess Charlotte, and Prince Lewis.  The traditional gold wedding band that sits neatly beside Kate's engagement ring was made from the royal family's collection of Welch yellow gold and is similar to the same worn by both the Queen Mother and Queen Elizabeth, too.
+Prince William presented the mother of his children a diamond pave set eternity band following the birth of their son Prince George. The ring now sits beside her gold wedding band and diamond encrusted engagement ring.  Kate has often worn Queen Mary's diamond chain link chalker as a bracelet, including paired with the lotus flower tiara to meet Chinese President Xi Jinping at an October 2015 state dinner.
+The piece was also worn by the Queen Mother in her 75th birthday official portraits and was loaned to Kate by Queen Elizabeth, too. Kate wore the sensational bracelet again at a black tide dinner in Paris in 2017.  This is by far one of the most precious pieces of jewelry from the British royal family.
+The necklace, which was made by Cartier in 1935, is extremely intricate, featuring over 50 diamonds nestled in an abstract floral design with an array of enormous papset stones and a detachable double drop pendant. The necklace features 13 emerald and pear-shaped diamonds linked to a chain of a further 38 brilliant cut stones.
+A piece like this is truly one of a kind. The necklace was a wedding gift to Princess Elizabeth from the Nisam of Hyereabad, who was known at the time as one of the wealthiest people in the world. It is believed that the Nisam of Hyereabad requested Cartier allow Queen Elizabeth too to choose anything she fancied from their impressive collection of jewels.
+The late queen opted for a tiara with three detachable flower bres and what we now know as the nam of hideerabad necklace.  The dazzling tiara Kate Middleton chose to wear on April 29th, 2011 has become one of the most iconic royal wedding tiaras of all time. known as the Cardier Halo tiara.
+It's made up of 739 brilliant cut diamond and 149 baguette diamonds and was lent to Kate by Queen Elizabeth too. Interestingly, Kate was not the first royal to wear it. It was often considered a good beginner tiara of sorts, perfect for a younger family member with a smaller than average size that wouldn't induce headaches.
+Princess Margaret was the first to borrow the Cardier Halo tiara and it quickly became one of her favorite pieces when she was young. The tiara was also lent to Princess Anne, who last wore the piece in public in the 1970s. Queen Elizabeth 2 only wore the tiara once shortly after she received it.
+And before she became queen consort, she never wore the tiara to a public event as she preferred to wear larger or grander pieces. The Cartier Halo tiara dates back to 1936. Originally a gift from King George Vi to Queen Elizabeth, he asked Cartier to create something magnificent for his wife using diamonds and platinum he had purchased.
+In 1939 on their state visit to Canada, King George Vi gave Queen Elizabeth the Queen Mother a stunning diamond brooch to honor their trip. The Canadian maple leaf brooch was made by Asprey and features diamonds set in platinum, formed in the shape of the sugar maple tree leaf, the national emblem of Canada.
+It was inherited by Queen Elizabeth 2, who normally wore it during Canada Day celebrations. She notably wore it in July 2021 for a video conference with the Canadian Prime Minister. Not only that, but the late monarch was known to loan the BR to the Princess of Wales, including for her royal tour to Canada with Prince William in 2011.
+Another  gift from across the pond. This diamond and platinum brooch was presented to Queen Elizabeth 2 by Lady Alam, wife of the mayor of Auckland, on behalf of the women of Auckland in 1953. The silver tree fern it represents is one of the most recognizable symbols of New Zealand.
+The late monarch wore the brooch for visits to New Zealand. And in April 2014, she loaned it to Kate to wear during her family visit to New Zealand.  Kate first wore the royal family order br to the state banquet at Buckingham Palace in October 2018. A spokesman for Kensington Palace confirmed to Vanity Fair that Queen Elizabeth 2 awarded Kate, who was then the Duchess of Cambridge, with the order in 2017.
+The diamond encrusted Bruge is complete with a small painting of the monarch and was the greatest honor the late monarch could give to a female member of the royal family. And again, like Kate's wedding band, this br isn't as materially valuable as some of the other pieces she's worn. However, the history and legacy of the piece is priceless.
+When Kate Middleton attended Queen Elizabeth E's annual trooping the color parade in celebration of her birthday on June 8th, 2019, she opted to wear a pair of earrings borrowed from the monarch herself. Kate sported Queen Elizabeth eyes pearl drop earrings for the occasion which she previously wore while attending a church service during her visit to Balmoral Castle in Scotland in August 2018.
+The earrings crafted from a shell containing seven pearls which was a wedding gift to the former queen from the ruler of Bahrain in 1947.    Along with her Bahrain pearl drop earrings, Kate wore a piece passed down by Queen Elizabeth 2, a four strand pearl chalker to Prince Philip's funeral in April 2021.
+As reported by People, it was commissioned to be created using a collection of cultured pearls gifted to the late monarch by the Japanese government. The piece was part of her regular jewelry collection in the 1980s and 92 seconds and was two once worn by the late Princess Diana to a state banquet in the Netherlands. During her royal tour of Scotland, Kate visited a drive-in movie showing of Disney's Kruella starring Emma Stone.
+For her appearance, Kate loaned a pair of earrings from Queen Elizabeth Eyes Dubai Sapphire Demi Perur. It was the first time the princess had ever worn a piece from this particular collection. This ruby and diamond floral bandeau necklace was bought from Bucheron in 1907 by Mrs. Ronald Grareville who willed her jewelry to the Queen Mother on her death in 1 1942.
+Given to Queen Elizabeth too by her parents as a wedding gift, the long necklace was shortened by the monarch. Yet its size still made it a difficult piece to wear and by the 1980s it was put away. In July 2017, it reappeared around Kate's neck at the Spanish state visit banquet.  Kate is often seen wearing a charm bracelet that was gifted to her by Queen Camila when she wed Prince William.
+It features a gold piece complete with a C for each of their names alongside a coronet and a crown.  Sapphires are a royal favorite and feature in a number of crown jewels. including the Queen Mother's fringed earrings, which Kate dawned at the Women in Hedge Funds dinner in 2015.  Kate has stepped out in the Lotus Flower Tiara on a couple occasions, each at an official event at Buckingham Palace.
+A wedding gift to the Queen Mother in 1923. It was reworked from a necklace to Tiara and then passed down to Princess Margaret before she passed. After her wedding to Prince William, King Charles presented Kate Middleton with a stunning set of matching yellow and white gold jewelry, which included a ring, a bracelet, and a pair of elegant drop earrings.
+The princess has since worn the exquisite pieces on numerous occasions.  Kate's white and yellow gold diamond bracelet was a gift from the British royal family after she married Prince William. The piece is part of a set that includes matching earrings, but the bracelet alone is valued at more than $275,000. The precious piece of jewelry is believed to be a gift from her father-in-law, King Charles.
+--- END RAW SOURCE DATA ---
+
+5. ANTI-FAILURE PROTOCOL & CITATION (THE CORE FIX - ANALYTIC 
+ CRITICAL CITATION RULE (REVISED): The use of inline citation markers in parentheses (e.g., (SOURCE CLAIM)) is STRICTLY FORBIDDEN in the final output.
+ SOURCE INTEGRATION MANDATE: All specific claims of internal palace events or direct quotes derived from RAW SOURCE DATA must be SMOOTHLY INTEGRATED into the narrative using professional investigative terminology (e.g., "sources confirmed," "insider reports indicated," "a witness revealed"). This replaces the need for any formal inline marker, ensuring narrative integrity for voice-over.
+ ANALYTIC EXEMPTION & FACTUAL RIGOR: All Analytic Content (Contextual Deep Dive, Psychological Development, Future Implications, and General Historical Background) is explicitly authorized and MUST NOT carry any citation marker, but this content is now subject to the CRITICAL ACCURACY CHECK
+COMMENCE ARTICLE EXECUTION IMMEDIATELY.
