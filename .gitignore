@@ -14,7 +14,6 @@ __pycache__/
 # Local editor and operating system files
 .DS_Store
 
-
 # Bundled game installation and archives
 QSanguosha-LangKhach-QuocChien-2.3.41.2/
 *.zip
